@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2052444782996422887",
+    "created_at": "2026-05-07T17:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052444782996422887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1523663970523303936",
+          "start": 3,
+          "username": "mciz777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052444782996422887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1443
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052304915494789460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mciz777: 五月病というか🈂️、\n\n1月　鬱鬱鬱鬱鬱\n2月　鬱鬱鬱鬱鬱\n3月　鬱鬱鬱鬱鬱\n4月　鬱鬱鬱鬱鬱鬱鬱鬱鬱\n5月　鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2052444782996422887",
+        "created_at": "2026-05-07T17:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052444782996422887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1523663970523303936",
+              "start": 3,
+              "username": "mciz777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052444782996422887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052304915494789460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mciz777: 五月病というか🈂️、\n\n1月　鬱鬱鬱鬱鬱\n2月　鬱鬱鬱鬱鬱\n3月　鬱鬱鬱鬱鬱\n4月　鬱鬱鬱鬱鬱鬱鬱鬱鬱\n5月　鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523663970523303936",
+        "conversation_id": "2052304915494789460",
+        "created_at": "2026-05-07T08:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052304915494789460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052304915494789460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 922234,
+          "like_count": 27512,
+          "quote_count": 98,
+          "reply_count": 18,
+          "retweet_count": 1443
+        },
+        "reply_settings": "everyone",
+        "text": "五月病というか🈂️、\n\n1月　鬱鬱鬱鬱鬱\n2月　鬱鬱鬱鬱鬱\n3月　鬱鬱鬱鬱鬱\n4月　鬱鬱鬱鬱鬱鬱鬱鬱鬱\n5月　鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱鬱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 404,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 608
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T14:00:13.000Z",
+        "description": "顔面コンプ",
+        "id": "1523663970523303936",
+        "location": "自分にめっちゃ幸あれ",
+        "name": "🌨️",
+        "pinned_tweet_id": "2046973567003418726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026600817781022720/lxu1dnNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 160,
+          "like_count": 6964,
+          "listed_count": 6,
+          "media_count": 4,
+          "tweet_count": 779
+        },
+        "username": "mciz777",
+        "verified": false
+      }
+    ]
+  }
+}

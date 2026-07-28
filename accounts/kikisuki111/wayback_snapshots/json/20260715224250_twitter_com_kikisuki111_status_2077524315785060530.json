@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2077462056052388077",
+    "created_at": "2026-07-15T22:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T23:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077524315785060530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873501865113178112",
+          "start": 0,
+          "username": "liu68435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077524315785060530",
+    "in_reply_to_user_id": "1873501865113178112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077480076929896732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu68435 谢谢你🥲😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2077462056052388077",
+        "created_at": "2026-07-15T22:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T23:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077524315785060530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873501865113178112",
+              "start": 0,
+              "username": "liu68435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077524315785060530",
+        "in_reply_to_user_id": "1873501865113178112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077480076929896732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu68435 谢谢你🥲😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873501865113178112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2077462056052388077",
+        "created_at": "2026-07-15T19:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077480076929896732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077480076929896732",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077462056052388077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 是某位人吗，好像是不太健康的依恋呢，，没事哒，没事哒( っ.❛ ᴗ ❛.)っ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 501,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 964
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T22:50:45.000Z",
+        "description": "希望认识各种各样的人，全群体欢迎(=・ω・=)，都会回fo的，没有的话可以私信我，欢迎聊天，|ω・）\\\\日本語勉強中、DM○，フォロバ100%",
+        "id": "1873501865113178112",
+        "name": "真白熙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003963434812190720/Z2iu7Ir8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 698,
+          "like_count": 10163,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "liu68435",
+        "verified": false
+      }
+    ]
+  }
+}

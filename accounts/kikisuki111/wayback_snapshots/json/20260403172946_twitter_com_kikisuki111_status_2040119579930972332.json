@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030480371939434496"
+      ],
+      "media_source_tweet_id": [
+        "2039902709839810577"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040119579930972332",
+    "created_at": "2026-04-03T17:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040119579930972332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723177835102363648",
+          "start": 3,
+          "username": "ame_daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vPB3AuZ2Qj",
+          "end": 38,
+          "expanded_url": "https://x.com/ame_daily/status/2039902709839810577/photo/1",
+          "media_key": "3_2030480371939434496",
+          "start": 15,
+          "url": "https://t.co/vPB3AuZ2Qj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040119579930972332",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039902709839810577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_daily: https://t.co/vPB3AuZ2Qj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2030480371939434496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC23I-zaYAAKVGf.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030480371939434496"
+          ],
+          "media_source_tweet_id": [
+            "2039902709839810577"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040119579930972332",
+        "created_at": "2026-04-03T17:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040119579930972332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723177835102363648",
+              "start": 3,
+              "username": "ame_daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPB3AuZ2Qj",
+              "end": 38,
+              "expanded_url": "https://x.com/ame_daily/status/2039902709839810577/photo/1",
+              "media_key": "3_2030480371939434496",
+              "start": 15,
+              "url": "https://t.co/vPB3AuZ2Qj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040119579930972332",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039902709839810577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_daily: https://t.co/vPB3AuZ2Qj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030480371939434496"
+          ]
+        },
+        "author_id": "1723177835102363648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039902709839810577",
+        "created_at": "2026-04-03T03:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039902709839810577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPB3AuZ2Qj",
+              "end": 23,
+              "expanded_url": "https://x.com/ame_daily/status/2039902709839810577/photo/1",
+              "media_key": "3_2030480371939434496",
+              "start": 0,
+              "url": "https://t.co/vPB3AuZ2Qj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039902709839810577",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 9305,
+          "like_count": 1277,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vPB3AuZ2Qj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 262,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 342
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T03:16:50.000Z",
+        "description": "daily account for #amechan from #NEEDY_GIRL_OVERDOSE ˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ spoilers + tws !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "amechan"
+              },
+              {
+                "end": 52,
+                "start": 32,
+                "tag": "NEEDY_GIRL_OVERDOSE"
+              }
+            ]
+          }
+        },
+        "id": "1723177835102363648",
+        "location": "中/eng/少し日",
+        "name": "daily ame🥀(and some kangel)",
+        "pinned_tweet_id": "1907438645663187283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852758439208042496/p0V3Enyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7978,
+          "following_count": 10,
+          "like_count": 1013,
+          "listed_count": 6,
+          "media_count": 720,
+          "tweet_count": 1330
+        },
+        "username": "ame_daily",
+        "verified": false
+      }
+    ]
+  }
+}

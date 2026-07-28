@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026426424199098373"
+      ],
+      "media_source_tweet_id": [
+        "2026426426975727872"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2026711515647324398",
+    "created_at": "2026-02-25T17:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026711515647324398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549276129055256576",
+          "start": 3,
+          "username": "Guttergore1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsjgGIYxI7",
+          "end": 40,
+          "expanded_url": "https://x.com/Guttergore1/status/2026426426975727872/photo/1",
+          "media_key": "3_2026426424199098373",
+          "start": 17,
+          "url": "https://t.co/bsjgGIYxI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026711515647324398",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026426426975727872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guttergore1: https://t.co/bsjgGIYxI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_2026426424199098373",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9QGKnaMAUda-Z.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026426424199098373"
+          ],
+          "media_source_tweet_id": [
+            "2026426426975727872"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2026711515647324398",
+        "created_at": "2026-02-25T17:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026711515647324398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549276129055256576",
+              "start": 3,
+              "username": "Guttergore1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsjgGIYxI7",
+              "end": 40,
+              "expanded_url": "https://x.com/Guttergore1/status/2026426426975727872/photo/1",
+              "media_key": "3_2026426424199098373",
+              "start": 17,
+              "url": "https://t.co/bsjgGIYxI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026711515647324398",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026426426975727872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guttergore1: https://t.co/bsjgGIYxI7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026426424199098373"
+          ]
+        },
+        "author_id": "1549276129055256576",
+        "conversation_id": "2026426426975727872",
+        "created_at": "2026-02-24T22:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026426426975727872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsjgGIYxI7",
+              "end": 23,
+              "expanded_url": "https://x.com/Guttergore1/status/2026426426975727872/photo/1",
+              "media_key": "3_2026426424199098373",
+              "start": 0,
+              "url": "https://t.co/bsjgGIYxI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026426426975727872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 19332,
+          "like_count": 2289,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bsjgGIYxI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "🚪50 ",
+        "name": "キキ",
+        "pinned_tweet_id": "2026180344517677562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 131,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T06:13:15.000Z",
+        "description": "victoria 𐦍⋅˚₊🩵 i make memes ☆ ⋆ﾟ⊹ 💿 hihi ♡ 🍶 ## 🩹૮₍ ´𖦹 ˕ ×` ₎ა ♱ 🫧🫧 i ♡ figures🪽 ꒰აꨄ︎໒꒱ ⌨️ `✦ ˑ ִֶ 𓂃⊹ ^^🎧 ★?//red wine and cigarettes ♥︎ 🫗 yaoi ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/guttergore1",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/guttergore1",
+                "start": 0,
+                "url": "https://t.co/gbFRxr80GW"
+              }
+            ]
+          }
+        },
+        "id": "1549276129055256576",
+        "location": "{23} $35 dm fee☆⌒ ₍ᐢ ̥ ̞ ̥ᐢ₎ ",
+        "name": "★？♡ ✚！",
+        "pinned_tweet_id": "2013078417793814535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000780891397001216/6DVMPxsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107151,
+          "following_count": 559,
+          "like_count": 93688,
+          "listed_count": 186,
+          "media_count": 7264,
+          "tweet_count": 38748
+        },
+        "url": "https://t.co/gbFRxr80GW",
+        "username": "Guttergore1",
+        "verified": true
+      }
+    ]
+  }
+}

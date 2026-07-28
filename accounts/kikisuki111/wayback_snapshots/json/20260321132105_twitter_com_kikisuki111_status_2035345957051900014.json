@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2035162319454605533",
+    "created_at": "2026-03-21T13:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035345957051900014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1961388090670653440",
+          "start": 0,
+          "username": "usiisjkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035345957051900014",
+    "in_reply_to_user_id": "1961388090670653440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035162319454605533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usiisjkj 申请互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2035162319454605533",
+        "created_at": "2026-03-21T13:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035345957051900014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961388090670653440",
+              "start": 0,
+              "username": "usiisjkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035345957051900014",
+        "in_reply_to_user_id": "1961388090670653440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035162319454605533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usiisjkj 申请互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961388090670653440",
+        "conversation_id": "2035162319454605533",
+        "created_at": "2026-03-21T01:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T02:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035162319454605533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035162319454605533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "想和萌妹子互fo 列看可以帮忙转转吗？谢谢你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 215,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 259
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T11:19:09.000Z",
+        "description": "得抑郁症了,求打赏,抑郁症很严重求打赏。",
+        "id": "1961388090670653440",
+        "name": "寒蝉鸣泣之时幸福才会来临",
+        "pinned_tweet_id": "2034622740075078054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032267689490857985/e7RfogWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 178,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 226
+        },
+        "username": "usiisjkj",
+        "verified": false
+      }
+    ]
+  }
+}

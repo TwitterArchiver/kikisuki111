@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027547526933712897"
+      ],
+      "media_source_tweet_id": [
+        "2027547537729892705"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027775439088075083",
+    "created_at": "2026-02-28T15:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027775439088075083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2552125969",
+          "start": 3,
+          "username": "shimachan_ramen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pt9O2fQPkC",
+          "end": 44,
+          "expanded_url": "https://x.com/shimachan_ramen/status/2027547537729892705/photo/1",
+          "media_key": "3_2027547526933712897",
+          "start": 21,
+          "url": "https://t.co/pt9O2fQPkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027775439088075083",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2016
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027547537729892705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimachan_ramen: https://t.co/pt9O2fQPkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2208,
+        "media_key": "3_2027547526933712897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNLu7wbEAEiht_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027547526933712897"
+          ],
+          "media_source_tweet_id": [
+            "2027547537729892705"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027775439088075083",
+        "created_at": "2026-02-28T15:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027775439088075083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2552125969",
+              "start": 3,
+              "username": "shimachan_ramen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pt9O2fQPkC",
+              "end": 44,
+              "expanded_url": "https://x.com/shimachan_ramen/status/2027547537729892705/photo/1",
+              "media_key": "3_2027547526933712897",
+              "start": 21,
+              "url": "https://t.co/pt9O2fQPkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027775439088075083",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2016
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027547537729892705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimachan_ramen: https://t.co/pt9O2fQPkC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027547526933712897"
+          ]
+        },
+        "author_id": "2552125969",
+        "conversation_id": "2027547537729892705",
+        "created_at": "2026-02-28T00:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027547537729892705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pt9O2fQPkC",
+              "end": 23,
+              "expanded_url": "https://x.com/shimachan_ramen/status/2027547537729892705/photo/1",
+              "media_key": "3_2027547526933712897",
+              "start": 0,
+              "url": "https://t.co/pt9O2fQPkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027547537729892705",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 601,
+          "impression_count": 215310,
+          "like_count": 9797,
+          "quote_count": 192,
+          "reply_count": 20,
+          "retweet_count": 2016
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pt9O2fQPkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 176,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 115
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-07T08:59:17.000Z",
+        "description": "ちいかわ(デブ、知恵遅れ、自己中、クチャラー、クズ、タカリ、プライドの塊、ハチワレを舐め腐ってる)が大嫌いです。作品は好きなので漫画もアニメも全部見てます。ただしアニメは絵も声も最悪のゴミ。打ち切り希望。",
+        "id": "2552125969",
+        "name": "智障愛哭鼠",
+        "pinned_tweet_id": "2026255964018762153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027364951766290432/Cu2zJH0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 139,
+          "like_count": 457,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 2110
+        },
+        "username": "shimachan_ramen",
+        "verified": false
+      }
+    ]
+  }
+}

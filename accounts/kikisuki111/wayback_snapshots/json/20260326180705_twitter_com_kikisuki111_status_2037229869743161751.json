@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2037229869743161751",
+    "created_at": "2026-03-26T18:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037229869743161751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037229869743161751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036833053461656042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 两个精神病之间很有性张力啊。一个是外显型的嗑药精神病。一个是内隐型的什么都藏在心里的精神病。。。只有精神病才能看懂对方行为深处的逻辑。也只有精神病才能相对深刻地互相理解吧……尽管两个精神病在一起的危险系数呈指数级上升……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2037229869743161751",
+        "created_at": "2026-03-26T18:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037229869743161751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037229869743161751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036833053461656042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 两个精神病之间很有性张力啊。一个是外显型的嗑药精神病。一个是内隐型的什么都藏在心里的精神病。。。只有精神病才能看懂对方行为深处的逻辑。也只有精神病才能相对深刻地互相理解吧……尽管两个精神病在一起的危险系数呈指数级上升……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999007250829230080",
+        "conversation_id": "2036833053461656042",
+        "created_at": "2026-03-25T15:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036833053461656042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036833053461656042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 25488,
+          "like_count": 626,
+          "quote_count": 27,
+          "reply_count": 13,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "两个精神病之间很有性张力啊。一个是外显型的嗑药精神病。一个是内隐型的什么都藏在心里的精神病。。。只有精神病才能看懂对方行为深处的逻辑。也只有精神病才能相对深刻地互相理解吧……尽管两个精神病在一起的危险系数呈指数级上升……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 213,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 272
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4086,
+          "following_count": 4558,
+          "like_count": 7733,
+          "listed_count": 12,
+          "media_count": 2714,
+          "tweet_count": 12669
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025948426949763073",
+        "3_2025948426811400192",
+        "3_2025948427037933568"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2025948440199614512",
+    "created_at": "2026-02-23T14:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025948440199614512"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "妈妈活"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L5Hb5PjSh3",
+          "end": 54,
+          "expanded_url": "https://x.com/kikisuki111/status/2025948440199614512/photo/1",
+          "media_key": "3_2025948426949763073",
+          "start": 31,
+          "url": "https://t.co/L5Hb5PjSh3"
+        },
+        {
+          "display_url": "pic.x.com/L5Hb5PjSh3",
+          "end": 54,
+          "expanded_url": "https://x.com/kikisuki111/status/2025948440199614512/photo/1",
+          "media_key": "3_2025948426811400192",
+          "start": 31,
+          "url": "https://t.co/L5Hb5PjSh3"
+        },
+        {
+          "display_url": "pic.x.com/L5Hb5PjSh3",
+          "end": 54,
+          "expanded_url": "https://x.com/kikisuki111/status/2025948440199614512/photo/1",
+          "media_key": "3_2025948427037933568",
+          "start": 31,
+          "url": "https://t.co/L5Hb5PjSh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025948440199614512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "๑&gt;ᴗO๑キキ    线下只接女宝\n#门槛妹 #妈妈活 https://t.co/L5Hb5PjSh3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025948426949763073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2dXEGaIAE1qbd.jpg",
+        "width": 1583
+      },
+      {
+        "height": 589,
+        "media_key": "3_2025948426811400192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2dXDla4AAkSU1.jpg",
+        "width": 789
+      },
+      {
+        "height": 968,
+        "media_key": "3_2025948427037933568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2dXEbbgAAUVNh.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025948426949763073",
+            "3_2025948426811400192",
+            "3_2025948427037933568"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2025948440199614512",
+        "created_at": "2026-02-23T14:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025948440199614512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "妈妈活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5Hb5PjSh3",
+              "end": 54,
+              "expanded_url": "https://x.com/kikisuki111/status/2025948440199614512/photo/1",
+              "media_key": "3_2025948426949763073",
+              "start": 31,
+              "url": "https://t.co/L5Hb5PjSh3"
+            },
+            {
+              "display_url": "pic.x.com/L5Hb5PjSh3",
+              "end": 54,
+              "expanded_url": "https://x.com/kikisuki111/status/2025948440199614512/photo/1",
+              "media_key": "3_2025948426811400192",
+              "start": 31,
+              "url": "https://t.co/L5Hb5PjSh3"
+            },
+            {
+              "display_url": "pic.x.com/L5Hb5PjSh3",
+              "end": 54,
+              "expanded_url": "https://x.com/kikisuki111/status/2025948440199614512/photo/1",
+              "media_key": "3_2025948427037933568",
+              "start": 31,
+              "url": "https://t.co/L5Hb5PjSh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025948440199614512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "๑&gt;ᴗO๑キキ    线下只接女宝\n#门槛妹 #妈妈活 https://t.co/L5Hb5PjSh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 82,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

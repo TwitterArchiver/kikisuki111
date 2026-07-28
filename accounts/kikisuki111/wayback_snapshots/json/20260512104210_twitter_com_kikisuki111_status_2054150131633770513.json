@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053805939136856064"
+      ],
+      "media_source_tweet_id": [
+        "2053805957176545573"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2054150131633770513",
+    "created_at": "2026-05-12T10:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054150131633770513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1676261495661838337",
+          "start": 3,
+          "username": "Basil_Mage"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPZx763o5x",
+          "end": 46,
+          "expanded_url": "https://x.com/Basil_Mage/status/2053805957176545573/photo/1",
+          "media_key": "3_2053805939136856064",
+          "start": 23,
+          "url": "https://t.co/uPZx763o5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054150131633770513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053805957176545573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Basil_Mage: Mother https://t.co/uPZx763o5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Drawing with oil pastels titled \"mother\" showcasing a meat locker full of sheep carcasses, with one attached to a lamb by the umbilical cord ",
+        "height": 1574,
+        "media_key": "3_2053805939136856064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICVnr_XAAA6nAA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053805939136856064"
+          ],
+          "media_source_tweet_id": [
+            "2053805957176545573"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2054150131633770513",
+        "created_at": "2026-05-12T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054150131633770513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1676261495661838337",
+              "start": 3,
+              "username": "Basil_Mage"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPZx763o5x",
+              "end": 46,
+              "expanded_url": "https://x.com/Basil_Mage/status/2053805957176545573/photo/1",
+              "media_key": "3_2053805939136856064",
+              "start": 23,
+              "url": "https://t.co/uPZx763o5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054150131633770513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053805957176545573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Basil_Mage: Mother https://t.co/uPZx763o5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053805939136856064"
+          ]
+        },
+        "author_id": "1676261495661838337",
+        "conversation_id": "2053805957176545573",
+        "created_at": "2026-05-11T11:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053805957176545573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPZx763o5x",
+              "end": 30,
+              "expanded_url": "https://x.com/Basil_Mage/status/2053805957176545573/photo/1",
+              "media_key": "3_2053805939136856064",
+              "start": 7,
+              "url": "https://t.co/uPZx763o5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053805957176545573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1553,
+          "impression_count": 195176,
+          "like_count": 27486,
+          "quote_count": 58,
+          "reply_count": 24,
+          "retweet_count": 3512
+        },
+        "reply_settings": "everyone",
+        "text": "Mother https://t.co/uPZx763o5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 422,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 743
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T16:08:39.000Z",
+        "description": "Adult🐸|| SFW🌱\n(but Adults only please)\nHe/Him🐝\n\nHealing through art 🎨\n\nHeader: meeseboo\n\n🚫do not reupload my art 🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/basil_mage",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/basil_mage",
+                "start": 0,
+                "url": "https://t.co/kqrGTpMiRc"
+              }
+            ]
+          }
+        },
+        "id": "1676261495661838337",
+        "name": "Basil 🌱",
+        "pinned_tweet_id": "2049170030558941645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044472687653801984/3J15sk_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39785,
+          "following_count": 2499,
+          "like_count": 53901,
+          "listed_count": 75,
+          "media_count": 926,
+          "tweet_count": 6343
+        },
+        "url": "https://t.co/kqrGTpMiRc",
+        "username": "Basil_Mage",
+        "verified": false
+      }
+    ]
+  }
+}

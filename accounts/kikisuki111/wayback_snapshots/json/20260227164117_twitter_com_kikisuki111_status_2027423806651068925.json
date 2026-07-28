@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027199185913622529"
+      ],
+      "media_source_tweet_id": [
+        "2027199192456663096"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027423806651068925",
+    "created_at": "2026-02-27T16:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027423806651068925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3140679366",
+          "start": 3,
+          "username": "rare_jpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H4jmKjticm",
+          "end": 37,
+          "expanded_url": "https://x.com/rare_jpg/status/2027199192456663096/photo/1",
+          "media_key": "3_2027199185913622529",
+          "start": 14,
+          "url": "https://t.co/H4jmKjticm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027423806651068925",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027199192456663096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rare_jpg: https://t.co/H4jmKjticm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2027199185913622529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIO60VXsAEoe_v.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027199185913622529"
+          ],
+          "media_source_tweet_id": [
+            "2027199192456663096"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027423806651068925",
+        "created_at": "2026-02-27T16:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027423806651068925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3140679366",
+              "start": 3,
+              "username": "rare_jpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4jmKjticm",
+              "end": 37,
+              "expanded_url": "https://x.com/rare_jpg/status/2027199192456663096/photo/1",
+              "media_key": "3_2027199185913622529",
+              "start": 14,
+              "url": "https://t.co/H4jmKjticm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027423806651068925",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027199192456663096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rare_jpg: https://t.co/H4jmKjticm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027199185913622529"
+          ]
+        },
+        "author_id": "3140679366",
+        "conversation_id": "2027199192456663096",
+        "created_at": "2026-02-27T01:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027199192456663096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4jmKjticm",
+              "end": 23,
+              "expanded_url": "https://x.com/rare_jpg/status/2027199192456663096/photo/1",
+              "media_key": "3_2027199185913622529",
+              "start": 0,
+              "url": "https://t.co/H4jmKjticm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027199192456663096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 9771,
+          "like_count": 535,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H4jmKjticm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 163,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 90
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-05T20:50:17.000Z",
+        "description": "the internet.",
+        "id": "3140679366",
+        "location": "biz@rarejpg.com",
+        "name": "rare.jpg",
+        "pinned_tweet_id": "2027104949159542962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854365475003920384/mbml_UNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295877,
+          "following_count": 11,
+          "like_count": 6898,
+          "listed_count": 589,
+          "media_count": 4148,
+          "tweet_count": 4602
+        },
+        "username": "rare_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

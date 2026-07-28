@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2035000168148508884",
+    "created_at": "2026-03-20T14:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035000168148508884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916827882183360512",
+          "start": 3,
+          "username": "weizhanershen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035000168148508884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034564305841201470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weizhanershen: oder 的终极结局:\n\n1.不od了，正式退出\n2.被社区强戒被晶歌真实\n3.吞药,天国见\n4.被家里人发现，精神病院见\n5.联用药物失败，导致升天\n6.因为身体虚弱，一场疾病升天\n7.不od了，没意思，直接玩魔法邮票，或者真的度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2035000168148508884",
+        "created_at": "2026-03-20T14:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035000168148508884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916827882183360512",
+              "start": 3,
+              "username": "weizhanershen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035000168148508884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034564305841201470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weizhanershen: oder 的终极结局:\n\n1.不od了，正式退出\n2.被社区强戒被晶歌真实\n3.吞药,天国见\n4.被家里人发现，精神病院见\n5.联用药物失败，导致升天\n6.因为身体虚弱，一场疾病升天\n7.不od了，没意思，直接玩魔法邮票，或者真的度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916827882183360512",
+        "conversation_id": "2034564305841201470",
+        "created_at": "2026-03-19T09:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034564305841201470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034564305841201470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12186,
+          "like_count": 247,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "oder 的终极结局:\n\n1.不od了，正式退出\n2.被社区强戒被晶歌真实\n3.吞药,天国见\n4.被家里人发现，精神病院见\n5.联用药物失败，导致升天\n6.因为身体虚弱，一场疾病升天\n7.不od了，没意思，直接玩魔法邮票，或者真的度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 213,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 253
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T12:12:45.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/RDgN9aswCI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/RDgN9aswCI"
+              }
+            ]
+          }
+        },
+        "id": "1916827882183360512",
+        "name": "法友百科",
+        "pinned_tweet_id": "2031165228168393176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031163298104967168/n2DVSKSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 38,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 51
+        },
+        "username": "weizhanershen",
+        "verified": false
+      }
+    ]
+  }
+}

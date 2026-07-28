@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2028412448949383625",
+    "created_at": "2026-03-02T10:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028412448949383625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025874722794442753",
+          "start": 3,
+          "username": "TwTwTwTwTzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028412448949383625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028053522743542163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TwTwTwTwTzzz: 说我傻逼的 你的逼很聪明吗？\n说我穷逼的 你的逼很有钱吗？\n说我傻屌的 你的屌很聪明吗？\n说我小众逼的 你的逼很大吗？\n说我丑逼的 你的逼很漂亮吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2028412448949383625",
+        "created_at": "2026-03-02T10:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028412448949383625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025874722794442753",
+              "start": 3,
+              "username": "TwTwTwTwTzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028412448949383625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028053522743542163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TwTwTwTwTzzz: 说我傻逼的 你的逼很聪明吗？\n说我穷逼的 你的逼很有钱吗？\n说我傻屌的 你的屌很聪明吗？\n说我小众逼的 你的逼很大吗？\n说我丑逼的 你的逼很漂亮吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025874722794442753",
+        "conversation_id": "2028053522743542163",
+        "created_at": "2026-03-01T10:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028053522743542163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028053522743542163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 40186,
+          "like_count": 1195,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "说我傻逼的 你的逼很聪明吗？\n说我穷逼的 你的逼很有钱吗？\n说我傻屌的 你的屌很聪明吗？\n说我小众逼的 你的逼很大吗？\n说我丑逼的 你的逼很漂亮吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 178,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 125
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T10:06:03.000Z",
+        "description": "｜infp 高敏感｜喜欢旅游摄影｜喜欢肌肉男｜女高｜礼貌互关~ 活跃爱互动的来 不约。",
+        "id": "2025874722794442753",
+        "name": "Yooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025874936582356992/SXTwYNui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 34,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "TwTwTwTwTzzz",
+        "verified": false
+      }
+    ]
+  }
+}

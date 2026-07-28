@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2026181404640543040",
+    "created_at": "2026-02-24T06:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026181404640543040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1726078857327837184",
+          "start": 3,
+          "username": "nyamura0613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026181404640543040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026037317530734660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @nyamura0613: 你总是割手臂嗑药自慰，一睁眼就坐在电脑桌前打游戏，脸上还一堆金属，你到底怎么了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2026181404640543040",
+        "created_at": "2026-02-24T06:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026181404640543040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1726078857327837184",
+              "start": 3,
+              "username": "nyamura0613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026181404640543040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026037317530734660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @nyamura0613: 你总是割手臂嗑药自慰，一睁眼就坐在电脑桌前打游戏，脸上还一堆金属，你到底怎么了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726078857327837184",
+        "conversation_id": "2026037317530734660",
+        "created_at": "2026-02-23T20:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T21:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026037317530734660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026037317530734660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2522,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "你总是割手臂嗑药自慰，一睁眼就坐在电脑桌前打游戏，脸上还一堆金属，你到底怎么了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "pinned_tweet_id": "2025948440199614512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 82,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T03:24:15.000Z",
+        "description": "",
+        "id": "1726078857327837184",
+        "name": "吃十块蛋糕会被你讨厌吗",
+        "pinned_tweet_id": "2004257520974811259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026025638122131456/3fD7qufS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18547,
+          "following_count": 77,
+          "like_count": 177,
+          "listed_count": 58,
+          "media_count": 3,
+          "tweet_count": 1145
+        },
+        "username": "nyamura0613",
+        "verified": false
+      }
+    ]
+  }
+}

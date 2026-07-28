@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2032203658566517041",
+    "created_at": "2026-03-12T21:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T22:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032203658566517041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821111012030091265",
+          "start": 3,
+          "username": "lshgy_un"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032203658566517041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031775214292627808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lshgy_un: 如果黑叉有访客记录的话我就不会再玩这个软件了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2032203658566517041",
+        "created_at": "2026-03-12T21:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T22:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032203658566517041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821111012030091265",
+              "start": 3,
+              "username": "lshgy_un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032203658566517041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031775214292627808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lshgy_un: 如果黑叉有访客记录的话我就不会再玩这个软件了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821111012030091265",
+        "conversation_id": "2031775214292627808",
+        "created_at": "2026-03-11T16:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031775214292627808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031775214292627808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 212181,
+          "like_count": 1674,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "如果黑叉有访客记录的话我就不会再玩这个软件了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 198,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 207
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T09:08:09.000Z",
+        "description": "我每天都好懵逼呀",
+        "id": "1821111012030091265",
+        "name": "Pumpkin",
+        "pinned_tweet_id": "1998319668327797206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001704220941291520/VF15ZNo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 78,
+          "like_count": 8531,
+          "listed_count": 1,
+          "media_count": 773,
+          "tweet_count": 9350
+        },
+        "username": "lshgy_un",
+        "verified": false
+      }
+    ]
+  }
+}

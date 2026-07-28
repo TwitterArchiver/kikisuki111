@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2063919986910101609",
+    "created_at": "2026-06-08T09:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063919986910101609"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 94,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "门槛"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "金主"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 128,
+          "start": 124,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "门哥"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1893643894677733376",
+          "start": 3,
+          "username": "zjeiw51341747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063919986910101609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063807957314551892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zjeiw51341747: 这是一条新置顶！\n我是缇子^ω^\n喜欢我请过🚪\n会认真对待每一个喜欢我的人\n会很多酒桌游戏🍺麻将🀄️台球🎱\n非常欢迎小女孩互fo互转！\n只接受口令🧧\n#地雷系女子 #门槛妹 #门槛 #江浙沪 #金主 #爸爸活 #妈妈活 #门哥 #线下 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063807946241564672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQeZIBbYAATpK1.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1424,
+        "media_key": "3_2063807946266656770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQeZIHaQAI83QN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2063919986910101609",
+        "created_at": "2026-06-08T09:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063919986910101609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 94,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "门槛"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "金主"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "门哥"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1893643894677733376",
+              "start": 3,
+              "username": "zjeiw51341747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063919986910101609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063807957314551892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zjeiw51341747: 这是一条新置顶！\n我是缇子^ω^\n喜欢我请过🚪\n会认真对待每一个喜欢我的人\n会很多酒桌游戏🍺麻将🀄️台球🎱\n非常欢迎小女孩互fo互转！\n只接受口令🧧\n#地雷系女子 #门槛妹 #门槛 #江浙沪 #金主 #爸爸活 #妈妈活 #门哥 #线下 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063807946241564672",
+            "3_2063807946266656770"
+          ]
+        },
+        "author_id": "1893643894677733376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063807957314551892",
+        "created_at": "2026-06-08T02:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063807957314551892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 75,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "门槛"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "金主"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "门哥"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRy6XX0n0H",
+              "end": 141,
+              "expanded_url": "https://x.com/zjeiw51341747/status/2063807957314551892/photo/1",
+              "media_key": "3_2063807946241564672",
+              "start": 118,
+              "url": "https://t.co/fRy6XX0n0H"
+            },
+            {
+              "display_url": "pic.x.com/fRy6XX0n0H",
+              "end": 141,
+              "expanded_url": "https://x.com/zjeiw51341747/status/2063807957314551892/photo/1",
+              "media_key": "3_2063807946266656770",
+              "start": 118,
+              "url": "https://t.co/fRy6XX0n0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063807957314551892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 734,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条新置顶！\n我是缇子^ω^\n喜欢我请过🚪\n会认真对待每一个喜欢我的人\n会很多酒桌游戏🍺麻将🀄️台球🎱\n非常欢迎小女孩互fo互转！\n只接受口令🧧\n#地雷系女子 #门槛妹 #门槛 #江浙沪 #金主 #爸爸活 #妈妈活 #门哥 #线下 https://t.co/fRy6XX0n0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 517,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 916
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T12:47:51.000Z",
+        "description": "07｜sub｜私信只回口令红包",
+        "id": "1893643894677733376",
+        "location": "🚪88",
+        "name": "缇子",
+        "pinned_tweet_id": "2063807957314551892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894001301392146432/A26Xf4Dc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 44,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 159
+        },
+        "username": "zjeiw51341747",
+        "verified": false
+      }
+    ]
+  }
+}

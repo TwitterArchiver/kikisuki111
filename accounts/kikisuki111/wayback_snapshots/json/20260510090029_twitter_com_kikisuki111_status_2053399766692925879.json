@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052960764009541632"
+      ],
+      "media_source_tweet_id": [
+        "2053127861213479422"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053399766692925879",
+    "created_at": "2026-05-10T09:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053399766692925879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1770560055244640256",
+          "start": 3,
+          "username": "GameStalgiaX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKOzFMx317",
+          "end": 46,
+          "expanded_url": "https://x.com/GameStalgiaX/status/2053127861213479422/photo/1",
+          "media_key": "3_2052960764009541632",
+          "start": 23,
+          "url": "https://t.co/AKOzFMx317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053399766692925879",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053127861213479422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GameStalgiaX: Mood https://t.co/AKOzFMx317"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2052960764009541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2U8BSacAAdNPH.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052960764009541632"
+          ],
+          "media_source_tweet_id": [
+            "2053127861213479422"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053399766692925879",
+        "created_at": "2026-05-10T09:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053399766692925879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1770560055244640256",
+              "start": 3,
+              "username": "GameStalgiaX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKOzFMx317",
+              "end": 46,
+              "expanded_url": "https://x.com/GameStalgiaX/status/2053127861213479422/photo/1",
+              "media_key": "3_2052960764009541632",
+              "start": 23,
+              "url": "https://t.co/AKOzFMx317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053399766692925879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053127861213479422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GameStalgiaX: Mood https://t.co/AKOzFMx317"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052960764009541632"
+          ]
+        },
+        "author_id": "1770560055244640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053127861213479422",
+        "created_at": "2026-05-09T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053127861213479422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKOzFMx317",
+              "end": 28,
+              "expanded_url": "https://x.com/GameStalgiaX/status/2053127861213479422/photo/1",
+              "media_key": "3_2052960764009541632",
+              "start": 5,
+              "url": "https://t.co/AKOzFMx317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053127861213479422",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 25323,
+          "like_count": 2357,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "Mood https://t.co/AKOzFMx317"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 414,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 711
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T21:16:52.000Z",
+        "description": "Retro Video Game Nostalgia",
+        "id": "1770560055244640256",
+        "name": "Video Game Nostalgia",
+        "pinned_tweet_id": "2053158053504286923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039511715868811264/aBU1PJVn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32557,
+          "following_count": 117,
+          "like_count": 2066,
+          "listed_count": 47,
+          "media_count": 843,
+          "tweet_count": 1450
+        },
+        "username": "GameStalgiaX",
+        "verified": true
+      }
+    ]
+  }
+}

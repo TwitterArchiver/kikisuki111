@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049799469571706880",
+        "3_2049799469596839936",
+        "3_2049799469596909568"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2049799488316047725",
+    "created_at": "2026-04-30T10:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049799488316047725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/COVYbAya7u",
+          "end": 69,
+          "expanded_url": "https://x.com/kikisuki111/status/2049799488316047725/photo/1",
+          "media_key": "3_2049799469571706880",
+          "start": 46,
+          "url": "https://t.co/COVYbAya7u"
+        },
+        {
+          "display_url": "pic.x.com/COVYbAya7u",
+          "end": 69,
+          "expanded_url": "https://x.com/kikisuki111/status/2049799488316047725/photo/1",
+          "media_key": "3_2049799469596839936",
+          "start": 46,
+          "url": "https://t.co/COVYbAya7u"
+        },
+        {
+          "display_url": "pic.x.com/COVYbAya7u",
+          "end": 69,
+          "expanded_url": "https://x.com/kikisuki111/status/2049799488316047725/photo/1",
+          "media_key": "3_2049799469596909568",
+          "start": 46,
+          "url": "https://t.co/COVYbAya7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049799488316047725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "＝キキ  20↓\n本质是一只外星幽灵\n\n属性请看p2隐属多\n\n健全人禁止入内我容易应激破防 https://t.co/COVYbAya7u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049799488316047725].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049799488316047725",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049799488316047725"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049799469571706880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJZwdybEAA0TVi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2049799469596839936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJZwd4akAAgUy4.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049799469596909568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJZwd4boAAvmGQ.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049033654907924608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 378,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 536
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

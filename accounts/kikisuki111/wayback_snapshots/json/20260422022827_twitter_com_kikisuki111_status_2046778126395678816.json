@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2046566723319702003",
+    "created_at": "2026-04-22T02:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046778126395678816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043971013969620996",
+          "start": 0,
+          "username": "Oscarggzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046778126395678816",
+    "in_reply_to_user_id": "2043971013969620996",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046566723319702003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscarggzj 粉魔鬼还有黑杰克菠萝😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2046566723319702003",
+        "created_at": "2026-04-22T02:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046778126395678816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043971013969620996",
+              "start": 0,
+              "username": "Oscarggzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046778126395678816",
+        "in_reply_to_user_id": "2043971013969620996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046566723319702003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscarggzj 粉魔鬼还有黑杰克菠萝😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043971013969620996",
+        "conversation_id": "2046566723319702003",
+        "created_at": "2026-04-21T12:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046566723319702003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046566723319702003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幹我下一包煙要抽什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 345,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 494
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T08:34:38.000Z",
+        "description": "哈哈屁眼",
+        "id": "2043971013969620996",
+        "name": "Oscar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043971551897522176/VOpbSeQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 103,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 86
+        },
+        "username": "Oscarggzj",
+        "verified": false
+      }
+    ]
+  }
+}

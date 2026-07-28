@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042865237683216384",
+        "3_2042865237674827776",
+        "3_2042865237691633665",
+        "3_2042865237700022272"
+      ],
+      "media_source_tweet_id": [
+        "2042865296441254223",
+        "2042865296441254223",
+        "2042865296441254223",
+        "2042865296441254223"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2043138314291859748",
+    "created_at": "2026-04-12T01:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043138314291859748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M6nNLcbcA7",
+          "end": 50,
+          "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+          "media_key": "3_2042865237683216384",
+          "start": 27,
+          "url": "https://t.co/M6nNLcbcA7"
+        },
+        {
+          "display_url": "pic.x.com/M6nNLcbcA7",
+          "end": 50,
+          "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+          "media_key": "3_2042865237674827776",
+          "start": 27,
+          "url": "https://t.co/M6nNLcbcA7"
+        },
+        {
+          "display_url": "pic.x.com/M6nNLcbcA7",
+          "end": 50,
+          "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+          "media_key": "3_2042865237691633665",
+          "start": 27,
+          "url": "https://t.co/M6nNLcbcA7"
+        },
+        {
+          "display_url": "pic.x.com/M6nNLcbcA7",
+          "end": 50,
+          "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+          "media_key": "3_2042865237700022272",
+          "start": 27,
+          "url": "https://t.co/M6nNLcbcA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043138314291859748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042865296441254223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @aaaa____dry: 支配と愛とトラウマ https://t.co/M6nNLcbcA7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1573,
+        "media_key": "3_2042865237683216384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm3HDAaIAAChWs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1526,
+        "media_key": "3_2042865237674827776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm3HC-aIAA3R-8.jpg",
+        "width": 1620
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042865237691633665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm3HDCakAEVU23.jpg",
+        "width": 1940
+      },
+      {
+        "height": 2038,
+        "media_key": "3_2042865237700022272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm3HDEakAAW2Q9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042865237683216384",
+            "3_2042865237674827776",
+            "3_2042865237691633665",
+            "3_2042865237700022272"
+          ],
+          "media_source_tweet_id": [
+            "2042865296441254223",
+            "2042865296441254223",
+            "2042865296441254223",
+            "2042865296441254223"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2043138314291859748",
+        "created_at": "2026-04-12T01:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043138314291859748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 50,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237683216384",
+              "start": 27,
+              "url": "https://t.co/M6nNLcbcA7"
+            },
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 50,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237674827776",
+              "start": 27,
+              "url": "https://t.co/M6nNLcbcA7"
+            },
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 50,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237691633665",
+              "start": 27,
+              "url": "https://t.co/M6nNLcbcA7"
+            },
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 50,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237700022272",
+              "start": 27,
+              "url": "https://t.co/M6nNLcbcA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043138314291859748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042865296441254223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @aaaa____dry: 支配と愛とトラウマ https://t.co/M6nNLcbcA7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042865237683216384",
+            "3_2042865237674827776",
+            "3_2042865237691633665",
+            "3_2042865237700022272"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2042865296441254223",
+        "created_at": "2026-04-11T07:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042865296441254223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 33,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237683216384",
+              "start": 10,
+              "url": "https://t.co/M6nNLcbcA7"
+            },
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 33,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237674827776",
+              "start": 10,
+              "url": "https://t.co/M6nNLcbcA7"
+            },
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 33,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237691633665",
+              "start": 10,
+              "url": "https://t.co/M6nNLcbcA7"
+            },
+            {
+              "display_url": "pic.x.com/M6nNLcbcA7",
+              "end": 33,
+              "expanded_url": "https://x.com/aaaa____dry/status/2042865296441254223/photo/1",
+              "media_key": "3_2042865237700022272",
+              "start": 10,
+              "url": "https://t.co/M6nNLcbcA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042865296441254223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 16850,
+          "like_count": 1731,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "reply_settings": "following",
+        "text": "支配と愛とトラウマ https://t.co/M6nNLcbcA7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 270,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 382
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎┆自我@mosohk_sub┆*.🧾BOOTH https://t.co/iBQKsrlcsP┆依頼等DMまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "mosohk_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "aaaadrug.booth.pm",
+                "end": 67,
+                "expanded_url": "https://aaaadrug.booth.pm/",
+                "start": 44,
+                "url": "https://t.co/iBQKsrlcsP"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "location": " 𝐡_ @9_Un_ya__ ",
+        "name": "妄想癖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8681,
+          "following_count": 139,
+          "like_count": 11561,
+          "listed_count": 32,
+          "media_count": 1468,
+          "tweet_count": 3358
+        },
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

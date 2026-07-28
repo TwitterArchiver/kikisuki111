@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2038496822734582178",
+    "created_at": "2026-03-30T20:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T21:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038718345776881734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        },
+        {
+          "end": 19,
+          "id": "1536368818477465602",
+          "start": 10,
+          "username": "O817Xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038718345776881734",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038496822734582178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena @O817Xiao 宝宝互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2038496822734582178",
+        "created_at": "2026-03-30T20:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038718345776881734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            },
+            {
+              "end": 19,
+              "id": "1536368818477465602",
+              "start": 10,
+              "username": "O817Xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038718345776881734",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038496822734582178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena @O817Xiao 宝宝互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929070811241132032",
+        "conversation_id": "2038496822734582178",
+        "created_at": "2026-03-30T06:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038496822734582178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038496822734582178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2668,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "好想和惨妹测妹oder互互……有人想帮我转帖吗🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 223,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 289
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "我是ElleWu Age12 我最爱我自己然后是@ekj5615 互fo直关就可看成分回 属性就：餐卷两栖od 欧美 拒激进见证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "ekj5615"
+              }
+            ]
+          }
+        },
+        "id": "1929070811241132032",
+        "location": "世界上最幸福的地方",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2038501788001976807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028897037845221376/bULSx9lp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 126,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 334
+        },
+        "username": "GGGisena",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T15:24:17.000Z",
+        "description": "小Z/疹 随便发一些什么乱七八糟的 专心经营自己的懵b生活 互fo看见就回",
+        "id": "1536368818477465602",
+        "name": "不可解的小小Z",
+        "pinned_tweet_id": "2038574801204244586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588504246085124097/6RNZTony_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 69,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 92
+        },
+        "username": "O817Xiao",
+        "verified": false
+      }
+    ]
+  }
+}

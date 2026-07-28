@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2056761255797686515",
+    "created_at": "2026-05-19T15:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056761255797686515"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "les"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781974567701102592",
+          "start": 3,
+          "username": "getthefkoff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056761255797686515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056300516871991431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @getthefkoff_: 女同性恋啊，总是希望自己女朋友既圈子很小，又不善交际，既孤儿，又容易内耗呢。如果是我的话，都可以做到哦。#les"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2056761255797686515",
+        "created_at": "2026-05-19T15:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056761255797686515"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "les"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781974567701102592",
+              "start": 3,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056761255797686515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056300516871991431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @getthefkoff_: 女同性恋啊，总是希望自己女朋友既圈子很小，又不善交际，既孤儿，又容易内耗呢。如果是我的话，都可以做到哦。#les"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781974567701102592",
+        "conversation_id": "2056300516871991431",
+        "created_at": "2026-05-18T09:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056300516871991431"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056300516871991431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5015,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "女同性恋啊，总是希望自己女朋友既圈子很小，又不善交际，既孤儿，又容易内耗呢。如果是我的话，都可以做到哦。#les"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2056531624221950243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 473,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 844
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T09:15:03.000Z",
+        "description": "XD",
+        "id": "1781974567701102592",
+        "location": "0.1km",
+        "name": "雨季不再來",
+        "pinned_tweet_id": "2038823977037287923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459174538526720/d915gp7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 80,
+          "like_count": 8077,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2097
+        },
+        "username": "getthefkoff_",
+        "verified": false
+      }
+    ]
+  }
+}

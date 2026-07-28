@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2059810784612597967",
+    "created_at": "2026-05-28T08:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059907968414650634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132531490863009793",
+          "start": 0,
+          "username": "bywnqwq"
+        },
+        {
+          "end": 21,
+          "id": "1953145876626718723",
+          "start": 9,
+          "username": "kikiii00000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059907968414650634",
+    "in_reply_to_user_id": "1132531490863009793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059893454721994782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bywnqwq @kikiii00000 在这里哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2059810784612597967",
+        "created_at": "2026-05-28T08:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059907968414650634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132531490863009793",
+              "start": 0,
+              "username": "bywnqwq"
+            },
+            {
+              "end": 21,
+              "id": "1953145876626718723",
+              "start": 9,
+              "username": "kikiii00000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059907968414650634",
+        "in_reply_to_user_id": "1132531490863009793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059893454721994782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bywnqwq @kikiii00000 在这里哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132531490863009793",
+        "conversation_id": "2059810784612597967",
+        "created_at": "2026-05-28T07:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059893454721994782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059893454721994782",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059810784612597967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 😭想看血"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 499,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 850
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T06:18:43.000Z",
+        "description": "",
+        "id": "1132531490863009793",
+        "name": "qlj12138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956198304959901696/o5L-Ivky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 263,
+          "like_count": 95,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 137
+        },
+        "username": "bywnqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T17:27:30.000Z",
+        "description": "裏垢 ｜一起去死吧",
+        "id": "1953145876626718723",
+        "location": "外星",
+        "name": "进入宇宙的幽灵",
+        "pinned_tweet_id": "2059812585936183668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976509459959824385/sFuEhs3f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 86,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "kikiii00000",
+        "verified": false
+      }
+    ]
+  }
+}

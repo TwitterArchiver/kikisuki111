@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019052795568279553"
+      ],
+      "media_source_tweet_id": [
+        "2027368123049869650"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027393437314732425",
+    "created_at": "2026-02-27T14:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027393437314732425"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "秋葉原",
+          "probability": 0.6065,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "267179783",
+          "start": 3,
+          "username": "PhotoAkiba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W579qyW8OM",
+          "end": 65,
+          "expanded_url": "https://x.com/PhotoAkiba/status/2027368123049869650/photo/1",
+          "media_key": "3_2019052795568279553",
+          "start": 42,
+          "url": "https://t.co/W579qyW8OM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027393437314732425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027368123049869650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhotoAkiba: 10年前の秋葉原風景\n(2016年2月14日撮影) https://t.co/W579qyW8OM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2019052795568279553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUd0fabUAEynEg.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019052795568279553"
+          ],
+          "media_source_tweet_id": [
+            "2027368123049869650"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027393437314732425",
+        "created_at": "2026-02-27T14:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027393437314732425"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "秋葉原",
+              "probability": 0.6065,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "267179783",
+              "start": 3,
+              "username": "PhotoAkiba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W579qyW8OM",
+              "end": 65,
+              "expanded_url": "https://x.com/PhotoAkiba/status/2027368123049869650/photo/1",
+              "media_key": "3_2019052795568279553",
+              "start": 42,
+              "url": "https://t.co/W579qyW8OM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027393437314732425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027368123049869650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhotoAkiba: 10年前の秋葉原風景\n(2016年2月14日撮影) https://t.co/W579qyW8OM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019052795568279553"
+          ]
+        },
+        "author_id": "267179783",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027368123049869650",
+        "created_at": "2026-02-27T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027368123049869650"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "秋葉原",
+              "probability": 0.5828,
+              "start": 5,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W579qyW8OM",
+              "end": 49,
+              "expanded_url": "https://x.com/PhotoAkiba/status/2027368123049869650/photo/1",
+              "media_key": "3_2019052795568279553",
+              "start": 26,
+              "url": "https://t.co/W579qyW8OM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027368123049869650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 11462,
+          "like_count": 338,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "10年前の秋葉原風景\n(2016年2月14日撮影) https://t.co/W579qyW8OM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 158,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-16T13:23:59.000Z",
+        "description": "「電気街と言えば秋葉原、秋葉原と言えば電気街。」　フォロー等はご自由に。仕事が多忙につき、つぶやきも返信も時々。秋葉原の写真サイト→ https://t.co/HjqSHubqMV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "photoakiba.jp",
+                "end": 90,
+                "expanded_url": "http://photoakiba.jp/",
+                "start": 67,
+                "url": "https://t.co/HjqSHubqMV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flickr.com/photos/photoak…",
+                "end": 23,
+                "expanded_url": "http://www.flickr.com/photos/photoakiba/",
+                "start": 0,
+                "url": "https://t.co/8wghdPwAl4"
+              }
+            ]
+          }
+        },
+        "id": "267179783",
+        "location": "晴れときどき秋葉原",
+        "name": "フォト秋葉原",
+        "pinned_tweet_id": "2004574806998745321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875732172769959936/It8smGvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58946,
+          "following_count": 159,
+          "like_count": 3267,
+          "listed_count": 829,
+          "media_count": 9337,
+          "tweet_count": 15776
+        },
+        "url": "https://t.co/8wghdPwAl4",
+        "username": "PhotoAkiba",
+        "verified": true
+      }
+    ]
+  }
+}

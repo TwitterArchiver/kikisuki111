@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2043542792329392313",
+    "created_at": "2026-04-13T04:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043542792329392313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782767375000969217",
+          "start": 3,
+          "username": "IZAYOI_841"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043542792329392313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043267499232469106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IZAYOI_841: 自殺したい全部やめたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2043542792329392313",
+        "created_at": "2026-04-13T04:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043542792329392313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782767375000969217",
+              "start": 3,
+              "username": "IZAYOI_841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043542792329392313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043267499232469106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IZAYOI_841: 自殺したい全部やめたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782767375000969217",
+        "conversation_id": "2043267499232469106",
+        "created_at": "2026-04-12T09:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043267499232469106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043267499232469106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 21560,
+          "like_count": 1994,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 526
+        },
+        "reply_settings": "everyone",
+        "text": "自殺したい全部やめたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 274,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 387
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T13:44:11.000Z",
+        "description": "07:死にたい:不登校:高校休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dycq46phsbskkm…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/dycq46phsbskkmg?t=u5ujrM&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/I6mdlLt61S"
+              }
+            ]
+          }
+        },
+        "id": "1782767375000969217",
+        "name": "m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794805403437629440/hL9kZoM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 916,
+          "like_count": 56281,
+          "listed_count": 14,
+          "media_count": 23,
+          "tweet_count": 7182
+        },
+        "url": "https://t.co/I6mdlLt61S",
+        "username": "IZAYOI_841",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048733547490639872",
+        "3_2048733547494813696",
+        "13_2048733547494875137",
+        "13_2048733547499073536"
+      ],
+      "media_source_tweet_id": [
+        "2048733655468798277",
+        "2048733655468798277",
+        "2048733655468798277",
+        "2048733655468798277"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2049012806150983829",
+    "created_at": "2026-04-28T06:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049012806150983829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2565420427",
+          "start": 3,
+          "username": "hosoterratoma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q01xF5hmF1",
+          "end": 111,
+          "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+          "media_key": "3_2048733547490639872",
+          "start": 88,
+          "url": "https://t.co/q01xF5hmF1"
+        },
+        {
+          "display_url": "pic.x.com/q01xF5hmF1",
+          "end": 111,
+          "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+          "media_key": "3_2048733547494813696",
+          "start": 88,
+          "url": "https://t.co/q01xF5hmF1"
+        },
+        {
+          "display_url": "pic.x.com/q01xF5hmF1",
+          "end": 111,
+          "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+          "media_key": "13_2048733547494875137",
+          "start": 88,
+          "url": "https://t.co/q01xF5hmF1"
+        },
+        {
+          "display_url": "pic.x.com/q01xF5hmF1",
+          "end": 111,
+          "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+          "media_key": "13_2048733547499073536",
+          "start": 88,
+          "url": "https://t.co/q01xF5hmF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049012806150983829",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048733655468798277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosoterratoma: 4.25.26 에로 그로 넌센스🥩🔪\n여러분들의 성원속에 어김없이 완판했습니다 보추정육점을 다시 찾아주신 여러분 감사합니다🫶 https://t.co/q01xF5hmF1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2035,
+        "media_key": "3_2048733547490639872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6QTombAAAuTzw.jpg",
+        "width": 1671
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048733547494813696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6QTonasAAVq9u.jpg",
+        "width": 1372
+      },
+      {
+        "duration_ms": 55700,
+        "height": 1280,
+        "media_key": "13_2048733547494875137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048733547494875137/img/FgrxcPyKO_xdqqB5.jpg",
+        "public_metrics": {
+          "view_count": 7902
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048733547494875137/vid/avc1/320x568/yW3bp89qCo783XoY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048733547494875137/vid/avc1/480x852/A81mJoW6rlHObPDr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048733547494875137/vid/avc1/720x1280/_wNYnVWnyXj5T6en.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048733547494875137/pl/gKGoHimhCbjyQGqC.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 27151,
+        "height": 1280,
+        "media_key": "13_2048733547499073536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048733547499073536/img/Ye7FubnJyCukwdnf.jpg",
+        "public_metrics": {
+          "view_count": 1116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048733547499073536/vid/avc1/320x568/XmC078py1JWxnLBP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048733547499073536/vid/avc1/480x852/kP_6kQ_jUhFEGn8I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048733547499073536/vid/avc1/720x1280/XACrVsd-8-hDf6lr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048733547499073536/pl/SC636IMH7VQJipSO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048733547490639872",
+            "3_2048733547494813696",
+            "13_2048733547494875137",
+            "13_2048733547499073536"
+          ],
+          "media_source_tweet_id": [
+            "2048733655468798277",
+            "2048733655468798277",
+            "2048733655468798277",
+            "2048733655468798277"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2049012806150983829",
+        "created_at": "2026-04-28T06:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049012806150983829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2565420427",
+              "start": 3,
+              "username": "hosoterratoma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 111,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "3_2048733547490639872",
+              "start": 88,
+              "url": "https://t.co/q01xF5hmF1"
+            },
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 111,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "3_2048733547494813696",
+              "start": 88,
+              "url": "https://t.co/q01xF5hmF1"
+            },
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 111,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "13_2048733547494875137",
+              "start": 88,
+              "url": "https://t.co/q01xF5hmF1"
+            },
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 111,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "13_2048733547499073536",
+              "start": 88,
+              "url": "https://t.co/q01xF5hmF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049012806150983829",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048733655468798277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hosoterratoma: 4.25.26 에로 그로 넌센스🥩🔪\n여러분들의 성원속에 어김없이 완판했습니다 보추정육점을 다시 찾아주신 여러분 감사합니다🫶 https://t.co/q01xF5hmF1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048733547490639872",
+            "3_2048733547494813696",
+            "13_2048733547494875137",
+            "13_2048733547499073536"
+          ]
+        },
+        "author_id": "2565420427",
+        "conversation_id": "2048733655468798277",
+        "created_at": "2026-04-27T11:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048733655468798277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 92,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "3_2048733547490639872",
+              "start": 69,
+              "url": "https://t.co/q01xF5hmF1"
+            },
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 92,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "3_2048733547494813696",
+              "start": 69,
+              "url": "https://t.co/q01xF5hmF1"
+            },
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 92,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "13_2048733547494875137",
+              "start": 69,
+              "url": "https://t.co/q01xF5hmF1"
+            },
+            {
+              "display_url": "pic.x.com/q01xF5hmF1",
+              "end": 92,
+              "expanded_url": "https://x.com/hosoterratoma/status/2048733655468798277/video/1",
+              "media_key": "13_2048733547499073536",
+              "start": 69,
+              "url": "https://t.co/q01xF5hmF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048733655468798277",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 19028,
+          "like_count": 1028,
+          "quote_count": 19,
+          "reply_count": 2,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "4.25.26 에로 그로 넌센스🥩🔪\n여러분들의 성원속에 어김없이 완판했습니다 보추정육점을 다시 찾아주신 여러분 감사합니다🫶 https://t.co/q01xF5hmF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 363,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 531
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-13T14:29:58.000Z",
+        "description": "버러지같은 인생 insect tran$$exualism she/her 23🇰🇷 Bookings : luther@bookomni.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/B0ROhaYpCuE?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/B0ROhaYpCuE?si=UHPR4xRogORabMnF",
+                "start": 0,
+                "url": "https://t.co/m2sIq92DLP"
+              }
+            ]
+          }
+        },
+        "id": "2565420427",
+        "location": "Yongsan-gu, Republic of Korea",
+        "name": "Hoso 호소",
+        "pinned_tweet_id": "2008710358299811958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010263536644325376/nbyNNSPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35561,
+          "following_count": 1577,
+          "like_count": 7913,
+          "listed_count": 36,
+          "media_count": 6258,
+          "tweet_count": 55213
+        },
+        "url": "https://t.co/m2sIq92DLP",
+        "username": "hosoterratoma",
+        "verified": false
+      }
+    ]
+  }
+}

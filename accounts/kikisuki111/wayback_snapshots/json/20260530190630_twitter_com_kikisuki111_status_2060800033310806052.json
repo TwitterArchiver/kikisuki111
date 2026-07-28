@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060800024582483969"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2060800033310806052",
+    "created_at": "2026-05-30T19:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060800033310806052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lc2fWr7huz",
+          "end": 28,
+          "expanded_url": "https://x.com/kikisuki111/status/2060800033310806052/photo/1",
+          "media_key": "3_2060800024582483969",
+          "start": 5,
+          "url": "https://t.co/lc2fWr7huz"
+        },
+        {
+          "display_url": "x.com/kikisuki111/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/kikisuki111/status/2060790501750784221",
+          "start": 29,
+          "url": "https://t.co/UT891dosHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060800033310806052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060790501750784221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "往死里喝 https://t.co/lc2fWr7huz https://t.co/UT891dosHK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060800024582483969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlutCpa8AEGMcM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060790495207653376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlmCW9agAAZEy4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060800024582483969"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2060800033310806052",
+        "created_at": "2026-05-30T19:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060800033310806052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lc2fWr7huz",
+              "end": 28,
+              "expanded_url": "https://x.com/kikisuki111/status/2060800033310806052/photo/1",
+              "media_key": "3_2060800024582483969",
+              "start": 5,
+              "url": "https://t.co/lc2fWr7huz"
+            },
+            {
+              "display_url": "x.com/kikisuki111/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/kikisuki111/status/2060790501750784221",
+              "start": 29,
+              "url": "https://t.co/UT891dosHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060800033310806052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060790501750784221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "往死里喝 https://t.co/lc2fWr7huz https://t.co/UT891dosHK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060790495207653376"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2060790501750784221",
+        "created_at": "2026-05-30T18:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060790501750784221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NNt8Nw2CP",
+              "end": 25,
+              "expanded_url": "https://x.com/kikisuki111/status/2060790501750784221/photo/1",
+              "media_key": "3_2060790495207653376",
+              "start": 2,
+              "url": "https://t.co/4NNt8Nw2CP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060790501750784221",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/4NNt8Nw2CP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 517,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 873
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

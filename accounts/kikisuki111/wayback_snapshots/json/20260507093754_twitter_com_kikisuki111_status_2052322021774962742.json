@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044175207213215751",
+        "3_2044175207469068289",
+        "3_2044175207200632832",
+        "3_2044175207213215748"
+      ],
+      "media_source_tweet_id": [
+        "2044175216386158879",
+        "2044175216386158879",
+        "2044175216386158879",
+        "2044175216386158879"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052322021774962742",
+    "created_at": "2026-05-07T09:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052322021774962742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2013209398395752448",
+          "start": 3,
+          "username": "DesireLovet1qi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4CLQPFUsQt",
+          "end": 47,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+          "media_key": "3_2044175207213215751",
+          "start": 24,
+          "url": "https://t.co/4CLQPFUsQt"
+        },
+        {
+          "display_url": "pic.x.com/4CLQPFUsQt",
+          "end": 47,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+          "media_key": "3_2044175207469068289",
+          "start": 24,
+          "url": "https://t.co/4CLQPFUsQt"
+        },
+        {
+          "display_url": "pic.x.com/4CLQPFUsQt",
+          "end": 47,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+          "media_key": "3_2044175207200632832",
+          "start": 24,
+          "url": "https://t.co/4CLQPFUsQt"
+        },
+        {
+          "display_url": "pic.x.com/4CLQPFUsQt",
+          "end": 47,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+          "media_key": "3_2044175207213215748",
+          "start": 24,
+          "url": "https://t.co/4CLQPFUsQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052322021774962742",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044175216386158879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DesireLovet1qi: 🔝自介 https://t.co/4CLQPFUsQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2044175207213215751",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5ehTyasAc5t6s.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1882,
+        "media_key": "3_2044175207469068289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5ehUvasAEd1bF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2044175207200632832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5ehTvasAACPDj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2044175207213215748",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5ehTyasAQCLfg.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044175207213215751",
+            "3_2044175207469068289",
+            "3_2044175207200632832",
+            "3_2044175207213215748"
+          ],
+          "media_source_tweet_id": [
+            "2044175216386158879",
+            "2044175216386158879",
+            "2044175216386158879",
+            "2044175216386158879"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052322021774962742",
+        "created_at": "2026-05-07T09:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052322021774962742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2013209398395752448",
+              "start": 3,
+              "username": "DesireLovet1qi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 47,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207213215751",
+              "start": 24,
+              "url": "https://t.co/4CLQPFUsQt"
+            },
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 47,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207469068289",
+              "start": 24,
+              "url": "https://t.co/4CLQPFUsQt"
+            },
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 47,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207200632832",
+              "start": 24,
+              "url": "https://t.co/4CLQPFUsQt"
+            },
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 47,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207213215748",
+              "start": 24,
+              "url": "https://t.co/4CLQPFUsQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052322021774962742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044175216386158879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DesireLovet1qi: 🔝自介 https://t.co/4CLQPFUsQt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044175207213215751",
+            "3_2044175207469068289",
+            "3_2044175207200632832",
+            "3_2044175207213215748"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044175216386158879",
+        "created_at": "2026-04-14T22:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044175216386158879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 27,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207213215751",
+              "start": 4,
+              "url": "https://t.co/4CLQPFUsQt"
+            },
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 27,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207469068289",
+              "start": 4,
+              "url": "https://t.co/4CLQPFUsQt"
+            },
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 27,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207200632832",
+              "start": 4,
+              "url": "https://t.co/4CLQPFUsQt"
+            },
+            {
+              "display_url": "pic.x.com/4CLQPFUsQt",
+              "end": 27,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044175216386158879/photo/1",
+              "media_key": "3_2044175207213215748",
+              "start": 4,
+              "url": "https://t.co/4CLQPFUsQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044175216386158879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12094,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "🔝自介 https://t.co/4CLQPFUsQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 400,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 597
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/重焦重抑  简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 358,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

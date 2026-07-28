@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2037448294901911594",
+    "created_at": "2026-03-27T11:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037493426598605224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        },
+        {
+          "end": 19,
+          "id": "2028925492351647745",
+          "start": 12,
+          "username": "Xue03g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037493426598605224",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037448294901911594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 @Xue03g 恭喜千fo！好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2037448294901911594",
+        "created_at": "2026-03-27T11:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037493426598605224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            },
+            {
+              "end": 19,
+              "id": "2028925492351647745",
+              "start": 12,
+              "username": "Xue03g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037493426598605224",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037448294901911594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 @Xue03g 恭喜千fo！好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2037448294901911594",
+        "created_at": "2026-03-27T08:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037448294901911594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037448294901911594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1076,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "今天是眠眠1000fo的日子🍰\n谢谢大家喜欢我(´･ω･`)抽点粉丝小礼物给大家表示感谢T^T\n\n一等奖🍰抽二人补佳乐*2【国补】（折现52¥）\n二等奖🍰抽二人普瑞巴林*2（折现39¥）\n三等奖🍰抽二人愈美片*1（折现10¥）\n\n心意红包(´･ω･`)\n🍰抽三人发5.20小红包🧧\n🍰抽三人发1.88小红包🧧\n\n粉丝评转赞参与抽奖🎟️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 215,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 278
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 300,
+          "like_count": 446,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T20:08:51.000Z",
+        "description": "总而言之你特别可爱",
+        "id": "2028925492351647745",
+        "location": "🚪50",
+        "name": "Clementine03g",
+        "pinned_tweet_id": "2033219724889206977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035943845591130112/AmfCT4hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 117,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 175
+        },
+        "username": "Xue03g",
+        "verified": false
+      }
+    ]
+  }
+}

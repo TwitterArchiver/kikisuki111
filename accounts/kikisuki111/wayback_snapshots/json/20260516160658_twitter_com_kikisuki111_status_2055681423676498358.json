@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055504194338246656"
+      ],
+      "media_source_tweet_id": [
+        "2055504197144154323"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055681423676498358",
+    "created_at": "2026-05-16T16:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055681423676498358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902512265301258243",
+          "start": 3,
+          "username": "sacred1124"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EJZc11lwOv",
+          "end": 39,
+          "expanded_url": "https://x.com/sacred1124/status/2055504197144154323/photo/1",
+          "media_key": "3_2055504194338246656",
+          "start": 16,
+          "url": "https://t.co/EJZc11lwOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055681423676498358",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055504197144154323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sacred1124: https://t.co/EJZc11lwOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2055504194338246656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaeLJnbUAA5lOA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055504194338246656"
+          ],
+          "media_source_tweet_id": [
+            "2055504197144154323"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055681423676498358",
+        "created_at": "2026-05-16T16:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055681423676498358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902512265301258243",
+              "start": 3,
+              "username": "sacred1124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJZc11lwOv",
+              "end": 39,
+              "expanded_url": "https://x.com/sacred1124/status/2055504197144154323/photo/1",
+              "media_key": "3_2055504194338246656",
+              "start": 16,
+              "url": "https://t.co/EJZc11lwOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055681423676498358",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055504197144154323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sacred1124: https://t.co/EJZc11lwOv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055504194338246656"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055504197144154323",
+        "created_at": "2026-05-16T04:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055504197144154323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJZc11lwOv",
+              "end": 23,
+              "expanded_url": "https://x.com/sacred1124/status/2055504197144154323/photo/1",
+              "media_key": "3_2055504194338246656",
+              "start": 0,
+              "url": "https://t.co/EJZc11lwOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055504197144154323",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1100,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EJZc11lwOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 438,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 814
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 |药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 83,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 60,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 68,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

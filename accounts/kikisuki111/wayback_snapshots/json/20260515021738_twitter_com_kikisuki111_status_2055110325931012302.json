@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055110239113076736"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2055110325931012302",
+    "created_at": "2026-05-15T02:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055110325931012302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jmcyIq8tCT",
+          "end": 29,
+          "expanded_url": "https://x.com/kikisuki111/status/2055110325931012302/video/1",
+          "media_key": "13_2055110239113076736",
+          "start": 6,
+          "url": "https://t.co/jmcyIq8tCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055110325931012302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "装忧郁被扇 https://t.co/jmcyIq8tCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 1280,
+        "media_key": "13_2055110239113076736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055110239113076736/img/bDb8lQxhK3IMhsGG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055110239113076736/vid/avc1/320x568/6VwPkqG25oiA-Bss.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055110239113076736/vid/avc1/480x852/VTrEaJ9RtG4GDW5a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055110239113076736/vid/avc1/720x1280/40ojxcZy7OzsCB15.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055110239113076736/pl/vYQUn806da-VxN8_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055110239113076736"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2055110325931012302",
+        "created_at": "2026-05-15T02:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055110325931012302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmcyIq8tCT",
+              "end": 29,
+              "expanded_url": "https://x.com/kikisuki111/status/2055110325931012302/video/1",
+              "media_key": "13_2055110239113076736",
+              "start": 6,
+              "url": "https://t.co/jmcyIq8tCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055110325931012302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "装忧郁被扇 https://t.co/jmcyIq8tCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 419,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 778
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

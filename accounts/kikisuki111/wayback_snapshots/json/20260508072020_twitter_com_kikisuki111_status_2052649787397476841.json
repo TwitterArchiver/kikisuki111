@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052365665819037696"
+      ],
+      "media_source_tweet_id": [
+        "2052365670076272832"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2052649787397476841",
+    "created_at": "2026-05-08T07:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052649787397476841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1644906081288876035",
+          "start": 3,
+          "username": "ibukiyama191664"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a1m5axkvxL",
+          "end": 80,
+          "expanded_url": "https://x.com/ibukiyama191664/status/2052365670076272832/photo/1",
+          "media_key": "3_2052365665819037696",
+          "start": 57,
+          "url": "https://t.co/a1m5axkvxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052649787397476841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052365670076272832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ibukiyama191664: \"屍鬼\"\nこのアニメあんま観てる人いないけど、個人的に名作だと思ってる https://t.co/a1m5axkvxL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2052365665819037696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt3svxaEAAPjqq.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052365665819037696"
+          ],
+          "media_source_tweet_id": [
+            "2052365670076272832"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2052649787397476841",
+        "created_at": "2026-05-08T07:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052649787397476841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1644906081288876035",
+              "start": 3,
+              "username": "ibukiyama191664"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1m5axkvxL",
+              "end": 80,
+              "expanded_url": "https://x.com/ibukiyama191664/status/2052365670076272832/photo/1",
+              "media_key": "3_2052365665819037696",
+              "start": 57,
+              "url": "https://t.co/a1m5axkvxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052649787397476841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052365670076272832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ibukiyama191664: \"屍鬼\"\nこのアニメあんま観てる人いないけど、個人的に名作だと思ってる https://t.co/a1m5axkvxL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052365665819037696"
+          ]
+        },
+        "author_id": "1644906081288876035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2052365670076272832",
+        "created_at": "2026-05-07T12:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052365670076272832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1m5axkvxL",
+              "end": 59,
+              "expanded_url": "https://x.com/ibukiyama191664/status/2052365670076272832/photo/1",
+              "media_key": "3_2052365665819037696",
+              "start": 36,
+              "url": "https://t.co/a1m5axkvxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052365670076272832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1116,
+          "impression_count": 236868,
+          "like_count": 3707,
+          "quote_count": 229,
+          "reply_count": 74,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "\"屍鬼\"\nこのアニメあんま観てる人いないけど、個人的に名作だと思ってる https://t.co/a1m5axkvxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 405,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 619
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T03:32:35.000Z",
+        "description": "大学生。アニメ、よしなま、TOP4、フロムゲー、モンハン、マリオ。無言フォロー失礼。気軽に話しかけてください。怪しいアカ以外はフォロバします。DMは既読遅い。サブ垢→@ibukiyama191661 💧水筒→@hihhuna 有馬かな同盟→@omokura120 友→@Yu_anime0807",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ibukiyama191661"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "hihhuna"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "omokura120"
+              },
+              {
+                "end": 147,
+                "start": 134,
+                "username": "Yu_anime0807"
+              }
+            ]
+          }
+        },
+        "id": "1644906081288876035",
+        "name": "ni♪夢ステ同盟",
+        "pinned_tweet_id": "2044713756614410418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040222413489885184/pype1l8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 1799,
+          "like_count": 58990,
+          "listed_count": 26,
+          "media_count": 751,
+          "tweet_count": 31043
+        },
+        "username": "ibukiyama191664",
+        "verified": false
+      }
+    ]
+  }
+}

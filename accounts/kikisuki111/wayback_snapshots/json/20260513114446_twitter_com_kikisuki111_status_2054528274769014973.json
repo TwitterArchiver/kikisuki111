@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054052650979590144"
+      ],
+      "media_source_tweet_id": [
+        "2054162420982001748"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2054528274769014973",
+    "created_at": "2026-05-13T11:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054528274769014973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666657380216586240",
+          "start": 3,
+          "username": "de3dsoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CmEM2fpsMU",
+          "end": 37,
+          "expanded_url": "https://x.com/de3dsoul/status/2054162420982001748/photo/1",
+          "media_key": "3_2054052650979590144",
+          "start": 14,
+          "url": "https://t.co/CmEM2fpsMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054528274769014973",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054162420982001748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de3dsoul: https://t.co/CmEM2fpsMU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 579,
+        "media_key": "3_2054052650979590144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIF2ANOWgAAofOZ.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054052650979590144"
+          ],
+          "media_source_tweet_id": [
+            "2054162420982001748"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2054528274769014973",
+        "created_at": "2026-05-13T11:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054528274769014973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666657380216586240",
+              "start": 3,
+              "username": "de3dsoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmEM2fpsMU",
+              "end": 37,
+              "expanded_url": "https://x.com/de3dsoul/status/2054162420982001748/photo/1",
+              "media_key": "3_2054052650979590144",
+              "start": 14,
+              "url": "https://t.co/CmEM2fpsMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054528274769014973",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054162420982001748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de3dsoul: https://t.co/CmEM2fpsMU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054052650979590144"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "conversation_id": "2054162420982001748",
+        "created_at": "2026-05-12T11:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054162420982001748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmEM2fpsMU",
+              "end": 23,
+              "expanded_url": "https://x.com/de3dsoul/status/2054162420982001748/photo/1",
+              "media_key": "3_2054052650979590144",
+              "start": 0,
+              "url": "https://t.co/CmEM2fpsMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054162420982001748",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 84876,
+          "like_count": 9061,
+          "quote_count": 43,
+          "reply_count": 22,
+          "retweet_count": 2135
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CmEM2fpsMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 419,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 755
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "location": "him",
+        "name": "定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130561,
+          "following_count": 51,
+          "like_count": 10120,
+          "listed_count": 239,
+          "media_count": 3898,
+          "tweet_count": 4260
+        },
+        "username": "de3dsoul",
+        "verified": true
+      }
+    ]
+  }
+}

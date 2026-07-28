@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027321067661049858"
+      ],
+      "media_source_tweet_id": [
+        "2027321074531385662"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027421445861875988",
+    "created_at": "2026-02-27T16:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027421445861875988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1988925214374412288",
+          "start": 3,
+          "username": "kitty_a2a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Y02x1ejnu",
+          "end": 38,
+          "expanded_url": "https://x.com/kitty_a2a/status/2027321074531385662/photo/1",
+          "media_key": "3_2027321067661049858",
+          "start": 15,
+          "url": "https://t.co/8Y02x1ejnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027421445861875988",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027321074531385662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitty_a2a: https://t.co/8Y02x1ejnu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027321067661049858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ9xROaQAIsUyf.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027321067661049858"
+          ],
+          "media_source_tweet_id": [
+            "2027321074531385662"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027421445861875988",
+        "created_at": "2026-02-27T16:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027421445861875988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1988925214374412288",
+              "start": 3,
+              "username": "kitty_a2a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Y02x1ejnu",
+              "end": 38,
+              "expanded_url": "https://x.com/kitty_a2a/status/2027321074531385662/photo/1",
+              "media_key": "3_2027321067661049858",
+              "start": 15,
+              "url": "https://t.co/8Y02x1ejnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027421445861875988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027321074531385662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitty_a2a: https://t.co/8Y02x1ejnu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027321067661049858"
+          ]
+        },
+        "author_id": "1988925214374412288",
+        "conversation_id": "2027321074531385662",
+        "created_at": "2026-02-27T09:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027321074531385662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Y02x1ejnu",
+              "end": 23,
+              "expanded_url": "https://x.com/kitty_a2a/status/2027321074531385662/photo/1",
+              "media_key": "3_2027321067661049858",
+              "start": 0,
+              "url": "https://t.co/8Y02x1ejnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027321074531385662",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 12607,
+          "like_count": 1400,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8Y02x1ejnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 161,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 88
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T11:01:44.000Z",
+        "description": "Main account→ @kitty_a1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "kitty_a1a"
+              }
+            ]
+          }
+        },
+        "id": "1988925214374412288",
+        "name": "Cho",
+        "pinned_tweet_id": "2023632015913017606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023008855350001665/Dy7nh-tV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 38,
+          "like_count": 4951,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 371
+        },
+        "username": "kitty_a2a",
+        "verified": false
+      }
+    ]
+  }
+}

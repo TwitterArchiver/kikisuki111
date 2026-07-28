@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2043631934069408021",
+    "created_at": "2026-04-13T10:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043631934069408021"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688104374042836992",
+          "start": 3,
+          "username": "ovocaize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043631934069408021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043562112476205267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovocaize: 你好呀我是小鼠，06年休学女大🚪188/288/520/1314 wx号被提示太多次不太敢加人在养号 联系方式只能加q🥺如果哥一定要加也是可以加人的～！不会对门哥冷冰冰不会不回消息^^拜托入我🚪吧 以及我也想和同类互fo喵 也欢迎互转 #门槛妹 #爸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_2043562088161816577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFww5FVXMAEMPH-.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043562088170221568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFww5FXXcAAZFP5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2043631934069408021",
+        "created_at": "2026-04-13T10:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043631934069408021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688104374042836992",
+              "start": 3,
+              "username": "ovocaize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043631934069408021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043562112476205267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovocaize: 你好呀我是小鼠，06年休学女大🚪188/288/520/1314 wx号被提示太多次不太敢加人在养号 联系方式只能加q🥺如果哥一定要加也是可以加人的～！不会对门哥冷冰冰不会不回消息^^拜托入我🚪吧 以及我也想和同类互fo喵 也欢迎互转 #门槛妹 #爸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043562088161816577",
+            "3_2043562088170221568"
+          ]
+        },
+        "author_id": "1688104374042836992",
+        "conversation_id": "2043562112476205267",
+        "created_at": "2026-04-13T05:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043562112476205267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "一日女友"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "反差"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qncY8jsisQ",
+              "end": 167,
+              "expanded_url": "https://x.com/ovocaize/status/2043562112476205267/photo/1",
+              "media_key": "3_2043562088161816577",
+              "start": 144,
+              "url": "https://t.co/qncY8jsisQ"
+            },
+            {
+              "display_url": "pic.x.com/qncY8jsisQ",
+              "end": 167,
+              "expanded_url": "https://x.com/ovocaize/status/2043562112476205267/photo/1",
+              "media_key": "3_2043562088170221568",
+              "start": 144,
+              "url": "https://t.co/qncY8jsisQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043562112476205267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你好呀我是小鼠，06年休学女大🚪188/288/520/1314 wx号被提示太多次不太敢加人在养号 联系方式只能加q🥺如果哥一定要加也是可以加人的～！不会对门哥冷冰冰不会不回消息^^拜托入我🚪吧 以及我也想和同类互fo喵 也欢迎互转 #门槛妹 #爸爸活  #一日女友 #反差  #女大 https://t.co/qncY8jsisQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 276,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 390
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:27:09.000Z",
+        "description": "小鼠｜顺女｜Tibetan｜宇宙无敌矛盾混沌纠结体｜自伤od碎碎念黑泥聚集地｜查成分后互fo｜私信给我发几把的全家死｜你喜欢我我喜欢你｜来下面匿名聊天呀喂⬇️｜👁️@Naijin66998",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Naijin66998"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gogochun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gogochun",
+                "start": 0,
+                "url": "https://t.co/rMh869uIj7"
+              }
+            ]
+          }
+        },
+        "id": "1688104374042836992",
+        "location": "🚪188/288/520/1314",
+        "name": "为了没有眼泪的明天",
+        "pinned_tweet_id": "2043562112476205267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036801868295458817/jvpoWDKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 212,
+          "like_count": 8947,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/rMh869uIj7",
+        "username": "ovocaize",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051009666608668672"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2051009688771408356",
+    "created_at": "2026-05-03T18:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051009688771408356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bj3GR7PxOj",
+          "end": 30,
+          "expanded_url": "https://x.com/kikisuki111/status/2051009688771408356/photo/1",
+          "media_key": "3_2051009666608668672",
+          "start": 7,
+          "url": "https://t.co/Bj3GR7PxOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051009688771408356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的腿好恶心 https://t.co/Bj3GR7PxOj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051009688771408356].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051009688771408356",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051009688771408356"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051009666608668672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHambNEaIAAOAAD.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 395,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 558
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

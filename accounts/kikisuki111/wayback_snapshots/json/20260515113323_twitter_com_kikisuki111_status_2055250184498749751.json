@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2055187008209977829",
+    "created_at": "2026-05-15T11:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055250184498749751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848095615399682048",
+          "start": 0,
+          "username": "xuwniv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055250184498749751",
+    "in_reply_to_user_id": "1848095615399682048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055242024295845969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuwniv 宝宝我原本是白金色的然后用固色洗的粉色！后面大概洗了两次掉成这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2055187008209977829",
+        "created_at": "2026-05-15T11:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055250184498749751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848095615399682048",
+              "start": 0,
+              "username": "xuwniv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055250184498749751",
+        "in_reply_to_user_id": "1848095615399682048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055242024295845969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuwniv 宝宝我原本是白金色的然后用固色洗的粉色！后面大概洗了两次掉成这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848095615399682048",
+        "conversation_id": "2055187008209977829",
+        "created_at": "2026-05-15T11:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055242024295845969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055242024295845969",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055187008209977829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 姐姐你好可爱呀！宝宝你这个头发染了多久开始掉色的呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 425,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 791
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T20:15:52.000Z",
+        "description": "眼泪成海 苦海无涯 3i丨4i丨08丨INFP丨OD丨割\n本人非常缺德无下限没三观五毒俱全 同类来跟我互fo好吗",
+        "id": "1848095615399682048",
+        "location": "老公大逼里",
+        "name": "reincarnation",
+        "pinned_tweet_id": "2052985778876428383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054757208341258240/8ozC0zcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 383,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 387
+        },
+        "username": "xuwniv",
+        "verified": false
+      }
+    ]
+  }
+}

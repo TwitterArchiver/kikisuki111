@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026332268281925632"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2026332364071489917",
+    "created_at": "2026-02-24T16:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026332364071489917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OMA8Wd55Om",
+          "end": 39,
+          "expanded_url": "https://x.com/kikisuki111/status/2026332364071489917/video/1",
+          "media_key": "13_2026332268281925632",
+          "start": 16,
+          "url": "https://t.co/OMA8Wd55Om"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026332364071489917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丢下毫无意义的抽烟视频然后离去 https://t.co/OMA8Wd55Om"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11066,
+        "height": 1280,
+        "media_key": "13_2026332268281925632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026332268281925632/img/eVeEdsICdMBEi4L_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026332268281925632/vid/avc1/320x568/WDU742iPaDIOiWux.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026332268281925632/vid/avc1/480x852/a9HXDlTx6domDi-7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026332268281925632/vid/avc1/720x1280/Ibkk6eMyfJz6kyfL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026332268281925632/pl/YBTOLErJD1vh_vpW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026332268281925632"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2026332364071489917",
+        "created_at": "2026-02-24T16:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026332364071489917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OMA8Wd55Om",
+              "end": 39,
+              "expanded_url": "https://x.com/kikisuki111/status/2026332364071489917/video/1",
+              "media_key": "13_2026332268281925632",
+              "start": 16,
+              "url": "https://t.co/OMA8Wd55Om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026332364071489917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丢下毫无意义的抽烟视频然后离去 https://t.co/OMA8Wd55Om"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "pinned_tweet_id": "2026180344517677562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 113,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

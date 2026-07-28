@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2032854122458919094",
+    "created_at": "2026-03-14T16:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032854122458919094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1928438977348190208",
+          "start": 3,
+          "username": "stamp_minarai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032854122458919094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032374158135607492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @stamp_minarai: No. 1カワイイスタンプ(՞ o̴̶̷᷄ ̫ o̴̶̷̥᷅ ՞)♡\n\n保存・使用の際は♡お願いします(՞_  ̫ _՞)ᐝ♡\nRP / ＋👤もできればお願いします🙏🏻💞\n\nオタク / 限界オタク / 背景透過 / 素材 / アイドル /…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2032374035406077958",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRxas8bQAYxdyy.png",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2032374035405996032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRxas8aAAAJyKo.png",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2032374035439632386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRxatEbQAIobar.png",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2032854122458919094",
+        "created_at": "2026-03-14T16:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032854122458919094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1928438977348190208",
+              "start": 3,
+              "username": "stamp_minarai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032854122458919094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032374158135607492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @stamp_minarai: No. 1カワイイスタンプ(՞ o̴̶̷᷄ ̫ o̴̶̷̥᷅ ՞)♡\n\n保存・使用の際は♡お願いします(՞_  ̫ _՞)ᐝ♡\nRP / ＋👤もできればお願いします🙏🏻💞\n\nオタク / 限界オタク / 背景透過 / 素材 / アイドル /…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032374035406077958",
+            "3_2032374035405996032",
+            "3_2032374035439632386"
+          ]
+        },
+        "author_id": "1928438977348190208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2032374158135607492",
+        "created_at": "2026-03-13T08:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032374158135607492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7VORWwraG",
+              "end": 165,
+              "expanded_url": "https://x.com/stamp_minarai/status/2032374158135607492/photo/1",
+              "media_key": "3_2032374035406077958",
+              "start": 142,
+              "url": "https://t.co/e7VORWwraG"
+            },
+            {
+              "display_url": "pic.x.com/e7VORWwraG",
+              "end": 165,
+              "expanded_url": "https://x.com/stamp_minarai/status/2032374158135607492/photo/1",
+              "media_key": "3_2032374035405996032",
+              "start": 142,
+              "url": "https://t.co/e7VORWwraG"
+            },
+            {
+              "display_url": "pic.x.com/e7VORWwraG",
+              "end": 165,
+              "expanded_url": "https://x.com/stamp_minarai/status/2032374158135607492/photo/1",
+              "media_key": "3_2032374035439632386",
+              "start": 142,
+              "url": "https://t.co/e7VORWwraG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032374158135607492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1025,
+          "impression_count": 44852,
+          "like_count": 1474,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "No. 1カワイイスタンプ(՞ o̴̶̷᷄ ̫ o̴̶̷̥᷅ ՞)♡\n\n保存・使用の際は♡お願いします(՞_  ̫ _՞)ᐝ♡\nRP / ＋👤もできればお願いします🙏🏻💞\n\nオタク / 限界オタク / 背景透過 / 素材 / アイドル / 地下アイドル / チェキまとめ / チェキ https://t.co/e7VORWwraG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 205,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 232
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T13:11:03.000Z",
+        "description": "色変更等ご自由にどうぞ🙆🏻‍♀️┊︎ 商用利用・二次配布🙅🏻‍♀️ ┊︎ お仕事依頼はdmまで💌🕊️ ┊︎ https://t.co/ruc9g9FtCK┊︎ @stamp_hmt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "stamp_hmt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/kawaiiminichan",
+                "end": 77,
+                "expanded_url": "https://lit.link/kawaiiminichan",
+                "start": 54,
+                "url": "https://t.co/ruc9g9FtCK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/__kawaiimin…",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/__kawaiimini__",
+                "start": 0,
+                "url": "https://t.co/zgwRx6MXO1"
+              }
+            ]
+          }
+        },
+        "id": "1928438977348190208",
+        "location": "リクエスト等はこちらから📨♡→",
+        "name": "見習いすたんぷ屋さん🫧",
+        "pinned_tweet_id": "2024145881516167522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993899993024090112/8sQIAn1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19555,
+          "following_count": 0,
+          "like_count": 2971,
+          "listed_count": 116,
+          "media_count": 141,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/zgwRx6MXO1",
+        "username": "stamp_minarai",
+        "verified": false
+      }
+    ]
+  }
+}

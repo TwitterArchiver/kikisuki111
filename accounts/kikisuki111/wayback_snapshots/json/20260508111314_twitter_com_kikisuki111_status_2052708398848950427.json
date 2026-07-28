@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2052708398848950427",
+    "created_at": "2026-05-08T11:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052708398848950427"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "les"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "wlw"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "女同"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1727740379586600960",
+          "start": 3,
+          "username": "yuejiang279909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052708398848950427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052599277902536963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuejiang279909: 喜欢听女孩子哭....os：好可爱 想抱抱亲亲 想欺负 想法..... #les #wlw #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2052708398848950427",
+        "created_at": "2026-05-08T11:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052708398848950427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "les"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "wlw"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "女同"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1727740379586600960",
+              "start": 3,
+              "username": "yuejiang279909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052708398848950427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052599277902536963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuejiang279909: 喜欢听女孩子哭....os：好可爱 想抱抱亲亲 想欺负 想法..... #les #wlw #女同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727740379586600960",
+        "conversation_id": "2052599277902536963",
+        "created_at": "2026-05-08T03:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052599277902536963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "les"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "wlw"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052599277902536963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1602,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢听女孩子哭....os：好可爱 想抱抱亲亲 想欺负 想法..... #les #wlw #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 406,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 630
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T17:26:35.000Z",
+        "description": "🌈les/长发p/0.5 infp/声控 恋妹/喜欢长发宝宝/sweet talk/这个人非常社恐嗯.非常脆弱，骂我我就灰溜溜跑掉。/男的别关注我/女孩子提问大欢迎！https://t.co/gIMr0yT09T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Tsuki22160",
+                "end": 106,
+                "expanded_url": "https://ngl.link/Tsuki22160",
+                "start": 83,
+                "url": "https://t.co/gIMr0yT09T"
+              }
+            ]
+          }
+        },
+        "id": "1727740379586600960",
+        "name": "Tsuki",
+        "pinned_tweet_id": "2050846676987052239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026088152604319744/89bSoxXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 58,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "username": "yuejiang279909",
+        "verified": false
+      }
+    ]
+  }
+}

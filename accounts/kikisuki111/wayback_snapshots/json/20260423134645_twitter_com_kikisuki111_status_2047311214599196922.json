@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047311153668476931"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2047311214599196922",
+    "created_at": "2026-04-23T13:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047311214599196922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0cKGcPHld",
+          "end": 50,
+          "expanded_url": "https://x.com/kikisuki111/status/2047311214599196922/video/1",
+          "media_key": "13_2047311153668476931",
+          "start": 27,
+          "url": "https://t.co/A0cKGcPHld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047311214599196922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂壁，，我现在要去看恐怖片吗，但是竟然都是空座没人， https://t.co/A0cKGcPHld"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3706,
+        "height": 960,
+        "media_key": "13_2047311153668476931",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047311153668476931/img/QiBTqD5uB8qn1BQx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047311153668476931/vid/avc1/320x426/5lUoII8aX5BsVolA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047311153668476931/vid/avc1/480x640/UZMzjkn12EDnXkUU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047311153668476931/vid/avc1/720x960/xSLiiE698D4AzElW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047311153668476931/pl/GXKQBSgNcDxy5Kj4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047311153668476931"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2047311214599196922",
+        "created_at": "2026-04-23T13:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047311214599196922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0cKGcPHld",
+              "end": 50,
+              "expanded_url": "https://x.com/kikisuki111/status/2047311214599196922/video/1",
+              "media_key": "13_2047311153668476931",
+              "start": 27,
+              "url": "https://t.co/A0cKGcPHld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047311214599196922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂壁，，我现在要去看恐怖片吗，但是竟然都是空座没人， https://t.co/A0cKGcPHld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 348,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 508
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

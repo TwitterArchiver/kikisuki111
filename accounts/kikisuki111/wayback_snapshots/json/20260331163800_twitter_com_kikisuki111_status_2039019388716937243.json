@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2039019388716937243",
+    "created_at": "2026-03-31T16:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T17:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039019388716937243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030123031490875396",
+          "start": 3,
+          "username": "Harukayo96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039019388716937243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038906508399022081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Harukayo96: 有没有人想愚人节假装给我打钱然后我真收"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2039019388716937243",
+        "created_at": "2026-03-31T16:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039019388716937243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 3,
+              "username": "Harukayo96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039019388716937243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038906508399022081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Harukayo96: 有没有人想愚人节假装给我打钱然后我真收"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030123031490875396",
+        "conversation_id": "2038906508399022081",
+        "created_at": "2026-03-31T09:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038906508399022081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038906508399022081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2894,
+          "like_count": 59,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想愚人节假装给我打钱然后我真收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 231,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 301
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "防走丢小号喵。专发自拍。谢谢你爱着我呀。 | 妈妈：@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Miiharukawa"
+              }
+            ]
+          }
+        },
+        "id": "2030123031490875396",
+        "name": "遥",
+        "pinned_tweet_id": "2030124615654330720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030123591766003713/5FtAm4M1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 88,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 65
+        },
+        "username": "Harukayo96",
+        "verified": false
+      }
+    ]
+  }
+}

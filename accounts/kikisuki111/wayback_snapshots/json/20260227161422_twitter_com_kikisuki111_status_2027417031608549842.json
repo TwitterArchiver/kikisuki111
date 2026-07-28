@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2027417031608549842",
+    "created_at": "2026-02-27T16:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027417031608549842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1297514209228406785",
+          "start": 3,
+          "username": "iwgp_mazesoba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027417031608549842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027373989182808220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iwgp_mazesoba: ヲタクが一生かけても推しメンの知る事ができない事項\n\n・本名\n・自宅\n・生まれ故郷、出身校\n・リア友\n・結婚相手\n・子供の名前"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2027417031608549842",
+        "created_at": "2026-02-27T16:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027417031608549842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1297514209228406785",
+              "start": 3,
+              "username": "iwgp_mazesoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027417031608549842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027373989182808220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iwgp_mazesoba: ヲタクが一生かけても推しメンの知る事ができない事項\n\n・本名\n・自宅\n・生まれ故郷、出身校\n・リア友\n・結婚相手\n・子供の名前"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297514209228406785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2027373989182808220",
+        "created_at": "2026-02-27T13:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:08:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027370252821266874",
+          "2027373989182808220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027373989182808220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 496689,
+          "like_count": 7003,
+          "quote_count": 539,
+          "reply_count": 66,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "ヲタクが一生かけても推しメンの知る事ができない事項\n\n・本名\n・自宅\n・生まれ故郷、出身校\n・リア友\n・結婚相手\n・子供の名前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 160,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T12:41:29.000Z",
+        "description": "へなぎ忖度界隈、身内ノリ根絶委員会会長、ラスカルを破壊する使者、さかまる下位互換https://t.co/pLaFbOiHBQ サブ垢@chikaidol_baka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "chikaidol_baka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ryouhae",
+                "end": 63,
+                "expanded_url": "http://tiktok.com/@ryouhae",
+                "start": 40,
+                "url": "https://t.co/pLaFbOiHBQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/iwgp_mazesoba",
+                "end": 23,
+                "expanded_url": "http://instagram.com/iwgp_mazesoba",
+                "start": 0,
+                "url": "https://t.co/CEZwSS8xJr"
+              }
+            ]
+          }
+        },
+        "id": "1297514209228406785",
+        "location": "仁科茉彩の乳",
+        "name": "賄賂そのもの",
+        "pinned_tweet_id": "1996169414379819190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026585496609230848/31EYMeTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36314,
+          "following_count": 14838,
+          "like_count": 1488990,
+          "listed_count": 138,
+          "media_count": 20416,
+          "tweet_count": 57853
+        },
+        "url": "https://t.co/CEZwSS8xJr",
+        "username": "iwgp_mazesoba",
+        "verified": true
+      }
+    ]
+  }
+}

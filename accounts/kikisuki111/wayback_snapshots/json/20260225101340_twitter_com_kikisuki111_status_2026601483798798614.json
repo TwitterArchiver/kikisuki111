@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026232542249279488"
+      ],
+      "media_source_tweet_id": [
+        "2026232665033359816"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026601483798798614",
+    "created_at": "2026-02-25T10:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026601483798798614"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Mitchie M",
+          "probability": 0.6147,
+          "start": 33,
+          "type": "Person"
+        },
+        {
+          "end": 98,
+          "normalized_text": "蒼すずめ",
+          "probability": 0.7081,
+          "start": 95,
+          "type": "Person"
+        },
+        {
+          "end": 109,
+          "normalized_text": "角砂糖様",
+          "probability": 0.4584,
+          "start": 106,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025936601680093184",
+          "start": 3,
+          "username": "ngs_saya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZiXj0o9Gvx",
+          "end": 133,
+          "expanded_url": "https://x.com/ngs_saya/status/2026232665033359816/video/1",
+          "media_key": "13_2026232542249279488",
+          "start": 110,
+          "url": "https://t.co/ZiXj0o9Gvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026601483798798614",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026232665033359816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ngs_saya: 自宅沙耶が好き雪を踊ります🌱❄️\n\nMitchie M様\nステージ\n@ Ai様\nカメラ・モーション\nノン様、hino様\nエフェクト等\nそぼろ様、ビームマンP様、蒼すずめ様、針金P様、角砂糖様 https://t.co/ZiXj0o9Gvx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58833,
+        "height": 720,
+        "media_key": "13_2026232542249279488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026232542249279488/img/MOFYIOxHnRaukyHK.jpg",
+        "public_metrics": {
+          "view_count": 1535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026232542249279488/vid/avc1/480x270/3CKQjFNzgTeIN3jH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026232542249279488/vid/avc1/640x360/bOXhbemF_m4yg9Ei.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026232542249279488/vid/avc1/1280x720/eHJbGYdxYP5MQBrm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026232542249279488/pl/N-pvcaqXmagZq8K9.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026232542249279488"
+          ],
+          "media_source_tweet_id": [
+            "2026232665033359816"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026601483798798614",
+        "created_at": "2026-02-25T10:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026601483798798614"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Mitchie M",
+              "probability": 0.6147,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "蒼すずめ",
+              "probability": 0.7081,
+              "start": 95,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "角砂糖様",
+              "probability": 0.4584,
+              "start": 106,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025936601680093184",
+              "start": 3,
+              "username": "ngs_saya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiXj0o9Gvx",
+              "end": 133,
+              "expanded_url": "https://x.com/ngs_saya/status/2026232665033359816/video/1",
+              "media_key": "13_2026232542249279488",
+              "start": 110,
+              "url": "https://t.co/ZiXj0o9Gvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026601483798798614",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026232665033359816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ngs_saya: 自宅沙耶が好き雪を踊ります🌱❄️\n\nMitchie M様\nステージ\n@ Ai様\nカメラ・モーション\nノン様、hino様\nエフェクト等\nそぼろ様、ビームマンP様、蒼すずめ様、針金P様、角砂糖様 https://t.co/ZiXj0o9Gvx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026232542249279488"
+          ]
+        },
+        "author_id": "2025936601680093184",
+        "conversation_id": "2026232665033359816",
+        "created_at": "2026-02-24T09:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026232665033359816"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Mitchie M",
+              "probability": 0.5824,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "蒼すずめ",
+              "probability": 0.722,
+              "start": 81,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "角砂糖様",
+              "probability": 0.4596,
+              "start": 92,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiXj0o9Gvx",
+              "end": 119,
+              "expanded_url": "https://x.com/ngs_saya/status/2026232665033359816/video/1",
+              "media_key": "13_2026232542249279488",
+              "start": 96,
+              "url": "https://t.co/ZiXj0o9Gvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026232665033359816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4614,
+          "like_count": 270,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "following",
+        "text": "自宅沙耶が好き雪を踊ります🌱❄️\n\nMitchie M様\nステージ\n@ Ai様\nカメラ・モーション\nノン様、hino様\nエフェクト等\nそぼろ様、ビームマンP様、蒼すずめ様、針金P様、角砂糖様 https://t.co/ZiXj0o9Gvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "🚪50 ",
+        "name": "キキ",
+        "pinned_tweet_id": "2026180344517677562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 119,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T14:12:07.000Z",
+        "description": "ふみさやが好き 本垢【@Lvx_ccc】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "Lvx_ccc"
+              }
+            ]
+          }
+        },
+        "id": "2025936601680093184",
+        "location": "Do not use my works",
+        "name": "ながせ",
+        "pinned_tweet_id": "2025945445198147705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025937828648275968/91ejxjdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 41
+        },
+        "username": "ngs_saya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2055472682326790513",
+    "created_at": "2026-05-16T02:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055472682326790513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026548163004559360",
+          "start": 3,
+          "username": "Ninaaapple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055472682326790513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055257286923178364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ninaaapple: 小妹妹你骂谁大毒枭呢！我的药都是有药方的 我吃愈美片是因为我有上呼吸道感染 我吃普瑞巴林是要辅助治疗焦虑症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2055472682326790513",
+        "created_at": "2026-05-16T02:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055472682326790513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026548163004559360",
+              "start": 3,
+              "username": "Ninaaapple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055472682326790513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055257286923178364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ninaaapple: 小妹妹你骂谁大毒枭呢！我的药都是有药方的 我吃愈美片是因为我有上呼吸道感染 我吃普瑞巴林是要辅助治疗焦虑症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026548163004559360",
+        "conversation_id": "2055257286923178364",
+        "created_at": "2026-05-15T12:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055257286923178364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055257286923178364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1367,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "小妹妹你骂谁大毒枭呢！我的药都是有药方的 我吃愈美片是因为我有上呼吸道感染 我吃普瑞巴林是要辅助治疗焦虑症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 432,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 800
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T06:43:10.000Z",
+        "description": "I'm Nina.🏳️‍🌈\nIloveyouforeverIhateyouforever",
+        "id": "2026548163004559360",
+        "location": "瑞士 沃",
+        "name": "Nina",
+        "pinned_tweet_id": "2046090310107775320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046083071716339712/T8jhO2Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 101,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 120
+        },
+        "username": "Ninaaapple",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2052829816706261026",
+    "created_at": "2026-05-08T19:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T20:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052829816706261026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771513890138132480",
+          "start": 3,
+          "username": "sure3064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052829816706261026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052693553655288090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sure3064: 洗澡前是舒服的\n洗澡时是舒服的\n洗完澡是舒服的\n但是去洗澡非常不舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2052829816706261026",
+        "created_at": "2026-05-08T19:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052829816706261026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771513890138132480",
+              "start": 3,
+              "username": "sure3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052829816706261026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052693553655288090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sure3064: 洗澡前是舒服的\n洗澡时是舒服的\n洗完澡是舒服的\n但是去洗澡非常不舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771513890138132480",
+        "conversation_id": "2052693553655288090",
+        "created_at": "2026-05-08T10:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052693553655288090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052693553655288090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2586,
+          "like_count": 69,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "洗澡前是舒服的\n洗澡时是舒服的\n洗完澡是舒服的\n但是去洗澡非常不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 407,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 665
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "entj ᰔᩚ",
+        "id": "1771513890138132480",
+        "location": "❤️‍🔥",
+        "name": "汝",
+        "pinned_tweet_id": "2046452939410317731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028055630318333952/Xqhu6lGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42736,
+          "following_count": 51,
+          "like_count": 137,
+          "listed_count": 74,
+          "media_count": 24,
+          "tweet_count": 1609
+        },
+        "username": "sure3064",
+        "verified": false
+      }
+    ]
+  }
+}

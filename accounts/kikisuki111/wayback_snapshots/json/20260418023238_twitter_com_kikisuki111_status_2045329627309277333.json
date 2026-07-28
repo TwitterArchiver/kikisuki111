@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045009090985037824"
+      ],
+      "media_source_tweet_id": [
+        "2045009147674959901"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045329627309277333",
+    "created_at": "2026-04-18T02:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045329627309277333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "lovedarksoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YrvAqTgiip",
+          "end": 52,
+          "expanded_url": "https://x.com/lovedarksoul/status/2045009147674959901/video/1",
+          "media_key": "13_2045009090985037824",
+          "start": 29,
+          "url": "https://t.co/YrvAqTgiip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045329627309277333",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1394
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045009147674959901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovedarksoul: doll house https://t.co/YrvAqTgiip"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8900,
+        "height": 718,
+        "media_key": "13_2045009090985037824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045009090985037824/img/l5OEYFYTVfH1BlwO.jpg",
+        "public_metrics": {
+          "view_count": 20076
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/vid/avc1/356x270/B3LewbFkoLqAd3WE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/vid/avc1/476x360/0rc5Y2Kz4g-dTx3P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/vid/avc1/952x718/8mqR5sv-hJ3txNr5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/pl/v8pvteCUN8T6AVOw.m3u8"
+          }
+        ],
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045009090985037824"
+          ],
+          "media_source_tweet_id": [
+            "2045009147674959901"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045329627309277333",
+        "created_at": "2026-04-18T02:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045329627309277333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "lovedarksoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrvAqTgiip",
+              "end": 52,
+              "expanded_url": "https://x.com/lovedarksoul/status/2045009147674959901/video/1",
+              "media_key": "13_2045009090985037824",
+              "start": 29,
+              "url": "https://t.co/YrvAqTgiip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045329627309277333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045009147674959901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovedarksoul: doll house https://t.co/YrvAqTgiip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045009090985037824"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "2045009147674959901",
+        "created_at": "2026-04-17T05:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045009147674959901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrvAqTgiip",
+              "end": 34,
+              "expanded_url": "https://x.com/lovedarksoul/status/2045009147674959901/video/1",
+              "media_key": "13_2045009090985037824",
+              "start": 11,
+              "url": "https://t.co/YrvAqTgiip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045009147674959901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1563,
+          "impression_count": 107135,
+          "like_count": 10570,
+          "quote_count": 17,
+          "reply_count": 16,
+          "retweet_count": 1394
+        },
+        "reply_settings": "everyone",
+        "text": "doll house https://t.co/YrvAqTgiip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 334,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 444
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "Praise the sun",
+        "id": "1238520105841168386",
+        "name": "lovedarksoul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044322863445094400/yAEIRbwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87568,
+          "following_count": 26,
+          "like_count": 2312,
+          "listed_count": 114,
+          "media_count": 1651,
+          "tweet_count": 1812
+        },
+        "username": "lovedarksoul",
+        "verified": true
+      }
+    ]
+  }
+}

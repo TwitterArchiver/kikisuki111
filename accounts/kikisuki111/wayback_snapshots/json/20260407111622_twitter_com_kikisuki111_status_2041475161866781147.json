@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2041475161866781147",
+    "created_at": "2026-04-07T11:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041475161866781147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1782751587821363200",
+          "start": 3,
+          "username": "MisshuhuForever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041475161866781147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040890842580427130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MisshuhuForever: 我对所有人的接纳程度\n装逼，随便你\n鬼图，随便你\n裸照，随便你\n自残，随便你\no d   ，随便你\n柜子，随便你\n品客，随便你\n炫富，屏蔽\n幸福，屏蔽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2041475161866781147",
+        "created_at": "2026-04-07T11:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041475161866781147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1782751587821363200",
+              "start": 3,
+              "username": "MisshuhuForever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041475161866781147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040890842580427130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MisshuhuForever: 我对所有人的接纳程度\n装逼，随便你\n鬼图，随便你\n裸照，随便你\n自残，随便你\no d   ，随便你\n柜子，随便你\n品客，随便你\n炫富，屏蔽\n幸福，屏蔽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782751587821363200",
+        "conversation_id": "2040890842580427130",
+        "created_at": "2026-04-05T20:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040890842580427130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040890842580427130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 61193,
+          "like_count": 2444,
+          "quote_count": 33,
+          "reply_count": 27,
+          "retweet_count": 463
+        },
+        "reply_settings": "everyone",
+        "text": "我对所有人的接纳程度\n装逼，随便你\n鬼图，随便你\n裸照，随便你\n自残，随便你\no d   ，随便你\n柜子，随便你\n品客，随便你\n炫富，屏蔽\n幸福，屏蔽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 258,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 349
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:41:22.000Z",
+        "description": "我绝不是你幻想中的电波系女主角。",
+        "id": "1782751587821363200",
+        "name": "怜心",
+        "pinned_tweet_id": "2033427455609094563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041129916411101184/L2KSZRQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 23,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 688
+        },
+        "username": "MisshuhuForever",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029962716388134912"
+      ],
+      "media_source_tweet_id": [
+        "2029962722624803168"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2030113677198905814",
+    "created_at": "2026-03-07T02:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030113677198905814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1714810307443314688",
+          "start": 3,
+          "username": "DigitalD1sgust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Raky9hQuqR",
+          "end": 43,
+          "expanded_url": "https://x.com/DigitalD1sgust/status/2029962722624803168/photo/1",
+          "media_key": "3_2029962716388134912",
+          "start": 20,
+          "url": "https://t.co/Raky9hQuqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030113677198905814",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3935
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029962722624803168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DigitalD1sgust: https://t.co/Raky9hQuqR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2029962716388134912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvgVdmaEAA4k80.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029962716388134912"
+          ],
+          "media_source_tweet_id": [
+            "2029962722624803168"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2030113677198905814",
+        "created_at": "2026-03-07T02:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030113677198905814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1714810307443314688",
+              "start": 3,
+              "username": "DigitalD1sgust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Raky9hQuqR",
+              "end": 43,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/2029962722624803168/photo/1",
+              "media_key": "3_2029962716388134912",
+              "start": 20,
+              "url": "https://t.co/Raky9hQuqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030113677198905814",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3935
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029962722624803168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DigitalD1sgust: https://t.co/Raky9hQuqR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029962716388134912"
+          ]
+        },
+        "author_id": "1714810307443314688",
+        "conversation_id": "2029962722624803168",
+        "created_at": "2026-03-06T16:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029962722624803168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Raky9hQuqR",
+              "end": 23,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/2029962722624803168/photo/1",
+              "media_key": "3_2029962716388134912",
+              "start": 0,
+              "url": "https://t.co/Raky9hQuqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029962722624803168",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 848,
+          "impression_count": 114915,
+          "like_count": 15083,
+          "quote_count": 74,
+          "reply_count": 14,
+          "retweet_count": 3935
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Raky9hQuqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 185,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 162
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T01:07:04.000Z",
+        "description": "23-MDNI𖤐Artist!!! I collect dolls/toys. horror lvr🕷️🌿🪱🫀🐌🦭 infp-t 2w3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/uurgothgf",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/uurgothgf",
+                "start": 0,
+                "url": "https://t.co/WvGkYaRCE1"
+              }
+            ]
+          }
+        },
+        "id": "1714810307443314688",
+        "location": "Hell",
+        "name": "✧˖°. ☠︎ ☠︎ .° ˖ ✧",
+        "pinned_tweet_id": "2013782975666659347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025453742724698112/qtiZPxIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9572,
+          "following_count": 582,
+          "like_count": 35409,
+          "listed_count": 22,
+          "media_count": 6174,
+          "tweet_count": 26570
+        },
+        "url": "https://t.co/WvGkYaRCE1",
+        "username": "DigitalD1sgust",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2061143309398282297",
+    "created_at": "2026-05-31T17:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061143309398282297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kikisuki111/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/kikisuki111/status/2056670314139111474",
+          "start": 17,
+          "url": "https://t.co/bihVhhDGiR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061143309398282297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056670314139111474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全部开到的已私信！付完我会发截图 https://t.co/bihVhhDGiR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2061143309398282297",
+        "created_at": "2026-05-31T17:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061143309398282297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikisuki111/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kikisuki111/status/2056670314139111474",
+              "start": 17,
+              "url": "https://t.co/bihVhhDGiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061143309398282297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056670314139111474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全部开到的已私信！付完我会发截图 https://t.co/bihVhhDGiR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2056670314139111474",
+        "created_at": "2026-05-19T09:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056670314139111474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056670314139111474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11197,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 80,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "300fo 转抽\n请你吃一顿好吃的（不超过100）×1\n买点你喜欢的（不超过50）×2\n充一个svip（不超过20）×3\n\n抽到的话请一定要好好生活哦👾\n幽灵大人在这里祝你们天天开心以及感谢你们对这只幽灵的支持👻\n\n5月最后一天开  转评赞参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 516,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 877
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

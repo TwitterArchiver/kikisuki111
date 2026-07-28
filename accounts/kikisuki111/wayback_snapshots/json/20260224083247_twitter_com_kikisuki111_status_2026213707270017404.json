@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Community Health",
+          "id": "918538847302041600",
+          "name": "Community Health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Common Medication",
+          "id": "920768310152593408",
+          "name": "Common Medication"
+        }
+      }
+    ],
+    "conversation_id": "2026213707270017404",
+    "created_at": "2026-02-24T08:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026213707270017404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021742234639773698",
+          "start": 3,
+          "username": "lox_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026213707270017404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026177769957450210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lox_2021: 【0Dの注意点】\n\n・酒は飲むな吐くぞ\n・人に連絡する時は気をつけろ怪文になってるぞ\n・ゴミはちゃんと処理しろ親にバレるぞ\n・組み合わせには気をつけろ（風邪薬と精神剤は相性が悪い）\n・薬の量には注意しろ（飲みすぎると耐性ついて他の薬の効き目が弱まる）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2026213707270017404",
+        "created_at": "2026-02-24T08:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026213707270017404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021742234639773698",
+              "start": 3,
+              "username": "lox_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026213707270017404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026177769957450210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lox_2021: 【0Dの注意点】\n\n・酒は飲むな吐くぞ\n・人に連絡する時は気をつけろ怪文になってるぞ\n・ゴミはちゃんと処理しろ親にバレるぞ\n・組み合わせには気をつけろ（風邪薬と精神剤は相性が悪い）\n・薬の量には注意しろ（飲みすぎると耐性ついて他の薬の効き目が弱まる）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021742234639773698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2026177769957450210",
+        "created_at": "2026-02-24T06:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026177769957450210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026177769957450210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 4730,
+          "like_count": 360,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "【0Dの注意点】\n\n・酒は飲むな吐くぞ\n・人に連絡する時は気をつけろ怪文になってるぞ\n・ゴミはちゃんと処理しろ親にバレるぞ\n・組み合わせには気をつけろ（風邪薬と精神剤は相性が悪い）\n・薬の量には注意しろ（飲みすぎると耐性ついて他の薬の効き目が弱まる）\n\n※0Dを推奨しているわけではありません"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "pinned_tweet_id": "2025948440199614512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 86,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T00:24:55.000Z",
+        "description": "08 ♀ ツイ廃 本垢▶︎@ichika_pgr 🗝️@ichika_19221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "ichika_pgr"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "ichika_19221"
+              }
+            ]
+          }
+        },
+        "id": "2021742234639773698",
+        "location": "ファンマ▶︎ 🌙✝︎",
+        "name": "いちか2🌙✝︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025892219518099456/UR_ttrP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 231,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 268
+        },
+        "username": "lox_2021",
+        "verified": false
+      }
+    ]
+  }
+}

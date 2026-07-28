@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026180332190609408",
+        "3_2026180332169711617"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2026180344517677562",
+    "created_at": "2026-02-24T06:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026180344517677562"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 3,
+          "tag": "片目界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmpS76NALh",
+          "end": 32,
+          "expanded_url": "https://x.com/kikisuki111/status/2026180344517677562/photo/1",
+          "media_key": "3_2026180332190609408",
+          "start": 9,
+          "url": "https://t.co/AmpS76NALh"
+        },
+        {
+          "display_url": "pic.x.com/AmpS76NALh",
+          "end": 32,
+          "expanded_url": "https://x.com/kikisuki111/status/2026180344517677562/photo/1",
+          "media_key": "3_2026180332169711617",
+          "start": 9,
+          "url": "https://t.co/AmpS76NALh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026180344517677562",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😈😿\n#片目界隈 https://t.co/AmpS76NALh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026180332190609408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5wRucasAAEWI4.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2026180332169711617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5wRuXb0AEGvf5.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026180332190609408",
+            "3_2026180332169711617"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2026180344517677562",
+        "created_at": "2026-02-24T06:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026180344517677562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "片目界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmpS76NALh",
+              "end": 32,
+              "expanded_url": "https://x.com/kikisuki111/status/2026180344517677562/photo/1",
+              "media_key": "3_2026180332190609408",
+              "start": 9,
+              "url": "https://t.co/AmpS76NALh"
+            },
+            {
+              "display_url": "pic.x.com/AmpS76NALh",
+              "end": 32,
+              "expanded_url": "https://x.com/kikisuki111/status/2026180344517677562/photo/1",
+              "media_key": "3_2026180332169711617",
+              "start": 9,
+              "url": "https://t.co/AmpS76NALh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026180344517677562",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😈😿\n#片目界隈 https://t.co/AmpS76NALh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "pinned_tweet_id": "2025948440199614512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 82,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

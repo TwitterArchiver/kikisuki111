@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052449122418872325"
+      ],
+      "media_source_tweet_id": [
+        "2052449128622194875"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2052760132006912124",
+    "created_at": "2026-05-08T14:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052760132006912124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051385287033458688",
+          "start": 3,
+          "username": "gurlsspace"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJoWGpZCcn",
+          "end": 39,
+          "expanded_url": "https://x.com/gurlsspace/status/2052449128622194875/photo/1",
+          "media_key": "3_2052449122418872325",
+          "start": 16,
+          "url": "https://t.co/hJoWGpZCcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052760132006912124",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1774
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052449128622194875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gurlsspace: https://t.co/hJoWGpZCcn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2052449122418872325",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvDmj1W0AUZGDz.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052449122418872325"
+          ],
+          "media_source_tweet_id": [
+            "2052449128622194875"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2052760132006912124",
+        "created_at": "2026-05-08T14:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052760132006912124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051385287033458688",
+              "start": 3,
+              "username": "gurlsspace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJoWGpZCcn",
+              "end": 39,
+              "expanded_url": "https://x.com/gurlsspace/status/2052449128622194875/photo/1",
+              "media_key": "3_2052449122418872325",
+              "start": 16,
+              "url": "https://t.co/hJoWGpZCcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052760132006912124",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1774
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052449128622194875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gurlsspace: https://t.co/hJoWGpZCcn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052449122418872325"
+          ]
+        },
+        "author_id": "2051385287033458688",
+        "conversation_id": "2052449128622194875",
+        "created_at": "2026-05-07T18:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052449128622194875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJoWGpZCcn",
+              "end": 23,
+              "expanded_url": "https://x.com/gurlsspace/status/2052449128622194875/photo/1",
+              "media_key": "3_2052449122418872325",
+              "start": 0,
+              "url": "https://t.co/hJoWGpZCcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052449128622194875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1872,
+          "impression_count": 271981,
+          "like_count": 24612,
+          "quote_count": 154,
+          "reply_count": 33,
+          "retweet_count": 1774
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hJoWGpZCcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 406,
+          "like_count": 1421,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 642
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T19:43:15.000Z",
+        "description": "a place where girls love girls ♡",
+        "id": "2051385287033458688",
+        "name": "only girls",
+        "pinned_tweet_id": "2052449128622194875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051389611897704448/KQR3HI0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 11,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 9
+        },
+        "username": "gurlsspace",
+        "verified": false
+      }
+    ]
+  }
+}

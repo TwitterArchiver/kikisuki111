@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027728750826426373",
+        "3_2027728765225472000",
+        "3_2027728780350070785"
+      ],
+      "media_source_tweet_id": [
+        "2027728883718754635",
+        "2027728883718754635",
+        "2027728883718754635"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027753381469798803",
+    "created_at": "2026-02-28T14:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027753381469798803"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "イキグサレ14",
+          "probability": 0.4287,
+          "start": 22,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1242125777094602752",
+          "start": 3,
+          "username": "YsOavedeCYl6eLs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/15xeoQL7zc",
+          "end": 68,
+          "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+          "media_key": "3_2027728750826426373",
+          "start": 45,
+          "url": "https://t.co/15xeoQL7zc"
+        },
+        {
+          "display_url": "pic.x.com/15xeoQL7zc",
+          "end": 68,
+          "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+          "media_key": "3_2027728765225472000",
+          "start": 45,
+          "url": "https://t.co/15xeoQL7zc"
+        },
+        {
+          "display_url": "pic.x.com/15xeoQL7zc",
+          "end": 68,
+          "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+          "media_key": "3_2027728780350070785",
+          "start": 45,
+          "url": "https://t.co/15xeoQL7zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027753381469798803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027728883718754635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YsOavedeCYl6eLs: 「イキグサレ14」\nジャケ　中ジャケ　裏ジャケ https://t.co/15xeoQL7zc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2027728750826426373",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPwjjXbEAUc5DS.jpg",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "media_key": "3_2027728765225472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPwkZAbEAAuXQu.jpg",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "media_key": "3_2027728780350070785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPwlRWaIAEwx_-.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027728750826426373",
+            "3_2027728765225472000",
+            "3_2027728780350070785"
+          ],
+          "media_source_tweet_id": [
+            "2027728883718754635",
+            "2027728883718754635",
+            "2027728883718754635"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027753381469798803",
+        "created_at": "2026-02-28T14:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027753381469798803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "イキグサレ14",
+              "probability": 0.4287,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1242125777094602752",
+              "start": 3,
+              "username": "YsOavedeCYl6eLs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15xeoQL7zc",
+              "end": 68,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+              "media_key": "3_2027728750826426373",
+              "start": 45,
+              "url": "https://t.co/15xeoQL7zc"
+            },
+            {
+              "display_url": "pic.x.com/15xeoQL7zc",
+              "end": 68,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+              "media_key": "3_2027728765225472000",
+              "start": 45,
+              "url": "https://t.co/15xeoQL7zc"
+            },
+            {
+              "display_url": "pic.x.com/15xeoQL7zc",
+              "end": 68,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+              "media_key": "3_2027728780350070785",
+              "start": 45,
+              "url": "https://t.co/15xeoQL7zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027753381469798803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027728883718754635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YsOavedeCYl6eLs: 「イキグサレ14」\nジャケ　中ジャケ　裏ジャケ https://t.co/15xeoQL7zc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027728750826426373",
+            "3_2027728765225472000",
+            "3_2027728780350070785"
+          ]
+        },
+        "author_id": "1242125777094602752",
+        "conversation_id": "2027728883718754635",
+        "created_at": "2026-02-28T12:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027728883718754635"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "イキグサレ14",
+              "probability": 0.4902,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15xeoQL7zc",
+              "end": 47,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+              "media_key": "3_2027728750826426373",
+              "start": 24,
+              "url": "https://t.co/15xeoQL7zc"
+            },
+            {
+              "display_url": "pic.x.com/15xeoQL7zc",
+              "end": 47,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+              "media_key": "3_2027728765225472000",
+              "start": 24,
+              "url": "https://t.co/15xeoQL7zc"
+            },
+            {
+              "display_url": "pic.x.com/15xeoQL7zc",
+              "end": 47,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2027728883718754635/photo/1",
+              "media_key": "3_2027728780350070785",
+              "start": 24,
+              "url": "https://t.co/15xeoQL7zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027728883718754635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1722,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "「イキグサレ14」\nジャケ　中ジャケ　裏ジャケ https://t.co/15xeoQL7zc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 174,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 111
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T16:27:30.000Z",
+        "description": "オリジナル・ガールズ・ポップ・グループ「イキグサレ」の公式アカウントです。\nダウンロード販売　https://t.co/2kEtp9cYKl\nhttps://t.co/JLnAQhYt3Q\nプロデューサー＠namaitirou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "namaitirou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ikigusare.booth.pm",
+                "end": 70,
+                "expanded_url": "http://ikigusare.booth.pm",
+                "start": 47,
+                "url": "https://t.co/2kEtp9cYKl"
+              },
+              {
+                "display_url": "youtube.com/channel/UC4bkH…",
+                "end": 94,
+                "expanded_url": "https://www.youtube.com/channel/UC4bkHCwADBp9VLEmymKjwfw",
+                "start": 71,
+                "url": "https://t.co/JLnAQhYt3Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "destroy.aki.gs/ikigusare/ikig…",
+                "end": 23,
+                "expanded_url": "http://destroy.aki.gs/ikigusare/ikigusare.html",
+                "start": 0,
+                "url": "https://t.co/BSLLxhbEwr"
+              }
+            ]
+          }
+        },
+        "id": "1242125777094602752",
+        "name": "イキグサレ　公式アカウント",
+        "pinned_tweet_id": "1246064973345722368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245781909503787008/ln2NS8GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14203,
+          "following_count": 0,
+          "like_count": 73,
+          "listed_count": 18,
+          "media_count": 135,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/BSLLxhbEwr",
+        "username": "YsOavedeCYl6eLs",
+        "verified": false
+      }
+    ]
+  }
+}

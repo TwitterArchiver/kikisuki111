@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2025925072154943668",
+    "created_at": "2026-02-23T13:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025925072154943668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1086364922399862784",
+          "start": 3,
+          "username": "princess_decon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025925072154943668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5904
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025343755390251185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @princess_decon: ⠀ \n              ／＞　  フ\n               | 　_　_| \n          ／` ミ__^ノ \n         /　　　　 |\n        /　 ヽ　　 ﾉ             ╱|、…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2025925072154943668",
+        "created_at": "2026-02-23T13:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025925072154943668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1086364922399862784",
+              "start": 3,
+              "username": "princess_decon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025925072154943668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5904
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025343755390251185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @princess_decon: ⠀ \n              ／＞　  フ\n               | 　_　_| \n          ／` ミ__^ノ \n         /　　　　 |\n        /　 ヽ　　 ﾉ             ╱|、…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1086364922399862784",
+        "conversation_id": "2025343755390251185",
+        "created_at": "2026-02-21T22:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T23:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025343755390251185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025343755390251185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2825,
+          "impression_count": 619470,
+          "like_count": 25535,
+          "quote_count": 515,
+          "reply_count": 28,
+          "retweet_count": 5904
+        },
+        "reply_settings": "everyone",
+        "text": "⠀ \n              ／＞　  フ\n               | 　_　_| \n          ／` ミ__^ノ \n         /　　　　 |\n        /　 ヽ　　 ﾉ             ╱|、\n       /　　 |　|　|        ⠀  (˚ˎ 。7  \n／￣|　　 |　|　|         ⠀⠀|、˜〵          \n(￣ヽ＿_  ヽ_)__)         じし⠀ˍ,)ノ\n＼二)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪35 不加男的 坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 79,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-18T20:49:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/prince…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/princess-decon.bsky.social",
+                "start": 0,
+                "url": "https://t.co/32lOgNSGBN"
+              }
+            ]
+          }
+        },
+        "id": "1086364922399862784",
+        "name": "‎絵文字 ( ᴜ ˶. ̫. )っ𖹭ｃ( . ̫.˶ ᴜ ) .𖥔 ݁ ˖๋ ࣭♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1089077900463218688/GCUg3nDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114566,
+          "following_count": 15,
+          "like_count": 5514,
+          "listed_count": 757,
+          "media_count": 0,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/32lOgNSGBN",
+        "username": "princess_decon",
+        "verified": false
+      }
+    ]
+  }
+}

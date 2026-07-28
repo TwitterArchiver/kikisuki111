@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027417526960013386",
+    "created_at": "2026-02-27T16:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027417526960013386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1577591417408344064",
+          "start": 3,
+          "username": "doro_doro_hedo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027417526960013386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027384521977680369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doro_doro_hedo: ん〜〜〜♡♡♡♡♡かわいいねえ♡♡いい子だねぇ♡♡♡生きてて偉ーい♡♡♡♡もう今日から何もしなくていいからねぇ♡\nん？♡なぁに？？♡やだ？ふふ、やだとか関係ないから♡♡黙って甘やかされてればいいの♡♡はいはい♡いっぱい喋れていい子♡♡よち…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027417526960013386",
+        "created_at": "2026-02-27T16:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027417526960013386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1577591417408344064",
+              "start": 3,
+              "username": "doro_doro_hedo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027417526960013386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027384521977680369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doro_doro_hedo: ん〜〜〜♡♡♡♡♡かわいいねえ♡♡いい子だねぇ♡♡♡生きてて偉ーい♡♡♡♡もう今日から何もしなくていいからねぇ♡\nん？♡なぁに？？♡やだ？ふふ、やだとか関係ないから♡♡黙って甘やかされてればいいの♡♡はいはい♡いっぱい喋れていい子♡♡よち…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577591417408344064",
+        "conversation_id": "2027384521977680369",
+        "created_at": "2026-02-27T14:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027384521977680369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027384521977680369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 48661,
+          "like_count": 2505,
+          "quote_count": 76,
+          "reply_count": 3,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "ん〜〜〜♡♡♡♡♡かわいいねえ♡♡いい子だねぇ♡♡♡生きてて偉ーい♡♡♡♡もう今日から何もしなくていいからねぇ♡\nん？♡なぁに？？♡やだ？ふふ、やだとか関係ないから♡♡黙って甘やかされてればいいの♡♡はいはい♡いっぱい喋れていい子♡♡よちよち♡こーら♡抵抗しないの♡♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 160,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 86
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T09:28:24.000Z",
+        "description": "ﾌｨｸｼｮﾝ‼️ヤンデレ創作/フリー台本創作垢。20⬆️ 鍵じゃないけど未成年は見ないでどろね。性癖ツイはフィクション＆創作前提。ﾘﾄﾘﾝ: https://t.co/WDcQ0J9VZt 支部⤵︎ ︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dorodorohedoro",
+                "end": 94,
+                "expanded_url": "https://lit.link/dorodorohedoro",
+                "start": 71,
+                "url": "https://t.co/WDcQ0J9VZt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/107018675",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/107018675",
+                "start": 0,
+                "url": "https://t.co/rg7ilIJTyI"
+              }
+            ]
+          }
+        },
+        "id": "1577591417408344064",
+        "name": "どろ",
+        "pinned_tweet_id": "1851172040772108379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023689554939777024/fqFdS22l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4960,
+          "following_count": 136,
+          "like_count": 14902,
+          "listed_count": 31,
+          "media_count": 186,
+          "tweet_count": 6514
+        },
+        "url": "https://t.co/rg7ilIJTyI",
+        "username": "doro_doro_hedo",
+        "verified": false
+      }
+    ]
+  }
+}

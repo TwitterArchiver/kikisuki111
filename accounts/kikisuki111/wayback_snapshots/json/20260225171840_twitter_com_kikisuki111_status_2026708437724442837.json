@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017390893771165696"
+      ],
+      "media_source_tweet_id": [
+        "2017390897541878169"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2026708437724442837",
+    "created_at": "2026-02-25T17:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026708437724442837"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 19,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1317940722469867522",
+          "start": 3,
+          "username": "mary_felizola"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EDAoPwzS9j",
+          "end": 63,
+          "expanded_url": "https://x.com/mary_felizola/status/2017390897541878169/photo/1",
+          "media_key": "3_2017390893771165696",
+          "start": 40,
+          "url": "https://t.co/EDAoPwzS9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026708437724442837",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017390897541878169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mary_felizola: #NEEDY_GIRL_OVERDOSE https://t.co/EDAoPwzS9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1955,
+        "media_key": "3_2017390893771165696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_82VExWkAAQa6g.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017390893771165696"
+          ],
+          "media_source_tweet_id": [
+            "2017390897541878169"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2026708437724442837",
+        "created_at": "2026-02-25T17:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026708437724442837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 19,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1317940722469867522",
+              "start": 3,
+              "username": "mary_felizola"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDAoPwzS9j",
+              "end": 63,
+              "expanded_url": "https://x.com/mary_felizola/status/2017390897541878169/photo/1",
+              "media_key": "3_2017390893771165696",
+              "start": 40,
+              "url": "https://t.co/EDAoPwzS9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026708437724442837",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017390897541878169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mary_felizola: #NEEDY_GIRL_OVERDOSE https://t.co/EDAoPwzS9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017390893771165696"
+          ]
+        },
+        "author_id": "1317940722469867522",
+        "conversation_id": "2017390897541878169",
+        "created_at": "2026-01-31T00:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017390897541878169"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDAoPwzS9j",
+              "end": 44,
+              "expanded_url": "https://x.com/mary_felizola/status/2017390897541878169/photo/1",
+              "media_key": "3_2017390893771165696",
+              "start": 21,
+              "url": "https://t.co/EDAoPwzS9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017390897541878169",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1956,
+          "impression_count": 143250,
+          "like_count": 20642,
+          "quote_count": 22,
+          "reply_count": 24,
+          "retweet_count": 3330
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE https://t.co/EDAoPwzS9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "🚪50 ",
+        "name": "キキ",
+        "pinned_tweet_id": "2026180344517677562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 131,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T21:29:06.000Z",
+        "description": "Closed commissions\nslots: 4/4\nesp/eng/it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mary_felizola/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mary_felizola/",
+                "start": 0,
+                "url": "https://t.co/oOCNqBDsF5"
+              }
+            ]
+          }
+        },
+        "id": "1317940722469867522",
+        "location": "🇨🇴🇮🇹",
+        "name": "Mary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609766005701500928/0yfwECEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46702,
+          "following_count": 313,
+          "like_count": 11713,
+          "listed_count": 166,
+          "media_count": 426,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/oOCNqBDsF5",
+        "username": "mary_felizola",
+        "verified": false
+      }
+    ]
+  }
+}

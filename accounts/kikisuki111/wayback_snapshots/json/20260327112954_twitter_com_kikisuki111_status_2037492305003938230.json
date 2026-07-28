@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037093084950126593"
+      ],
+      "media_source_tweet_id": [
+        "2037093091199660481"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2037492305003938230",
+    "created_at": "2026-03-27T11:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037492305003938230"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "病み"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "病み絵"
+        },
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "病みイラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529598692071993344",
+          "start": 3,
+          "username": "krs____rip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bNj2QFC4wA",
+          "end": 72,
+          "expanded_url": "https://x.com/krs____rip/status/2037093091199660481/photo/1",
+          "media_key": "3_2037093084950126593",
+          "start": 49,
+          "url": "https://t.co/bNj2QFC4wA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037492305003938230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037093091199660481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @krs____rip: 「外に出ただけなのに」\n\n #病み  #病み絵  #病みイラスト https://t.co/bNj2QFC4wA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037093084950126593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU1XibbYAEcLzv.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037093084950126593"
+          ],
+          "media_source_tweet_id": [
+            "2037093091199660481"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2037492305003938230",
+        "created_at": "2026-03-27T11:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037492305003938230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "病み"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "病み絵"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "病みイラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529598692071993344",
+              "start": 3,
+              "username": "krs____rip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNj2QFC4wA",
+              "end": 72,
+              "expanded_url": "https://x.com/krs____rip/status/2037093091199660481/photo/1",
+              "media_key": "3_2037093084950126593",
+              "start": 49,
+              "url": "https://t.co/bNj2QFC4wA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037492305003938230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037093091199660481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @krs____rip: 「外に出ただけなのに」\n\n #病み  #病み絵  #病みイラスト https://t.co/bNj2QFC4wA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037093084950126593"
+          ]
+        },
+        "author_id": "1529598692071993344",
+        "conversation_id": "2037093091199660481",
+        "created_at": "2026-03-26T09:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037093091199660481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "病み"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "病み絵"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "病みイラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNj2QFC4wA",
+              "end": 56,
+              "expanded_url": "https://x.com/krs____rip/status/2037093091199660481/photo/1",
+              "media_key": "3_2037093084950126593",
+              "start": 33,
+              "url": "https://t.co/bNj2QFC4wA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037093091199660481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 34661,
+          "like_count": 3784,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "「外に出ただけなのに」\n\n #病み  #病み絵  #病みイラスト https://t.co/bNj2QFC4wA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 213,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 274
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T23:02:12.000Z",
+        "description": "イラストレーター￤可愛いは毒である￤ご依頼方法▶︎ https://t.co/fA2LBB0Nyr ￤応援するところ▶︎ https://t.co/yKsFBsVKpO￤shop▶︎ https://t.co/bjOl1FLneA￤skeb▶︎ https://t.co/lvjZgKTWGc￤",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/krs518rip",
+                "end": 49,
+                "expanded_url": "https://lit.link/krs518rip",
+                "start": 26,
+                "url": "https://t.co/fA2LBB0Nyr"
+              },
+              {
+                "display_url": "x.gd/bbnpQ",
+                "end": 84,
+                "expanded_url": "https://x.gd/bbnpQ",
+                "start": 61,
+                "url": "https://t.co/yKsFBsVKpO"
+              },
+              {
+                "display_url": "krs518rip.booth.pm",
+                "end": 115,
+                "expanded_url": "https://krs518rip.booth.pm",
+                "start": 92,
+                "url": "https://t.co/bjOl1FLneA"
+              },
+              {
+                "display_url": "skeb.jp/@krs____rip",
+                "end": 146,
+                "expanded_url": "https://skeb.jp/@krs____rip",
+                "start": 123,
+                "url": "https://t.co/lvjZgKTWGc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@krs____rip",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@krs____rip",
+                "start": 0,
+                "url": "https://t.co/NAUeSMwS4Q"
+              }
+            ]
+          }
+        },
+        "id": "1529598692071993344",
+        "location": "黒瀬メンタルクリニック🏥",
+        "name": "黒瀬 黑",
+        "pinned_tweet_id": "1907018289567474164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021551427941007360/A3WaOW-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4728,
+          "following_count": 207,
+          "like_count": 39002,
+          "listed_count": 33,
+          "media_count": 1309,
+          "tweet_count": 12240
+        },
+        "url": "https://t.co/NAUeSMwS4Q",
+        "username": "krs____rip",
+        "verified": true
+      }
+    ]
+  }
+}

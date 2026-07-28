@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032702048630886400",
+        "3_2032702048576458752"
+      ],
+      "media_source_tweet_id": [
+        "2032702052951011738",
+        "2032702052951011738"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2032744206431826082",
+    "created_at": "2026-03-14T09:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T10:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032744206431826082"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "推しスタンプ",
+          "probability": 0.3561,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 55,
+          "tag": "バニラボスタンプ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1261266217454546947",
+          "start": 3,
+          "username": "vanilabo_PR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2UAH5APZF",
+          "end": 110,
+          "expanded_url": "https://x.com/vanilabo_PR/status/2032702052951011738/photo/1",
+          "media_key": "3_2032702048630886400",
+          "start": 87,
+          "url": "https://t.co/d2UAH5APZF"
+        },
+        {
+          "display_url": "pic.x.com/d2UAH5APZF",
+          "end": 110,
+          "expanded_url": "https://x.com/vanilabo_PR/status/2032702052951011738/photo/1",
+          "media_key": "3_2032702048576458752",
+          "start": 87,
+          "url": "https://t.co/d2UAH5APZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032744206431826082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032702052951011738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vanilabo_PR: メロすぎるよ・・・！🥺🫶🏻\n\n『推しスタンプ』まとめ\n（ピンク/ブルー）\n\n#バニラボスタンプ スタンプ すたんぷ まとめ 素材 背景透過 https://t.co/d2UAH5APZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2032702048630886400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWbvlbaUAAwNW7.png",
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2032702048576458752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWbvlOb0AAK_hC.png",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032702048630886400",
+            "3_2032702048576458752"
+          ],
+          "media_source_tweet_id": [
+            "2032702052951011738",
+            "2032702052951011738"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2032744206431826082",
+        "created_at": "2026-03-14T09:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032744206431826082"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "推しスタンプ",
+              "probability": 0.3561,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "バニラボスタンプ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1261266217454546947",
+              "start": 3,
+              "username": "vanilabo_PR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2UAH5APZF",
+              "end": 110,
+              "expanded_url": "https://x.com/vanilabo_PR/status/2032702052951011738/photo/1",
+              "media_key": "3_2032702048630886400",
+              "start": 87,
+              "url": "https://t.co/d2UAH5APZF"
+            },
+            {
+              "display_url": "pic.x.com/d2UAH5APZF",
+              "end": 110,
+              "expanded_url": "https://x.com/vanilabo_PR/status/2032702052951011738/photo/1",
+              "media_key": "3_2032702048576458752",
+              "start": 87,
+              "url": "https://t.co/d2UAH5APZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032744206431826082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032702052951011738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vanilabo_PR: メロすぎるよ・・・！🥺🫶🏻\n\n『推しスタンプ』まとめ\n（ピンク/ブルー）\n\n#バニラボスタンプ スタンプ すたんぷ まとめ 素材 背景透過 https://t.co/d2UAH5APZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032702048630886400",
+            "3_2032702048576458752"
+          ]
+        },
+        "author_id": "1261266217454546947",
+        "conversation_id": "2032702052951011738",
+        "created_at": "2026-03-14T06:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032702052951011738"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "推しスタンプ",
+              "probability": 0.406,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "バニラボスタンプ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2UAH5APZF",
+              "end": 93,
+              "expanded_url": "https://x.com/vanilabo_PR/status/2032702052951011738/photo/1",
+              "media_key": "3_2032702048630886400",
+              "start": 70,
+              "url": "https://t.co/d2UAH5APZF"
+            },
+            {
+              "display_url": "pic.x.com/d2UAH5APZF",
+              "end": 93,
+              "expanded_url": "https://x.com/vanilabo_PR/status/2032702052951011738/photo/1",
+              "media_key": "3_2032702048576458752",
+              "start": 70,
+              "url": "https://t.co/d2UAH5APZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032702052951011738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 11376,
+          "like_count": 473,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "メロすぎるよ・・・！🥺🫶🏻\n\n『推しスタンプ』まとめ\n（ピンク/ブルー）\n\n#バニラボスタンプ スタンプ すたんぷ まとめ 素材 背景透過 https://t.co/d2UAH5APZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 203,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 224
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T12:06:51.000Z",
+        "description": "お仕事How Toから美容・トレンド情報まで女の子のためになる情報を配信中💄スタンプ透過素材は #バニラボスタンプ で検索🔎💗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "バニラボスタンプ"
+              }
+            ]
+          }
+        },
+        "id": "1261266217454546947",
+        "name": "公式｜バニラボ🐰💰",
+        "pinned_tweet_id": "2029860296035291434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342401081200951298/4EyVyM5Q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16473,
+          "following_count": 16,
+          "like_count": 4939,
+          "listed_count": 86,
+          "media_count": 657,
+          "tweet_count": 1946
+        },
+        "username": "vanilabo_PR",
+        "verified": true
+      }
+    ]
+  }
+}

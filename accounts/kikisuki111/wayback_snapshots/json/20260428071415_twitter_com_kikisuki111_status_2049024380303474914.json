@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2049022931305742817",
+    "created_at": "2026-04-28T07:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049024380303474914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505680259974574080",
+          "start": 0,
+          "username": "yujiduantianmo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049024380303474914",
+    "in_reply_to_user_id": "1505680259974574080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049023675308056675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujiduantianmo1 真的巨疼，我用指甲刀夹住出来的一个尖拽出来的🥲😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2049022931305742817",
+        "created_at": "2026-04-28T07:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049024380303474914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505680259974574080",
+              "start": 0,
+              "username": "yujiduantianmo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049024380303474914",
+        "in_reply_to_user_id": "1505680259974574080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049023675308056675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujiduantianmo1 真的巨疼，我用指甲刀夹住出来的一个尖拽出来的🥲😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505680259974574080",
+        "conversation_id": "2049022931305742817",
+        "created_at": "2026-04-28T07:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049023675308056675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049023675308056675",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049022931305742817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 卧槽看着好疼啊。･ﾟ･(つд`ﾟ)･ﾟ･"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 365,
+          "like_count": 1294,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 533
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T22:59:05.000Z",
+        "description": "米孝子/性压抑/鸡奸未行犯/百合豚/特摄小鬼/知识恋物癖/无我丑角/龟男/权力意志破产者/世俗猪/伪善者/圣母婊/人文主义小丑/精神太监/四爱实践失败者/狗汉奸/看似斯文败类实则文化有限/红色刽子手帮凶/nosy bitch",
+        "id": "1505680259974574080",
+        "location": "猿猴到超人的锁链",
+        "name": "闪山云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206882058907648/_jH8dtxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 358,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 3212
+        },
+        "username": "yujiduantianmo1",
+        "verified": false
+      }
+    ]
+  }
+}

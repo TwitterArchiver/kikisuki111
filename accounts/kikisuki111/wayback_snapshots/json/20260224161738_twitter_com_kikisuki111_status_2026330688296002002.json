@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026311625318584321"
+      ],
+      "media_source_tweet_id": [
+        "2026311630871810482"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2026330688296002002",
+    "created_at": "2026-02-24T16:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026330688296002002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628243471021789184",
+          "start": 3,
+          "username": "HdRy_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Zj8DOVgpG",
+          "end": 37,
+          "expanded_url": "https://x.com/HdRy_7/status/2026311630871810482/photo/1",
+          "media_key": "3_2026311625318584321",
+          "start": 14,
+          "url": "https://t.co/2Zj8DOVgpG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026330688296002002",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026311630871810482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HdRy_7: 🚬 https://t.co/2Zj8DOVgpG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1470,
+        "media_key": "3_2026311625318584321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7nr_db0AEPPFI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026311625318584321"
+          ],
+          "media_source_tweet_id": [
+            "2026311630871810482"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2026330688296002002",
+        "created_at": "2026-02-24T16:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026330688296002002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628243471021789184",
+              "start": 3,
+              "username": "HdRy_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Zj8DOVgpG",
+              "end": 37,
+              "expanded_url": "https://x.com/HdRy_7/status/2026311630871810482/photo/1",
+              "media_key": "3_2026311625318584321",
+              "start": 14,
+              "url": "https://t.co/2Zj8DOVgpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026330688296002002",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026311630871810482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HdRy_7: 🚬 https://t.co/2Zj8DOVgpG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026311625318584321"
+          ]
+        },
+        "author_id": "1628243471021789184",
+        "conversation_id": "2026311630871810482",
+        "created_at": "2026-02-24T15:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026311630871810482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Zj8DOVgpG",
+              "end": 25,
+              "expanded_url": "https://x.com/HdRy_7/status/2026311630871810482/photo/1",
+              "media_key": "3_2026311625318584321",
+              "start": 2,
+              "url": "https://t.co/2Zj8DOVgpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026311630871810482",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1304,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "🚬 https://t.co/2Zj8DOVgpG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "pinned_tweet_id": "2026180344517677562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 113,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T04:01:19.000Z",
+        "description": "お仕事募集中 Illustrator♡̴⟡.個人・企業様問わずお仕事の相談は hdry7illust@gmail.com or DM✉️ イラスト・グッズのデザイン◎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@HdRy_7",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@HdRy_7",
+                "start": 0,
+                "url": "https://t.co/WZXQoju4Vw"
+              }
+            ]
+          }
+        },
+        "id": "1628243471021789184",
+        "location": "担当vtuber 咲城こべに",
+        "name": "内出血過多@BOOTH 2/2 22:00-",
+        "pinned_tweet_id": "2013650893657514261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834262982697910273/hhqLNiGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12442,
+          "following_count": 66,
+          "like_count": 8993,
+          "listed_count": 48,
+          "media_count": 791,
+          "tweet_count": 2964
+        },
+        "url": "https://t.co/WZXQoju4Vw",
+        "username": "HdRy_7",
+        "verified": false
+      }
+    ]
+  }
+}

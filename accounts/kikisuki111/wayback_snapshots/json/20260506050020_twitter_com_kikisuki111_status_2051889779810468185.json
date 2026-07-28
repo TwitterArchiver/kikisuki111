@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2051889779810468185",
+    "created_at": "2026-05-06T05:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051889779810468185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1813393863819587584",
+          "start": 3,
+          "username": "Babydoll675482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051889779810468185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051529697524375894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Babydoll675482: 我们都不要猜测对方了，好吗？我喜欢你，只要你也喜欢我，我们就认真相爱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2051889779810468185",
+        "created_at": "2026-05-06T05:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051889779810468185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1813393863819587584",
+              "start": 3,
+              "username": "Babydoll675482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051889779810468185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051529697524375894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Babydoll675482: 我们都不要猜测对方了，好吗？我喜欢你，只要你也喜欢我，我们就认真相爱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813393863819587584",
+        "conversation_id": "2051529697524375894",
+        "created_at": "2026-05-05T05:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051529697524375894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051529697524375894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11528,
+          "like_count": 419,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "我们都不要猜测对方了，好吗？我喜欢你，只要你也喜欢我，我们就认真相爱吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 401,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 594
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T02:03:02.000Z",
+        "description": "",
+        "id": "1813393863819587584",
+        "location": "🚪88/188/388 只回复门槛口令",
+        "name": "坏狗",
+        "pinned_tweet_id": "1813867672997925198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041874154241343488/4arKGg9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 52,
+          "like_count": 8287,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2125
+        },
+        "username": "Babydoll675482",
+        "verified": false
+      }
+    ]
+  }
+}

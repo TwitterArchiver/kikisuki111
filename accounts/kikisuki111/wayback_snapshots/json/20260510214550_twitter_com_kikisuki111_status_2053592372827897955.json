@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2053592372827897955",
+    "created_at": "2026-05-10T21:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T22:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053592372827897955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009907458530258945",
+          "start": 3,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053592372827897955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053342357886488662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cOniqGBygQ16927: 不发动态是抑郁症犯了 发很多条动态是狂躁症犯了 偶尔发两条是焦虑症犯了 把动态隐藏起来是觉得自己招笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2053592372827897955",
+        "created_at": "2026-05-10T21:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T22:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053592372827897955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009907458530258945",
+              "start": 3,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053592372827897955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053342357886488662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cOniqGBygQ16927: 不发动态是抑郁症犯了 发很多条动态是狂躁症犯了 偶尔发两条是焦虑症犯了 把动态隐藏起来是觉得自己招笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2053342357886488662",
+        "created_at": "2026-05-10T05:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053342357886488662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053342357886488662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7834,
+          "like_count": 244,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "不发动态是抑郁症犯了 发很多条动态是狂躁症犯了 偶尔发两条是焦虑症犯了 把动态隐藏起来是觉得自己招笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 415,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 723
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2045381479245492711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026180809237962752/SWENG479_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 15,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 407
+        },
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

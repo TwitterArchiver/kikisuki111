@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2047695658271068212",
+    "created_at": "2026-04-24T15:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047695658271068212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/amecandy_x/status/2047152037071294892",
+          "start": 4,
+          "url": "https://t.co/D4iFEvjDaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047695658271068212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047152037071294892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很难绷 https://t.co/D4iFEvjDaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2047152034739281920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjx7efaYAAJc0j.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2047695658271068212",
+        "created_at": "2026-04-24T15:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047695658271068212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2047152037071294892",
+              "start": 4,
+              "url": "https://t.co/D4iFEvjDaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047695658271068212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047152037071294892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很难绷 https://t.co/D4iFEvjDaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047152034739281920"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2047152037071294892",
+        "created_at": "2026-04-23T03:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047152037071294892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtQHXytIUF",
+              "end": 30,
+              "expanded_url": "https://x.com/amecandy_x/status/2047152037071294892/photo/1",
+              "media_key": "3_2047152034739281920",
+              "start": 7,
+              "url": "https://t.co/FtQHXytIUF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2047152037071294892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 32212,
+          "like_count": 591,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "我笑的柰子疼 https://t.co/FtQHXytIUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 347,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 512
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6163,
+          "following_count": 2120,
+          "like_count": 27071,
+          "listed_count": 15,
+          "media_count": 1414,
+          "tweet_count": 10124
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

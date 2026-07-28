@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2051890790448918996",
+    "created_at": "2026-05-06T05:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051890790448918996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1968368047988817923",
+          "start": 3,
+          "username": "ckyoa2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051890790448918996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051439568524878147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ckyoa2: 我发现，从小到大处处听话守规矩的乖孩子，在性方面可能反而胆子更大、xp更变态，管得越严玩得越狠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2051890790448918996",
+        "created_at": "2026-05-06T05:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051890790448918996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1968368047988817923",
+              "start": 3,
+              "username": "ckyoa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051890790448918996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051439568524878147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ckyoa2: 我发现，从小到大处处听话守规矩的乖孩子，在性方面可能反而胆子更大、xp更变态，管得越严玩得越狠。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2051439568524878147",
+        "created_at": "2026-05-04T23:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051439568524878147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051439568524878147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 301306,
+          "like_count": 2446,
+          "quote_count": 50,
+          "reply_count": 623,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "我发现，从小到大处处听话守规矩的乖孩子，在性方面可能反而胆子更大、xp更变态，管得越严玩得越狠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 401,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 595
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "只是分享生活",
+        "id": "1968368047988817923",
+        "location": "🚪188",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 4,
+          "like_count": 125,
+          "listed_count": 9,
+          "media_count": 27,
+          "tweet_count": 64
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

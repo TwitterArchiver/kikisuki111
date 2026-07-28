@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2052760249711669592",
+    "created_at": "2026-05-08T18:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052820285209071927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008792622597599233",
+          "start": 0,
+          "username": "fang_sheng80697"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052820285209071927",
+    "in_reply_to_user_id": "2008792622597599233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052760249711669592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fang_sheng80697 多少"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2052760218510254080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzeivFbYAAO5V4.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2052760249711669592",
+        "created_at": "2026-05-08T18:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052820285209071927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008792622597599233",
+              "start": 0,
+              "username": "fang_sheng80697"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052820285209071927",
+        "in_reply_to_user_id": "2008792622597599233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052760249711669592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang_sheng80697 多少"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052760218510254080"
+          ]
+        },
+        "author_id": "2008792622597599233",
+        "conversation_id": "2052760249711669592",
+        "created_at": "2026-05-08T14:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052760249711669592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "od"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "pr80"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "普瑞巴林"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lmdiouq94Z",
+              "end": 50,
+              "expanded_url": "https://x.com/fang_sheng80697/status/2052760249711669592/photo/1",
+              "media_key": "3_2052760218510254080",
+              "start": 27,
+              "url": "https://t.co/Lmdiouq94Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052760249711669592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自出不放心可先付一半\n#od #pr80 #普瑞巴林 https://t.co/Lmdiouq94Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 407,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 654
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T06:48:08.000Z",
+        "description": "",
+        "id": "2008792622597599233",
+        "name": "iLovefakefriend",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010282200114307072/f6x7PUeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 24,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "fang_sheng80697",
+        "verified": false
+      }
+    ]
+  }
+}

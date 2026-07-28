@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069075244833533952"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2069075265389842593",
+    "created_at": "2026-06-22T15:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069075265389842593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gm9Ct8vYzk",
+          "end": 27,
+          "expanded_url": "https://x.com/kikisuki111/status/2069075265389842593/photo/1",
+          "media_key": "3_2069075244833533952",
+          "start": 4,
+          "url": "https://t.co/Gm9Ct8vYzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069075265389842593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好自由 https://t.co/Gm9Ct8vYzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069075244833533952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbU-QXbcAAb9TZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069075244833533952"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2069075265389842593",
+        "created_at": "2026-06-22T15:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069075265389842593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gm9Ct8vYzk",
+              "end": 27,
+              "expanded_url": "https://x.com/kikisuki111/status/2069075265389842593/photo/1",
+              "media_key": "3_2069075244833533952",
+              "start": 4,
+              "url": "https://t.co/Gm9Ct8vYzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069075265389842593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好自由 https://t.co/Gm9Ct8vYzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 518,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

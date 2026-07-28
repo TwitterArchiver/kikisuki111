@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2052829227570094208",
+    "created_at": "2026-05-08T19:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T20:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052829227570094208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1832150343716626432",
+          "start": 3,
+          "username": "Mitsumero0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052829227570094208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052718672079118380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mitsumero0228: 自殺の必要性を\n毎日\nどんどん強く感じてるよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2052829227570094208",
+        "created_at": "2026-05-08T19:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052829227570094208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1832150343716626432",
+              "start": 3,
+              "username": "Mitsumero0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052829227570094208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052718672079118380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mitsumero0228: 自殺の必要性を\n毎日\nどんどん強く感じてるよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832150343716626432",
+        "conversation_id": "2052718672079118380",
+        "created_at": "2026-05-08T11:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052718672079118380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052718672079118380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3504,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "自殺の必要性を\n毎日\nどんどん強く感じてるよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 407,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 664
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T20:14:35.000Z",
+        "description": "情緒不安定┊︎学生┊︎女┊︎\n@mitumero1115これも私ですフォローしてくれると嬉しい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "mitumero1115"
+              }
+            ]
+          }
+        },
+        "id": "1832150343716626432",
+        "location": "いやスイスなんですよね、これが",
+        "name": "死にたい星人",
+        "pinned_tweet_id": "2013007376018755758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888719422380032000/p2YKBqWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6597,
+          "following_count": 799,
+          "like_count": 130850,
+          "listed_count": 16,
+          "media_count": 120,
+          "tweet_count": 14000
+        },
+        "username": "Mitsumero0228",
+        "verified": false
+      }
+    ]
+  }
+}

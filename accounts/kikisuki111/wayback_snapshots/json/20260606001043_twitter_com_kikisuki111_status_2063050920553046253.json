@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063050905805791232",
+        "3_2063050905818402816"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063050920553046253",
+    "created_at": "2026-06-06T00:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063050920553046253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w1WoIXEZ1T",
+          "end": 96,
+          "expanded_url": "https://x.com/kikisuki111/status/2063050920553046253/photo/1",
+          "media_key": "3_2063050905805791232",
+          "start": 73,
+          "url": "https://t.co/w1WoIXEZ1T"
+        },
+        {
+          "display_url": "pic.x.com/w1WoIXEZ1T",
+          "end": 96,
+          "expanded_url": "https://x.com/kikisuki111/status/2063050920553046253/photo/1",
+          "media_key": "3_2063050905818402816",
+          "start": 73,
+          "url": "https://t.co/w1WoIXEZ1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063050920553046253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "疯狂的两天吧...好幸福好充实虽然没睡觉\n主要不是一个人干什么都可以啊  遇到可以一起玩的人就想拼命抓住不要离开我，\n\n暂时不是随便游荡的幽灵了 https://t.co/w1WoIXEZ1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063050905805791232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFt3koaIAAmYFo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063050905818402816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFt3krakAAYViH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063050905805791232",
+            "3_2063050905818402816"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063050920553046253",
+        "created_at": "2026-06-06T00:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063050920553046253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1WoIXEZ1T",
+              "end": 96,
+              "expanded_url": "https://x.com/kikisuki111/status/2063050920553046253/photo/1",
+              "media_key": "3_2063050905805791232",
+              "start": 73,
+              "url": "https://t.co/w1WoIXEZ1T"
+            },
+            {
+              "display_url": "pic.x.com/w1WoIXEZ1T",
+              "end": 96,
+              "expanded_url": "https://x.com/kikisuki111/status/2063050920553046253/photo/1",
+              "media_key": "3_2063050905818402816",
+              "start": 73,
+              "url": "https://t.co/w1WoIXEZ1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063050920553046253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂的两天吧...好幸福好充实虽然没睡觉\n主要不是一个人干什么都可以啊  遇到可以一起玩的人就想拼命抓住不要离开我，\n\n暂时不是随便游荡的幽灵了 https://t.co/w1WoIXEZ1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 520,
+          "like_count": 1620,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 906
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

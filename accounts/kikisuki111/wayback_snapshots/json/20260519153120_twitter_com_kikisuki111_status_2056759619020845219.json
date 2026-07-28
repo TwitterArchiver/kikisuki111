@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056644860061597696",
+        "3_2056644860078342144"
+      ],
+      "media_source_tweet_id": [
+        "2056645009357816010",
+        "2056645009357816010"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056759619020845219",
+    "created_at": "2026-05-19T15:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056759619020845219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2034245306356039682",
+          "start": 3,
+          "username": "kkkaraaaakkaar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ExY68fQQXx",
+          "end": 58,
+          "expanded_url": "https://x.com/kkkaraaaakkaar/status/2056645009357816010/photo/1",
+          "media_key": "3_2056644860061597696",
+          "start": 35,
+          "url": "https://t.co/ExY68fQQXx"
+        },
+        {
+          "display_url": "pic.x.com/ExY68fQQXx",
+          "end": 58,
+          "expanded_url": "https://x.com/kkkaraaaakkaar/status/2056645009357816010/photo/1",
+          "media_key": "3_2056644860078342144",
+          "start": 35,
+          "url": "https://t.co/ExY68fQQXx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056759619020845219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056645009357816010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkkaraaaakkaar: ←八゜キってる時　2時間後→ https://t.co/ExY68fQQXx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2056644860061597696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqrmokawAAMoEE.jpg",
+        "width": 1200
+      },
+      {
+        "height": 581,
+        "media_key": "3_2056644860078342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqrmooaQAANdsA.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056644860061597696",
+            "3_2056644860078342144"
+          ],
+          "media_source_tweet_id": [
+            "2056645009357816010",
+            "2056645009357816010"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056759619020845219",
+        "created_at": "2026-05-19T15:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056759619020845219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2034245306356039682",
+              "start": 3,
+              "username": "kkkaraaaakkaar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExY68fQQXx",
+              "end": 58,
+              "expanded_url": "https://x.com/kkkaraaaakkaar/status/2056645009357816010/photo/1",
+              "media_key": "3_2056644860061597696",
+              "start": 35,
+              "url": "https://t.co/ExY68fQQXx"
+            },
+            {
+              "display_url": "pic.x.com/ExY68fQQXx",
+              "end": 58,
+              "expanded_url": "https://x.com/kkkaraaaakkaar/status/2056645009357816010/photo/1",
+              "media_key": "3_2056644860078342144",
+              "start": 35,
+              "url": "https://t.co/ExY68fQQXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056759619020845219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056645009357816010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkkaraaaakkaar: ←八゜キってる時　2時間後→ https://t.co/ExY68fQQXx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056644860061597696",
+            "3_2056644860078342144"
+          ]
+        },
+        "author_id": "2034245306356039682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056645009357816010",
+        "created_at": "2026-05-19T07:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056645009357816010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExY68fQQXx",
+              "end": 38,
+              "expanded_url": "https://x.com/kkkaraaaakkaar/status/2056645009357816010/photo/1",
+              "media_key": "3_2056644860061597696",
+              "start": 15,
+              "url": "https://t.co/ExY68fQQXx"
+            },
+            {
+              "display_url": "pic.x.com/ExY68fQQXx",
+              "end": 38,
+              "expanded_url": "https://x.com/kkkaraaaakkaar/status/2056645009357816010/photo/1",
+              "media_key": "3_2056644860078342144",
+              "start": 15,
+              "url": "https://t.co/ExY68fQQXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056645009357816010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 51511,
+          "like_count": 4367,
+          "quote_count": 36,
+          "reply_count": 6,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "←八゜キってる時　2時間後→ https://t.co/ExY68fQQXx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2056531624221950243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 472,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 839
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T12:27:36.000Z",
+        "description": "14歳\n鍵外した。壁打ち\n保護観察と精神疾患持ち\nサブ@kaaaaraaaakkk\nゆあ@mau_chan04\n万×7 千×58",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "kaaaaraaaakkk"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "mau_chan04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kaaaaaaaaraaa…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@kaaaaaaaaraaaaa",
+                "start": 0,
+                "url": "https://t.co/PyCoGKFZyQ"
+              }
+            ]
+          }
+        },
+        "id": "2034245306356039682",
+        "location": "人生2割成功",
+        "name": "ヤ⑨中男児からくん。",
+        "pinned_tweet_id": "2051259198294589622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049424247404302336/bYxN2iIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 95,
+          "like_count": 1217,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/PyCoGKFZyQ",
+        "username": "kkkaraaaakkaar",
+        "verified": false
+      }
+    ]
+  }
+}

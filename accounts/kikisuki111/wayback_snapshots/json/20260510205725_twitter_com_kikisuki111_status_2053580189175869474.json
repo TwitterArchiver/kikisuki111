@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053580047488049152"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2053580189175869474",
+    "created_at": "2026-05-10T20:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T21:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053580189175869474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2p114V4J5W",
+          "end": 31,
+          "expanded_url": "https://x.com/kikisuki111/status/2053580189175869474/video/1",
+          "media_key": "13_2053580047488049152",
+          "start": 8,
+          "url": "https://t.co/2p114V4J5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053580189175869474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "变成打瓦博主了 https://t.co/2p114V4J5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15136,
+        "height": 720,
+        "media_key": "13_2053580047488049152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053580047488049152/img/GOStqfwYomhqZClh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053580047488049152/vid/avc1/480x270/Q0p6kAWyIEA3AYaU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053580047488049152/vid/avc1/640x360/sO4j3rvLKNkMkulJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053580047488049152/vid/avc1/1280x720/wiJaN6LhUDljB0U8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053580047488049152/pl/aXodQyfqgL0iAHlH.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053580047488049152"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2053580189175869474",
+        "created_at": "2026-05-10T20:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T21:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053580189175869474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2p114V4J5W",
+              "end": 31,
+              "expanded_url": "https://x.com/kikisuki111/status/2053580189175869474/video/1",
+              "media_key": "13_2053580047488049152",
+              "start": 8,
+              "url": "https://t.co/2p114V4J5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053580189175869474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "变成打瓦博主了 https://t.co/2p114V4J5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 411,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 716
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

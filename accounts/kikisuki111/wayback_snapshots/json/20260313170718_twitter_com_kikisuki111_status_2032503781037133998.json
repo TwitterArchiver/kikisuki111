@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2032503781037133998",
+    "created_at": "2026-03-13T17:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032503781037133998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "772407534149697536",
+          "start": 3,
+          "username": "litora0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032503781037133998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032380154371309760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litora0: 【オタクが嫌いな言葉】\n\n❌嫌いな言葉\n・最前管理\n・同担拒否\n・特典会早めに終わります\n・大切なお知らせ\n・2ドリンク購入\n・ジャンプ禁止\n・出演キャンセル\n・スタッフ判断\n・撮影禁止\n\n⭕️オタクが好きな言葉⤵︎ ︎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2032503781037133998",
+        "created_at": "2026-03-13T17:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032503781037133998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "772407534149697536",
+              "start": 3,
+              "username": "litora0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032503781037133998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032380154371309760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litora0: 【オタクが嫌いな言葉】\n\n❌嫌いな言葉\n・最前管理\n・同担拒否\n・特典会早めに終わります\n・大切なお知らせ\n・2ドリンク購入\n・ジャンプ禁止\n・出演キャンセル\n・スタッフ判断\n・撮影禁止\n\n⭕️オタクが好きな言葉⤵︎ ︎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "772407534149697536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2032380154371309760",
+        "created_at": "2026-03-13T08:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032380154371309760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032380154371309760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 907,
+          "impression_count": 1282333,
+          "like_count": 7630,
+          "quote_count": 144,
+          "reply_count": 61,
+          "retweet_count": 378
+        },
+        "reply_settings": "everyone",
+        "text": "【オタクが嫌いな言葉】\n\n❌嫌いな言葉\n・最前管理\n・同担拒否\n・特典会早めに終わります\n・大切なお知らせ\n・2ドリンク購入\n・ジャンプ禁止\n・出演キャンセル\n・スタッフ判断\n・撮影禁止\n\n⭕️オタクが好きな言葉⤵︎ ︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 200,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 209
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-04T12:14:41.000Z",
+        "description": "コールは「ラビたん」今世に舞い降りた輝夜姫 チェキタグ▶︎#超絶絶叫輝夜姫 https://t.co/g43cI2vI4h ✝️リプ返×DM返×所属グループ▶︎@ckmt_idol ファンマ☪️colorバイオレットジョーカー ファンネーム 闇の住人サブ垢@ritora0 #CHECKMATE #ちぇくめ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 29,
+                "tag": "超絶絶叫輝夜姫"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "tag": "CHECKMATE"
+              },
+              {
+                "end": 153,
+                "start": 148,
+                "tag": "ちぇくめ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "ckmt_idol"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "ritora0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/litora0chan",
+                "end": 61,
+                "expanded_url": "https://lit.link/litora0chan",
+                "start": 38,
+                "url": "https://t.co/g43cI2vI4h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "timetr.ee/pc/zetsubounor…",
+                "end": 23,
+                "expanded_url": "https://timetr.ee/pc/zetsubounoritora",
+                "start": 0,
+                "url": "https://t.co/6HRX7Dt2Kl"
+              }
+            ]
+          }
+        },
+        "id": "772407534149697536",
+        "name": "リト・ラビット☪️ ロックアイドル CHECK×MATE ☪️",
+        "pinned_tweet_id": "1937471851187568816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010366767244451840/hqbQdKUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5267,
+          "following_count": 481,
+          "like_count": 28927,
+          "listed_count": 81,
+          "media_count": 5952,
+          "tweet_count": 33353
+        },
+        "url": "https://t.co/6HRX7Dt2Kl",
+        "username": "litora0",
+        "verified": true
+      }
+    ]
+  }
+}

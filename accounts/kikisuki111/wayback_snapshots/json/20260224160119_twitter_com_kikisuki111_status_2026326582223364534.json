@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2026326582223364534",
+    "created_at": "2026-02-24T16:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026326582223364534"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "les"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "le"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "女同"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "wlw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887748987543052288",
+          "start": 3,
+          "username": "muyaodawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026326582223364534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024462354478747904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @muyaodawang: 给男人当贤妻良母听上去就没救了，但是给女人当贤妻良母就感觉未来很有希望 #les #le #女同 #wlw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2026326582223364534",
+        "created_at": "2026-02-24T16:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026326582223364534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "les"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "le"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "女同"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "wlw"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887748987543052288",
+              "start": 3,
+              "username": "muyaodawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026326582223364534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024462354478747904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @muyaodawang: 给男人当贤妻良母听上去就没救了，但是给女人当贤妻良母就感觉未来很有希望 #les #le #女同 #wlw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887748987543052288",
+        "conversation_id": "2024462354478747904",
+        "created_at": "2026-02-19T12:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024462354478747904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "les"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "le"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "女同"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "wlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024462354478747904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 22613,
+          "like_count": 716,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "给男人当贤妻良母听上去就没救了，但是给女人当贤妻良母就感觉未来很有希望 #les #le #女同 #wlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "pinned_tweet_id": "2026180344517677562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 107,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T06:23:35.000Z",
+        "description": "les / 0m /厌男，男的不要来烦我",
+        "id": "1887748987543052288",
+        "name": "牧瑶",
+        "pinned_tweet_id": "2023480910348505107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018644560558350337/nFNs5342_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 33,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 312
+        },
+        "username": "muyaodawang",
+        "verified": false
+      }
+    ]
+  }
+}

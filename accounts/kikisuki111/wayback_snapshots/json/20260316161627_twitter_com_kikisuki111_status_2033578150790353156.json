@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2033578150790353156",
+    "created_at": "2026-03-16T16:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033578150790353156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1072466455617261569",
+          "start": 3,
+          "username": "Nian_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033578150790353156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033123078457401647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nian_0v0: 吉他张才是最容易的吧 把地雷妹拉下水 法也法到了 钱也赚到了 演唱会也开了 还瘦下来了 在互联网上装疯卖傻就能获得这些  如果我是吉他张我也愿意 毕竟我把互联网这碗饭吃了直接去整容 整完自然有女的心甘情愿送笔😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2033578150790353156",
+        "created_at": "2026-03-16T16:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033578150790353156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1072466455617261569",
+              "start": 3,
+              "username": "Nian_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033578150790353156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033123078457401647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nian_0v0: 吉他张才是最容易的吧 把地雷妹拉下水 法也法到了 钱也赚到了 演唱会也开了 还瘦下来了 在互联网上装疯卖傻就能获得这些  如果我是吉他张我也愿意 毕竟我把互联网这碗饭吃了直接去整容 整完自然有女的心甘情愿送笔😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072466455617261569",
+        "conversation_id": "2033123078457401647",
+        "created_at": "2026-03-15T10:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033123078457401647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033123078457401647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11705,
+          "like_count": 233,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "吉他张才是最容易的吧 把地雷妹拉下水 法也法到了 钱也赚到了 演唱会也开了 还瘦下来了 在互联网上装疯卖傻就能获得这些  如果我是吉他张我也愿意 毕竟我把互联网这碗饭吃了直接去整容 整完自然有女的心甘情愿送笔😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 211,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 240
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-11T12:21:43.000Z",
+        "description": "",
+        "id": "1072466455617261569",
+        "name": "弱水三千",
+        "pinned_tweet_id": "1954594343609946295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008607605896474629/0H4gsp7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 206,
+          "like_count": 1635,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 1639
+        },
+        "username": "Nian_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

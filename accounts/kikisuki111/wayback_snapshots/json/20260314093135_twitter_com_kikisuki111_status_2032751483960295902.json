@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032460746450165761"
+      ],
+      "media_source_tweet_id": [
+        "2032460764993278125"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032751483960295902",
+    "created_at": "2026-03-14T09:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T10:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032751483960295902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013736925551640576",
+          "start": 3,
+          "username": "ImPriscilaXD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zMXHEEsveq",
+          "end": 76,
+          "expanded_url": "https://x.com/ImPriscilaXD/status/2032460764993278125/photo/1",
+          "media_key": "3_2032460746450165761",
+          "start": 53,
+          "url": "https://t.co/zMXHEEsveq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032751483960295902",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1968
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032460764993278125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ImPriscilaXD: Yo cada que menciona a otra chica: https://t.co/zMXHEEsveq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2032460746450165761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTAR8wWYAEX5x8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032460746450165761"
+          ],
+          "media_source_tweet_id": [
+            "2032460764993278125"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032751483960295902",
+        "created_at": "2026-03-14T09:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032751483960295902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013736925551640576",
+              "start": 3,
+              "username": "ImPriscilaXD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zMXHEEsveq",
+              "end": 76,
+              "expanded_url": "https://x.com/ImPriscilaXD/status/2032460764993278125/photo/1",
+              "media_key": "3_2032460746450165761",
+              "start": 53,
+              "url": "https://t.co/zMXHEEsveq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032751483960295902",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1968
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032460764993278125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ImPriscilaXD: Yo cada que menciona a otra chica: https://t.co/zMXHEEsveq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032460746450165761"
+          ]
+        },
+        "author_id": "2013736925551640576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032460764993278125",
+        "created_at": "2026-03-13T14:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032460764993278125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zMXHEEsveq",
+              "end": 58,
+              "expanded_url": "https://x.com/ImPriscilaXD/status/2032460764993278125/photo/1",
+              "media_key": "3_2032460746450165761",
+              "start": 35,
+              "url": "https://t.co/zMXHEEsveq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032460764993278125",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 383,
+          "impression_count": 60079,
+          "like_count": 7275,
+          "quote_count": 54,
+          "reply_count": 15,
+          "retweet_count": 1968
+        },
+        "reply_settings": "everyone",
+        "text": "Yo cada que menciona a otra chica: https://t.co/zMXHEEsveq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 203,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 227
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T22:15:17.000Z",
+        "description": "",
+        "id": "2013736925551640576",
+        "name": "ᴘʀɪ 𖹭.ᐟ",
+        "pinned_tweet_id": "2022394638485925955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019959799643856896/_9s_-4WW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 528,
+          "like_count": 1531,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 492
+        },
+        "username": "ImPriscilaXD",
+        "verified": false
+      }
+    ]
+  }
+}

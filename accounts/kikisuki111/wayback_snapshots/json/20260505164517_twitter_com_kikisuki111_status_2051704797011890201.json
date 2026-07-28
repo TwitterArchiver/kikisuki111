@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2051704797011890201",
+    "created_at": "2026-05-05T16:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T17:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051704797011890201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1729831830214344704",
+          "start": 3,
+          "username": "qiqi61595220678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051704797011890201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051379122052751869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi61595220678: 没人觉得我们这种人很悲惨吗。就是特别的窝囊，然后呢，很无奈，只能发表糖言糖语假装自己很轻松。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2051704797011890201",
+        "created_at": "2026-05-05T16:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051704797011890201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1729831830214344704",
+              "start": 3,
+              "username": "qiqi61595220678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051704797011890201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051379122052751869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiqi61595220678: 没人觉得我们这种人很悲惨吗。就是特别的窝囊，然后呢，很无奈，只能发表糖言糖语假装自己很轻松。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729831830214344704",
+        "conversation_id": "2051379122052751869",
+        "created_at": "2026-05-04T19:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051379122052751869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051379122052751869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4920,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得我们这种人很悲惨吗。就是特别的窝囊，然后呢，很无奈，只能发表糖言糖语假装自己很轻松。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 401,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 586
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T11:57:10.000Z",
+        "description": "",
+        "id": "1729831830214344704",
+        "name": "Qiiquq",
+        "pinned_tweet_id": "2022006402068488489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862102195555995648/BAiZzT5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 77,
+          "like_count": 840,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 219
+        },
+        "username": "qiqi61595220678",
+        "verified": false
+      }
+    ]
+  }
+}

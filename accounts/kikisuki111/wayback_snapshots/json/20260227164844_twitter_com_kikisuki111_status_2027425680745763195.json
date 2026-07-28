@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2027425680745763195",
+    "created_at": "2026-02-27T16:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027425680745763195"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "魔法少女ノ魔女裁判",
+          "probability": 0.5917,
+          "start": 49,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761599169066893312",
+          "start": 3,
+          "username": "13witch_Trials"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027425680745763195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2803
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027360631960350978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13witch_Trials: ◆販売本数50万本達成◆\n\n共犯の皆様。\n\nSteam版「魔法少女ノ魔女裁判」が\n7/18の発売以降\nついに「販売本数50万本」を達成しました。\n\nたいへん多くの方によるご共犯の成果です。\nこれからも広がる魔法少女ノ魔女裁判の世界を、何卒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2027360625052319744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKhvz_bgAA6O-k.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2027425680745763195",
+        "created_at": "2026-02-27T16:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027425680745763195"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.5917,
+              "start": 49,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761599169066893312",
+              "start": 3,
+              "username": "13witch_Trials"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027425680745763195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2803
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027360631960350978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13witch_Trials: ◆販売本数50万本達成◆\n\n共犯の皆様。\n\nSteam版「魔法少女ノ魔女裁判」が\n7/18の発売以降\nついに「販売本数50万本」を達成しました。\n\nたいへん多くの方によるご共犯の成果です。\nこれからも広がる魔法少女ノ魔女裁判の世界を、何卒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027360625052319744"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2027360631960350978",
+        "created_at": "2026-02-27T12:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027360631960350978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.5708,
+              "start": 29,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33VY4AfXvy",
+              "end": 162,
+              "expanded_url": "https://x.com/13witch_Trials/status/2027360631960350978/photo/1",
+              "media_key": "3_2027360625052319744",
+              "start": 139,
+              "url": "https://t.co/33VY4AfXvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027360631960350978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 234914,
+          "like_count": 9730,
+          "quote_count": 117,
+          "reply_count": 53,
+          "retweet_count": 2803
+        },
+        "reply_settings": "everyone",
+        "text": "◆販売本数50万本達成◆\n\n共犯の皆様。\n\nSteam版「魔法少女ノ魔女裁判」が\n7/18の発売以降\nついに「販売本数50万本」を達成しました。\n\nたいへん多くの方によるご共犯の成果です。\nこれからも広がる魔法少女ノ魔女裁判の世界を、何卒よろしくお願いします。\n\n #まのさば https://t.co/33VY4AfXvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 165,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 92
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia（アカシア）」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam版発売中。開発状況報告と公式アナウンスを行います。#まのさば\n\nYoutube：https://t.co/2vD4itvAee\n公式ショップ：https://t.co/3ZvBm160m1\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 166,
+                "start": 150,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 115,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 92,
+                "url": "https://t.co/2vD4itvAee"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 146,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 123,
+                "url": "https://t.co/3ZvBm160m1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0Ed7C"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "1946155490582602149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229767,
+          "following_count": 53,
+          "like_count": 3652,
+          "listed_count": 359,
+          "media_count": 578,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/3ri3J0Ed7C",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

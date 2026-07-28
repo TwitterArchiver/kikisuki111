@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039145938724487168"
+      ],
+      "media_source_tweet_id": [
+        "2039145942667137428"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2039316724936520062",
+    "created_at": "2026-04-01T12:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039316724936520062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1033974885653991424",
+          "start": 3,
+          "username": "mirariso_m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nEyz0TsS0H",
+          "end": 61,
+          "expanded_url": "https://x.com/mirariso_m/status/2039145942667137428/photo/1",
+          "media_key": "3_2039145938724487168",
+          "start": 38,
+          "url": "https://t.co/nEyz0TsS0H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039316724936520062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 720
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039145942667137428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirariso_m: ハピシュガ2期は11巻アニメ化⁉️😭😭😭😭 https://t.co/nEyz0TsS0H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1902,
+        "media_key": "3_2039145938724487168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyAbWragAA0AYo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039145938724487168"
+          ],
+          "media_source_tweet_id": [
+            "2039145942667137428"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2039316724936520062",
+        "created_at": "2026-04-01T12:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039316724936520062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1033974885653991424",
+              "start": 3,
+              "username": "mirariso_m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEyz0TsS0H",
+              "end": 61,
+              "expanded_url": "https://x.com/mirariso_m/status/2039145942667137428/photo/1",
+              "media_key": "3_2039145938724487168",
+              "start": 38,
+              "url": "https://t.co/nEyz0TsS0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039316724936520062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 720
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039145942667137428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirariso_m: ハピシュガ2期は11巻アニメ化⁉️😭😭😭😭 https://t.co/nEyz0TsS0H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039145938724487168"
+          ]
+        },
+        "author_id": "1033974885653991424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2039145942667137428",
+        "created_at": "2026-04-01T01:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039145942667137428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEyz0TsS0H",
+              "end": 45,
+              "expanded_url": "https://x.com/mirariso_m/status/2039145942667137428/photo/1",
+              "media_key": "3_2039145938724487168",
+              "start": 22,
+              "url": "https://t.co/nEyz0TsS0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039145942667137428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 278941,
+          "like_count": 8950,
+          "quote_count": 197,
+          "reply_count": 22,
+          "retweet_count": 720
+        },
+        "reply_settings": "everyone",
+        "text": "ハピシュガ2期は11巻アニメ化⁉️😭😭😭😭 https://t.co/nEyz0TsS0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 243,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 307
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-27T07:09:57.000Z",
+        "description": "🩷ハッピーシュガーライフ🩵 https://t.co/XARMxrF17k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/messages/eb000…",
+                "end": 37,
+                "expanded_url": "https://marshmallow-qa.com/messages/eb0002c2-26f3-47c5-8d07-d680d4d56f52",
+                "start": 14,
+                "url": "https://t.co/XARMxrF17k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/46312449",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/46312449",
+                "start": 0,
+                "url": "https://t.co/mZZnkzHRuw"
+              }
+            ]
+          }
+        },
+        "id": "1033974885653991424",
+        "name": "みらりそ",
+        "pinned_tweet_id": "2027277765154869364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019763566581288960/voP6O6fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15557,
+          "following_count": 181,
+          "like_count": 82266,
+          "listed_count": 83,
+          "media_count": 3801,
+          "tweet_count": 48323
+        },
+        "url": "https://t.co/mZZnkzHRuw",
+        "username": "mirariso_m",
+        "verified": false
+      }
+    ]
+  }
+}

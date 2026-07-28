@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027370053038182400"
+      ],
+      "media_source_tweet_id": [
+        "2027370058276823043"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027670654531817497",
+    "created_at": "2026-02-28T09:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027670654531817497"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "My9Games"
+        },
+        {
+          "end": 55,
+          "start": 42,
+          "tag": "私を構成する9つのゲーム"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "485573291",
+          "start": 3,
+          "username": "yukina1030"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pSXgLATvhn",
+          "end": 79,
+          "expanded_url": "https://x.com/yukina1030/status/2027370058276823043/photo/1",
+          "media_key": "3_2027370053038182400",
+          "start": 56,
+          "url": "https://t.co/pSXgLATvhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027670654531817497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027370058276823043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukina1030: 9つに絞るの難しすぎんか🤔\n\n#My9Games \n#私を構成する9つのゲーム https://t.co/pSXgLATvhn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027370053038182400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKqUl-bEAAzKlE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027370053038182400"
+          ],
+          "media_source_tweet_id": [
+            "2027370058276823043"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027670654531817497",
+        "created_at": "2026-02-28T09:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027670654531817497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "My9Games"
+            },
+            {
+              "end": 55,
+              "start": 42,
+              "tag": "私を構成する9つのゲーム"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "485573291",
+              "start": 3,
+              "username": "yukina1030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSXgLATvhn",
+              "end": 79,
+              "expanded_url": "https://x.com/yukina1030/status/2027370058276823043/photo/1",
+              "media_key": "3_2027370053038182400",
+              "start": 56,
+              "url": "https://t.co/pSXgLATvhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027670654531817497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027370058276823043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukina1030: 9つに絞るの難しすぎんか🤔\n\n#My9Games \n#私を構成する9つのゲーム https://t.co/pSXgLATvhn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027370053038182400"
+          ]
+        },
+        "author_id": "485573291",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027370058276823043",
+        "created_at": "2026-02-27T13:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027370058276823043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "My9Games"
+            },
+            {
+              "end": 39,
+              "start": 26,
+              "tag": "私を構成する9つのゲーム"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSXgLATvhn",
+              "end": 63,
+              "expanded_url": "https://x.com/yukina1030/status/2027370058276823043/photo/1",
+              "media_key": "3_2027370053038182400",
+              "start": 40,
+              "url": "https://t.co/pSXgLATvhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027370058276823043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3002,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "9つに絞るの難しすぎんか🤔\n\n#My9Games \n#私を構成する9つのゲーム https://t.co/pSXgLATvhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 171,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 106
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-07T10:36:55.000Z",
+        "description": "♡♡♡*⋆꙳꒰ঌ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈໒꒱⋆*♡♡♡ ŁØνЁ♥♡➴♡♡♡♡美少女ゲーム♡♡♡🎴マザリ🎴♡♡♡*⋆꙳꒰ঌ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈໒꒱⋆*♡♡♡",
+        "id": "485573291",
+        "location": "𝒑𝒍𝒂𝒚♡きまぐれテンプテーション2♡カラマリ",
+        "name": "ましろ໒꒱· ﾟ",
+        "pinned_tweet_id": "1995856770070446153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793589680287653888/CRdGmExt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 1899,
+          "like_count": 28416,
+          "listed_count": 20,
+          "media_count": 4114,
+          "tweet_count": 159344
+        },
+        "username": "yukina1030",
+        "verified": false
+      }
+    ]
+  }
+}

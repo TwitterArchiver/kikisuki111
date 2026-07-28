@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026727500953636864"
+      ],
+      "media_source_tweet_id": [
+        "2026727511187665203"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027252095259402316",
+    "created_at": "2026-02-27T05:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027252095259402316"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "le"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1793849386885410816",
+          "start": 3,
+          "username": "Lyther2917001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fKI7Me6rLJ",
+          "end": 57,
+          "expanded_url": "https://x.com/Lyther2917001/status/2026727511187665203/photo/1",
+          "media_key": "3_2026727500953636864",
+          "start": 34,
+          "url": "https://t.co/fKI7Me6rLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027252095259402316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026727511187665203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyther2917001: 深夜突然补充xp来了\n#le https://t.co/fKI7Me6rLJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2026727500953636864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBh7I7bUAAAzGt.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026727500953636864"
+          ],
+          "media_source_tweet_id": [
+            "2026727511187665203"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027252095259402316",
+        "created_at": "2026-02-27T05:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027252095259402316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "le"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1793849386885410816",
+              "start": 3,
+              "username": "Lyther2917001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKI7Me6rLJ",
+              "end": 57,
+              "expanded_url": "https://x.com/Lyther2917001/status/2026727511187665203/photo/1",
+              "media_key": "3_2026727500953636864",
+              "start": 34,
+              "url": "https://t.co/fKI7Me6rLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027252095259402316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026727511187665203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lyther2917001: 深夜突然补充xp来了\n#le https://t.co/fKI7Me6rLJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026727500953636864"
+          ]
+        },
+        "author_id": "1793849386885410816",
+        "conversation_id": "2026727511187665203",
+        "created_at": "2026-02-25T18:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026727511187665203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "le"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKI7Me6rLJ",
+              "end": 38,
+              "expanded_url": "https://x.com/Lyther2917001/status/2026727511187665203/photo/1",
+              "media_key": "3_2026727500953636864",
+              "start": 15,
+              "url": "https://t.co/fKI7Me6rLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026727511187665203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 35682,
+          "like_count": 1093,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "深夜突然补充xp来了\n#le https://t.co/fKI7Me6rLJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T03:40:18.000Z",
+        "description": "🌈le｜长发｜0.8（？）｜恋姐癖｜色狗一只｜女宝来和我聊天❤️｜楠的❌",
+        "id": "1793849386885410816",
+        "name": "伊莱",
+        "pinned_tweet_id": "2019166277294866487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015505079974178816/Wauf9FNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 51,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 101
+        },
+        "username": "Lyther2917001",
+        "verified": false
+      }
+    ]
+  }
+}

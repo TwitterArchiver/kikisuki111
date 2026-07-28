@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2051311450229293516",
+    "created_at": "2026-05-05T09:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051594739921920286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037090530467995648",
+          "start": 0,
+          "username": "A920520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051594739921920286",
+    "in_reply_to_user_id": "2037090530467995648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051539585642250557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A920520 酒精是对的！隔空喝一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2051311450229293516",
+        "created_at": "2026-05-05T09:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051594739921920286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037090530467995648",
+              "start": 0,
+              "username": "A920520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051594739921920286",
+        "in_reply_to_user_id": "2037090530467995648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051539585642250557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A920520 酒精是对的！隔空喝一口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037090530467995648",
+        "conversation_id": "2051311450229293516",
+        "created_at": "2026-05-05T05:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051539585642250557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051539585642250557",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051311450229293516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 我也要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 402,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 582
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:53:36.000Z",
+        "description": "身高188.体重135，土象处女座，妹控，infj绿老头，有点爱喝酒，开心的时候不怎么喝，喜欢冒险，刺激，有激情，有挑战的事，属性s，会点绳缚，另外接私人定制小狗小猫项圈，脾气很好，性格很好，想认识好多新朋友",
+        "id": "2037090530467995648",
+        "name": "林飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037090657848942592/kDT51ZvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 294
+        },
+        "username": "A920520",
+        "verified": false
+      }
+    ]
+  }
+}

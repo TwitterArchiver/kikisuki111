@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2032739789896823039",
+    "created_at": "2026-03-14T08:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T09:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032739789896823039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1785931687446335488",
+          "start": 3,
+          "username": "chinchachu95362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032739789896823039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032087808303907079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chinchachu95362: 中国有超过三千万同性恋，但是现在却连一个彩虹袋子都不允许出现在宜家……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2032739789896823039",
+        "created_at": "2026-03-14T08:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032739789896823039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1785931687446335488",
+              "start": 3,
+              "username": "chinchachu95362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032739789896823039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032087808303907079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chinchachu95362: 中国有超过三千万同性恋，但是现在却连一个彩虹袋子都不允许出现在宜家……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785931687446335488",
+        "conversation_id": "2032087808303907079",
+        "created_at": "2026-03-12T13:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032087808303907079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032087808303907079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 387732,
+          "like_count": 2445,
+          "quote_count": 19,
+          "reply_count": 253,
+          "retweet_count": 82
+        },
+        "reply_settings": "following",
+        "text": "中国有超过三千万同性恋，但是现在却连一个彩虹袋子都不允许出现在宜家……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 203,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 220
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T07:18:08.000Z",
+        "description": "顺女双性恋，反出生主义，加速!",
+        "id": "1785931687446335488",
+        "name": "Chinchachuck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785932135343517696/IksFS8pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 130,
+          "like_count": 8402,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1588
+        },
+        "username": "chinchachu95362",
+        "verified": false
+      }
+    ]
+  }
+}

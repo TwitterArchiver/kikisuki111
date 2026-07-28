@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027488080098361344"
+      ],
+      "media_source_tweet_id": [
+        "2027488209664684344"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2027621746485153828",
+    "created_at": "2026-02-28T05:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027621746485153828"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "AI"
+        },
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "hanging"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "首吊り"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "絞首刑"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "首折り"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1365025273310142465",
+          "start": 3,
+          "username": "GeorgeOr_Well"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHU7fTRaiU",
+          "end": 96,
+          "expanded_url": "https://x.com/GeorgeOr_Well/status/2027488209664684344/photo/1",
+          "media_key": "3_2027488080098361344",
+          "start": 73,
+          "url": "https://t.co/bHU7fTRaiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027621746485153828",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027488209664684344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeorgeOr_Well: #AI #hanging #首吊り #絞首刑 #首折り\nAll characters was adult. https://t.co/bHU7fTRaiU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2027488080098361344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMVqrCaAAAuHFB.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027488080098361344"
+          ],
+          "media_source_tweet_id": [
+            "2027488209664684344"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2027621746485153828",
+        "created_at": "2026-02-28T05:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027621746485153828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "AI"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "hanging"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "首吊り"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "絞首刑"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "首折り"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1365025273310142465",
+              "start": 3,
+              "username": "GeorgeOr_Well"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHU7fTRaiU",
+              "end": 96,
+              "expanded_url": "https://x.com/GeorgeOr_Well/status/2027488209664684344/photo/1",
+              "media_key": "3_2027488080098361344",
+              "start": 73,
+              "url": "https://t.co/bHU7fTRaiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027621746485153828",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027488209664684344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeorgeOr_Well: #AI #hanging #首吊り #絞首刑 #首折り\nAll characters was adult. https://t.co/bHU7fTRaiU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027488080098361344"
+          ]
+        },
+        "author_id": "1365025273310142465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2027488209664684344",
+        "created_at": "2026-02-27T20:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027488209664684344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "AI"
+            },
+            {
+              "end": 12,
+              "start": 4,
+              "tag": "hanging"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "首吊り"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "絞首刑"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "首折り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHU7fTRaiU",
+              "end": 77,
+              "expanded_url": "https://x.com/GeorgeOr_Well/status/2027488209664684344/photo/1",
+              "media_key": "3_2027488080098361344",
+              "start": 54,
+              "url": "https://t.co/bHU7fTRaiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027488209664684344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 6291,
+          "like_count": 505,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#AI #hanging #首吊り #絞首刑 #首折り\nAll characters was adult. https://t.co/bHU7fTRaiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 95
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T19:46:14.000Z",
+        "description": "A manga artist.\nPixiv: https://t.co/RelKlzLHqS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4878316",
+                "end": 46,
+                "expanded_url": "https://www.pixiv.net/users/4878316",
+                "start": 23,
+                "url": "https://t.co/RelKlzLHqS"
+              }
+            ]
+          }
+        },
+        "id": "1365025273310142465",
+        "name": "George Or Well！",
+        "pinned_tweet_id": "1888252376483815484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615566111201976320/m-3C_1bW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 97
+        },
+        "username": "GeorgeOr_Well",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2047946825420976140",
+    "created_at": "2026-04-26T04:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048251473319125253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931586724997861376",
+          "start": 0,
+          "username": "r_ain93995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048251473319125253",
+    "in_reply_to_user_id": "1931586724997861376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048025105935253543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r_ain93995 宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2047946825420976140",
+        "created_at": "2026-04-26T04:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048251473319125253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931586724997861376",
+              "start": 0,
+              "username": "r_ain93995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048251473319125253",
+        "in_reply_to_user_id": "1931586724997861376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048025105935253543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r_ain93995 宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931586724997861376",
+        "conversation_id": "2047946825420976140",
+        "created_at": "2026-04-25T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048025105935253543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048025105935253543",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047946825420976140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 这么萌！宝宝你好萌！⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 349,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 521
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T05:39:39.000Z",
+        "description": "〔私 ·幸せ· Forever〕 天天開心",
+        "id": "1931586724997861376",
+        "name": "R ain",
+        "pinned_tweet_id": "1974402899167064091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045533023651971072/j6jIx_ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 388,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 194
+        },
+        "username": "r_ain93995",
+        "verified": false
+      }
+    ]
+  }
+}

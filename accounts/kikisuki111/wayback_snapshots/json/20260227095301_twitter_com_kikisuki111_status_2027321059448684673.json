@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026983626462875649"
+      ],
+      "media_source_tweet_id": [
+        "2026983631248626038"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2027321059448684673",
+    "created_at": "2026-02-27T09:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027321059448684673"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761747883064475649",
+          "start": 3,
+          "username": "usag_ioi_c2525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2JaGE5UvCz",
+          "end": 64,
+          "expanded_url": "https://x.com/usag_ioi_c2525/status/2026983631248626038/photo/1",
+          "media_key": "3_2026983626462875649",
+          "start": 41,
+          "url": "https://t.co/2JaGE5UvCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027321059448684673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1027
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026983631248626038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usag_ioi_c2525: 他人の不幸は 知らんぷり！\n #初音ミク https://t.co/2JaGE5UvCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2026983626462875649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFK3mzaUAEbpeZ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026983626462875649"
+          ],
+          "media_source_tweet_id": [
+            "2026983631248626038"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2027321059448684673",
+        "created_at": "2026-02-27T09:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027321059448684673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761747883064475649",
+              "start": 3,
+              "username": "usag_ioi_c2525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2JaGE5UvCz",
+              "end": 64,
+              "expanded_url": "https://x.com/usag_ioi_c2525/status/2026983631248626038/photo/1",
+              "media_key": "3_2026983626462875649",
+              "start": 41,
+              "url": "https://t.co/2JaGE5UvCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027321059448684673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1027
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026983631248626038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usag_ioi_c2525: 他人の不幸は 知らんぷり！\n #初音ミク https://t.co/2JaGE5UvCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026983626462875649"
+          ]
+        },
+        "author_id": "1761747883064475649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2026983631248626038",
+        "created_at": "2026-02-26T11:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026983631248626038"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2JaGE5UvCz",
+              "end": 44,
+              "expanded_url": "https://x.com/usag_ioi_c2525/status/2026983631248626038/photo/1",
+              "media_key": "3_2026983626462875649",
+              "start": 21,
+              "url": "https://t.co/2JaGE5UvCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026983631248626038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 61350,
+          "like_count": 7548,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 1027
+        },
+        "reply_settings": "everyone",
+        "text": "他人の不幸は 知らんぷり！\n #初音ミク https://t.co/2JaGE5UvCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 141,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:40:32.000Z",
+        "description": "ボカロすきすき星人//【青空】usag-ioi-c2525//【イラスト利用規約】https://t.co/jmxu0nCqaq【YouTube】https://t.co/jzhfTftDOw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/usag_ioi_c2525",
+                "end": 64,
+                "expanded_url": "http://twpf.jp/usag_ioi_c2525",
+                "start": 41,
+                "url": "https://t.co/jmxu0nCqaq"
+              },
+              {
+                "display_url": "youtube.com/@usag_ioi_c252…",
+                "end": 96,
+                "expanded_url": "https://youtube.com/@usag_ioi_c2525?feature=shared",
+                "start": 73,
+                "url": "https://t.co/jzhfTftDOw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/usag_ioi_c2525",
+                "end": 23,
+                "expanded_url": "https://lit.link/usag_ioi_c2525",
+                "start": 0,
+                "url": "https://t.co/ifEmXWhhj9"
+              }
+            ]
+          }
+        },
+        "id": "1761747883064475649",
+        "location": "何かあればDMへどうぞ！",
+        "name": "発作",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854933193646129155/naOta06o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/ifEmXWhhj9",
+        "username": "usag_ioi_c2525",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1448210477788459008"
+      ],
+      "media_source_tweet_id": [
+        "1448210608482963458"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2042973633245753776",
+    "created_at": "2026-04-11T14:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042973633245753776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436273943535489034",
+          "start": 3,
+          "username": "vkei_2000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oNf3h5xO2A",
+          "end": 58,
+          "expanded_url": "https://x.com/vkei_2000/status/1448210608482963458/photo/1",
+          "media_key": "7_1448210477788459008",
+          "start": 35,
+          "url": "https://t.co/oNf3h5xO2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042973633245753776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042962926487671097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vkei_2000: LuLu\n「精神鎮痛剤」\n（2005）\nhttps://t.co/oNf3h5xO2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53181,
+        "height": 888,
+        "media_key": "7_1448210477788459008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1448210477788459008/pu/img/x773hSt9yrXlcQwV.jpg",
+        "public_metrics": {
+          "view_count": 10238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1448210477788459008/pu/vid/358x270/2rpzRQ2vBox1YuNA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1448210477788459008/pu/vid/478x360/kITwPaCOsy82e0ck.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1448210477788459008/pu/vid/958x720/we2omXTIFGh1Tql9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1448210477788459008/pu/pl/o9-Pr4cn95efOP0y.m3u8?tag=12&v=691"
+          }
+        ],
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1448210477788459008"
+          ],
+          "media_source_tweet_id": [
+            "1448210608482963458"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2042973633245753776",
+        "created_at": "2026-04-11T14:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042973633245753776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436273943535489034",
+              "start": 3,
+              "username": "vkei_2000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNf3h5xO2A",
+              "end": 58,
+              "expanded_url": "https://x.com/vkei_2000/status/1448210608482963458/photo/1",
+              "media_key": "7_1448210477788459008",
+              "start": 35,
+              "url": "https://t.co/oNf3h5xO2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042973633245753776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042962926487671097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vkei_2000: LuLu\n「精神鎮痛剤」\n（2005）\nhttps://t.co/oNf3h5xO2A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1448210477788459008"
+          ],
+          "media_source_tweet_id": [
+            "1448210608482963458"
+          ]
+        },
+        "author_id": "1436273943535489034",
+        "conversation_id": "2042962926487671097",
+        "created_at": "2026-04-11T13:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042962926487671097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNf3h5xO2A",
+              "end": 43,
+              "expanded_url": "https://x.com/vkei_2000/status/1448210608482963458/photo/1",
+              "media_key": "7_1448210477788459008",
+              "start": 20,
+              "url": "https://t.co/oNf3h5xO2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042962926487671097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1213,
+          "like_count": 45,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "LuLu\n「精神鎮痛剤」\n（2005）\nhttps://t.co/oNf3h5xO2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 268,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 373
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T10:23:10.000Z",
+        "description": "2000年〜2009年に活動していた盤の曲をつぶやきます。アーティスト名/「タイトル」/（初出年）　メジャーからドドドマイナーまで。00年代が青春でした。ただの懐古厨でつ。よろしくお願いします＼(^o^)／ †キリ番踏んだらBBSにカキコよろ†",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.2ch2.net/visualtanuki/",
+                "end": 23,
+                "expanded_url": "https://v.2ch2.net/visualtanuki/",
+                "start": 0,
+                "url": "https://t.co/BZXi0WAowy"
+              }
+            ]
+          }
+        },
+        "id": "1436273943535489034",
+        "location": "魔法のiらんど,前略プロフィール,mixi",
+        "name": "2000年代ヴィジュアル系bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436682967582056448/1jxSAU4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13984,
+          "following_count": 16,
+          "like_count": 6651,
+          "listed_count": 21,
+          "media_count": 2884,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/BZXi0WAowy",
+        "username": "vkei_2000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027292270379364353",
+        "3_2027292270383501312"
+      ],
+      "media_source_tweet_id": [
+        "2027292279745175984",
+        "2027292279745175984"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027390392744960269",
+    "created_at": "2026-02-27T14:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027390392744960269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1918682847336083456",
+          "start": 3,
+          "username": "clovercomedy_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhv7owluxc",
+          "end": 60,
+          "expanded_url": "https://x.com/clovercomedy_/status/2027292279745175984/photo/1",
+          "media_key": "3_2027292270379364353",
+          "start": 37,
+          "url": "https://t.co/dhv7owluxc"
+        },
+        {
+          "display_url": "pic.x.com/dhv7owluxc",
+          "end": 60,
+          "expanded_url": "https://x.com/clovercomedy_/status/2027292279745175984/photo/1",
+          "media_key": "3_2027292270383501312",
+          "start": 37,
+          "url": "https://t.co/dhv7owluxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027390392744960269",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027292279745175984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clovercomedy_: 아끼고 아끼다가 드디어 개봉했다 https://t.co/dhv7owluxc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027292270379364353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJjlC_bcAEJVOq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027292270383501312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJjlDAakAAraoe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027292270379364353",
+            "3_2027292270383501312"
+          ],
+          "media_source_tweet_id": [
+            "2027292279745175984",
+            "2027292279745175984"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027390392744960269",
+        "created_at": "2026-02-27T14:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027390392744960269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1918682847336083456",
+              "start": 3,
+              "username": "clovercomedy_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhv7owluxc",
+              "end": 60,
+              "expanded_url": "https://x.com/clovercomedy_/status/2027292279745175984/photo/1",
+              "media_key": "3_2027292270379364353",
+              "start": 37,
+              "url": "https://t.co/dhv7owluxc"
+            },
+            {
+              "display_url": "pic.x.com/dhv7owluxc",
+              "end": 60,
+              "expanded_url": "https://x.com/clovercomedy_/status/2027292279745175984/photo/1",
+              "media_key": "3_2027292270383501312",
+              "start": 37,
+              "url": "https://t.co/dhv7owluxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027390392744960269",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027292279745175984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clovercomedy_: 아끼고 아끼다가 드디어 개봉했다 https://t.co/dhv7owluxc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027292270379364353",
+            "3_2027292270383501312"
+          ]
+        },
+        "author_id": "1918682847336083456",
+        "conversation_id": "2027292279745175984",
+        "created_at": "2026-02-27T07:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027292279745175984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhv7owluxc",
+              "end": 41,
+              "expanded_url": "https://x.com/clovercomedy_/status/2027292279745175984/photo/1",
+              "media_key": "3_2027292270379364353",
+              "start": 18,
+              "url": "https://t.co/dhv7owluxc"
+            },
+            {
+              "display_url": "pic.x.com/dhv7owluxc",
+              "end": 41,
+              "expanded_url": "https://x.com/clovercomedy_/status/2027292279745175984/photo/1",
+              "media_key": "3_2027292270383501312",
+              "start": 18,
+              "url": "https://t.co/dhv7owluxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027292279745175984",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 6592,
+          "like_count": 597,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "아끼고 아끼다가 드디어 개봉했다 https://t.co/dhv7owluxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 151,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 74
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T15:03:44.000Z",
+        "description": "",
+        "id": "1918682847336083456",
+        "location": "커피 젤리",
+        "name": "PP",
+        "pinned_tweet_id": "1977255988853182496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991160947373928448/8nzo46ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 140,
+          "like_count": 2391,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 185
+        },
+        "username": "clovercomedy_",
+        "verified": false
+      }
+    ]
+  }
+}

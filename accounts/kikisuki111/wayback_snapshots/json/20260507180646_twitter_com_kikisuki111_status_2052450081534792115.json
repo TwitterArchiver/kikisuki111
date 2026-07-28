@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2052136262081884167"
+      ],
+      "media_source_tweet_id": [
+        "2052136294013108571"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052450081534792115",
+    "created_at": "2026-05-07T18:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052450081534792115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1618695757229334550",
+          "start": 3,
+          "username": "HauntedAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/msMto5jxKw",
+          "end": 46,
+          "expanded_url": "https://x.com/HauntedAI/status/2052136294013108571/video/1",
+          "media_key": "7_2052136262081884167",
+          "start": 23,
+          "url": "https://t.co/msMto5jxKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052450081534792115",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052136294013108571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HauntedAI: (✺^▽^)✺ https://t.co/msMto5jxKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12051,
+        "height": 720,
+        "media_key": "7_2052136262081884167",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052136262081884167/pu/img/Ukyt0OsHmYKI231F.jpg",
+        "public_metrics": {
+          "view_count": 4212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052136262081884167/pu/vid/avc1/480x270/UZume-mlmp7uuOPA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052136262081884167/pu/vid/avc1/640x360/heGFpPVnJ-aX3xeC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052136262081884167/pu/vid/avc1/1280x720/LrYBAGhmq4a-xqHD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052136262081884167/pu/pl/nZJqin6zuGfKFX9a.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052136262081884167"
+          ],
+          "media_source_tweet_id": [
+            "2052136294013108571"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052450081534792115",
+        "created_at": "2026-05-07T18:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052450081534792115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1618695757229334550",
+              "start": 3,
+              "username": "HauntedAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/msMto5jxKw",
+              "end": 46,
+              "expanded_url": "https://x.com/HauntedAI/status/2052136294013108571/video/1",
+              "media_key": "7_2052136262081884167",
+              "start": 23,
+              "url": "https://t.co/msMto5jxKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052450081534792115",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052136294013108571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HauntedAI: (✺^▽^)✺ https://t.co/msMto5jxKw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052136262081884167"
+          ]
+        },
+        "author_id": "1618695757229334550",
+        "conversation_id": "2052136294013108571",
+        "created_at": "2026-05-06T21:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052136294013108571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msMto5jxKw",
+              "end": 31,
+              "expanded_url": "https://x.com/HauntedAI/status/2052136294013108571/video/1",
+              "media_key": "7_2052136262081884167",
+              "start": 8,
+              "url": "https://t.co/msMto5jxKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052136294013108571",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 11467,
+          "like_count": 612,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "(✺^▽^)✺ https://t.co/msMto5jxKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 404,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 609
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T19:42:48.000Z",
+        "description": "I create creepy and surreal AI content.\n\nIf you enjoy what I make, a coffee goes a long way ☕ https://t.co/McukxoGBHA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/dp0wzdqb23",
+                "end": 117,
+                "expanded_url": "https://buymeacoffee.com/dp0wzdqb23",
+                "start": 94,
+                "url": "https://t.co/McukxoGBHA"
+              }
+            ]
+          }
+        },
+        "id": "1618695757229334550",
+        "location": "UK",
+        "name": "Haunted AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023499065019740160/l37tO74Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8260,
+          "following_count": 1090,
+          "like_count": 9025,
+          "listed_count": 44,
+          "media_count": 1269,
+          "tweet_count": 2440
+        },
+        "username": "HauntedAI",
+        "verified": true
+      }
+    ]
+  }
+}

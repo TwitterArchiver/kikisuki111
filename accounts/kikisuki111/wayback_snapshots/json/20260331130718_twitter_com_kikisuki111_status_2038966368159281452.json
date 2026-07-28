@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2038966368159281452",
+    "created_at": "2026-03-31T13:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038966368159281452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2021200224388341760",
+          "start": 3,
+          "username": "pet843801211906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038966368159281452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038842021650329860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pet843801211906: 我觉得抖音上那些看到自残就狗叫割脖子的人很脑残又没割你关你啥事呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2038966368159281452",
+        "created_at": "2026-03-31T13:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038966368159281452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2021200224388341760",
+              "start": 3,
+              "username": "pet843801211906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038966368159281452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038842021650329860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pet843801211906: 我觉得抖音上那些看到自残就狗叫割脖子的人很脑残又没割你关你啥事呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2038842021650329860",
+        "created_at": "2026-03-31T04:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038842021650329860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038842021650329860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3991,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得抖音上那些看到自残就狗叫割脖子的人很脑残又没割你关你啥事呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 230,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 297
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "我叫小风｜割/磕/10｜退学/istp｜我非常温良可以闲聊｜查成分互fo。！直fo是喜欢你｜聊骚给我打钱看心情回｜漏掉回fo私我呀呀🥺",
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028800059178188800/x1LxeREg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 116,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 377
+        },
+        "username": "pet843801211906",
+        "verified": false
+      }
+    ]
+  }
+}

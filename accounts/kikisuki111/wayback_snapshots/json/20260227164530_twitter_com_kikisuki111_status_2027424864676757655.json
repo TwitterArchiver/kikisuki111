@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2027424864676757655",
+    "created_at": "2026-02-27T16:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027424864676757655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022232330752925696",
+          "start": 3,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027424864676757655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027187028102685148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meltss03: 我又何尝不是一个蛋小黄呢？我每天都那么绝望，我觉得我很抑郁，我感受不到快乐，但是我表现得很平淡，我就是这样一个把悲伤掩饰在嘎达之下的阳光抑郁症，你们能不能不要伤害我？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2027424864676757655",
+        "created_at": "2026-02-27T16:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027424864676757655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022232330752925696",
+              "start": 3,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027424864676757655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027187028102685148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meltss03: 我又何尝不是一个蛋小黄呢？我每天都那么绝望，我觉得我很抑郁，我感受不到快乐，但是我表现得很平淡，我就是这样一个把悲伤掩饰在嘎达之下的阳光抑郁症，你们能不能不要伤害我？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2027187028102685148",
+        "created_at": "2026-02-27T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027187028102685148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027187028102685148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6140,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我又何尝不是一个蛋小黄呢？我每天都那么绝望，我觉得我很抑郁，我感受不到快乐，但是我表现得很平淡，我就是这样一个把悲伤掩饰在嘎达之下的阳光抑郁症，你们能不能不要伤害我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 165,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "一个转世七级恶灵胎儿的碎碎咒怨，我会一直盯着你哟…👁️👁️ 没网感的土逼不要评论关注我我是说永远",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2026636031663980992",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 34,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1479
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

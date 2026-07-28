@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2028778550871167413",
+    "created_at": "2026-03-03T10:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028778550871167413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999747932573302784",
+          "start": 3,
+          "username": "Tivzy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028778550871167413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028460203256238096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tivzy77: 那你不喜欢我你为什么要骗我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2028778550871167413",
+        "created_at": "2026-03-03T10:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028778550871167413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999747932573302784",
+              "start": 3,
+              "username": "Tivzy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028778550871167413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028460203256238096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tivzy77: 那你不喜欢我你为什么要骗我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999747932573302784",
+        "conversation_id": "2028460203256238096",
+        "created_at": "2026-03-02T13:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028460203256238096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028460203256238096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5986,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "那你不喜欢我你为什么要骗我呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 185,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 141
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T07:47:25.000Z",
+        "description": "皮下是非常坏并且玻璃心的小女孩｜小号在此！@nivty77只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "nivty77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tivzy77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tivzy77",
+                "start": 0,
+                "url": "https://t.co/LYe15afnYg"
+              }
+            ]
+          }
+        },
+        "id": "1999747932573302784",
+        "name": "谁理你",
+        "pinned_tweet_id": "2017506416249221509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025975281564147713/RPAywNNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 62,
+          "like_count": 1853,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/LYe15afnYg",
+        "username": "Tivzy77",
+        "verified": false
+      }
+    ]
+  }
+}

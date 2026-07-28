@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045861328649330688",
+        "3_2045861287423520768",
+        "3_2045861288493080577",
+        "3_2045861289088655360"
+      ],
+      "media_source_tweet_id": [
+        "2045861334362013970",
+        "2045861334362013970",
+        "2045861334362013970",
+        "2045861334362013970"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045905113412509744",
+    "created_at": "2026-04-19T16:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045905113412509744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933114395854610432",
+          "start": 3,
+          "username": "eweisi32"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSuUf1LWm0",
+          "end": 40,
+          "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+          "media_key": "3_2045861328649330688",
+          "start": 17,
+          "url": "https://t.co/uSuUf1LWm0"
+        },
+        {
+          "display_url": "pic.x.com/uSuUf1LWm0",
+          "end": 40,
+          "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+          "media_key": "3_2045861287423520768",
+          "start": 17,
+          "url": "https://t.co/uSuUf1LWm0"
+        },
+        {
+          "display_url": "pic.x.com/uSuUf1LWm0",
+          "end": 40,
+          "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+          "media_key": "3_2045861288493080577",
+          "start": 17,
+          "url": "https://t.co/uSuUf1LWm0"
+        },
+        {
+          "display_url": "pic.x.com/uSuUf1LWm0",
+          "end": 40,
+          "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+          "media_key": "3_2045861289088655360",
+          "start": 17,
+          "url": "https://t.co/uSuUf1LWm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045905113412509744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045861334362013970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eweisi32: 更新 https://t.co/uSuUf1LWm0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045905113412509744].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045905113412509744",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045905113412509744"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2045861328649330688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRcCfnaIAAyoW4.jpg",
+        "width": 1042
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2045861287423520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRcAGCaMAAXTai.jpg",
+        "width": 683
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2045861288493080577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRcAKBaYAEkWj5.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1070,
+        "media_key": "3_2045861289088655360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRcAMPaIAAs2fB.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045861328649330688",
+            "3_2045861287423520768",
+            "3_2045861288493080577",
+            "3_2045861289088655360"
+          ]
+        },
+        "author_id": "1933114395854610432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045861334362013970",
+        "created_at": "2026-04-19T13:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045861334362013970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSuUf1LWm0",
+              "end": 26,
+              "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+              "media_key": "3_2045861328649330688",
+              "start": 3,
+              "url": "https://t.co/uSuUf1LWm0"
+            },
+            {
+              "display_url": "pic.x.com/uSuUf1LWm0",
+              "end": 26,
+              "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+              "media_key": "3_2045861287423520768",
+              "start": 3,
+              "url": "https://t.co/uSuUf1LWm0"
+            },
+            {
+              "display_url": "pic.x.com/uSuUf1LWm0",
+              "end": 26,
+              "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+              "media_key": "3_2045861288493080577",
+              "start": 3,
+              "url": "https://t.co/uSuUf1LWm0"
+            },
+            {
+              "display_url": "pic.x.com/uSuUf1LWm0",
+              "end": 26,
+              "expanded_url": "https://x.com/eweisi32/status/2045861334362013970/photo/1",
+              "media_key": "3_2045861289088655360",
+              "start": 3,
+              "url": "https://t.co/uSuUf1LWm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045861334362013970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 302,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "更新 https://t.co/uSuUf1LWm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 344,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 462
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个双相神经病，一个人，一个小女孩。互fo私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleRHaZ"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2045861334362013970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 457,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/tYaSleRHaZ",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

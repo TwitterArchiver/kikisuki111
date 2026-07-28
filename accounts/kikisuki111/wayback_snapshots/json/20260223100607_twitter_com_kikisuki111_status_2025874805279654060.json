@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025874791220269056"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2025874805279654060",
+    "created_at": "2026-02-23T10:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025874805279654060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GWdC1k75A",
+          "end": 23,
+          "expanded_url": "https://x.com/kikisuki111/status/2025874805279654060/photo/1",
+          "media_key": "3_2025874791220269056",
+          "start": 0,
+          "url": "https://t.co/3GWdC1k75A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025874805279654060",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/3GWdC1k75A"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025874805279654060].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025874805279654060",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025874805279654060"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2025874791220269056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1aY5oaUAAbxWZ.jpg",
+        "width": 741
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 51,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

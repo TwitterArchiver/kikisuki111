@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053280059356528641"
+      ],
+      "media_source_tweet_id": [
+        "2053280065278902606"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053443348430737616",
+    "created_at": "2026-05-10T11:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053443348430737616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010417524526260224",
+          "start": 3,
+          "username": "nyctorra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DoqkwGADah",
+          "end": 41,
+          "expanded_url": "https://x.com/nyctorra/status/2053280065278902606/photo/1",
+          "media_key": "3_2053280059356528641",
+          "start": 18,
+          "url": "https://t.co/DoqkwGADah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053443348430737616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053280065278902606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyctorra: psp https://t.co/DoqkwGADah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2053280059356528641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH63VdJWwAEL_4l.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053280059356528641"
+          ],
+          "media_source_tweet_id": [
+            "2053280065278902606"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053443348430737616",
+        "created_at": "2026-05-10T11:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053443348430737616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010417524526260224",
+              "start": 3,
+              "username": "nyctorra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoqkwGADah",
+              "end": 41,
+              "expanded_url": "https://x.com/nyctorra/status/2053280065278902606/photo/1",
+              "media_key": "3_2053280059356528641",
+              "start": 18,
+              "url": "https://t.co/DoqkwGADah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053443348430737616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053280065278902606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyctorra: psp https://t.co/DoqkwGADah"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053280059356528641"
+          ]
+        },
+        "author_id": "2010417524526260224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053280065278902606",
+        "created_at": "2026-05-10T01:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053280065278902606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoqkwGADah",
+              "end": 27,
+              "expanded_url": "https://x.com/nyctorra/status/2053280065278902606/photo/1",
+              "media_key": "3_2053280059356528641",
+              "start": 4,
+              "url": "https://t.co/DoqkwGADah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053280065278902606",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 21510,
+          "like_count": 1592,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "psp https://t.co/DoqkwGADah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 413,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 714
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:24:35.000Z",
+        "description": "I make things with AI",
+        "id": "2010417524526260224",
+        "name": "nyctorra 愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049437261436203008/Q2MSYzrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33251,
+          "following_count": 25,
+          "like_count": 757,
+          "listed_count": 67,
+          "media_count": 43,
+          "tweet_count": 43
+        },
+        "username": "nyctorra",
+        "verified": true
+      }
+    ]
+  }
+}

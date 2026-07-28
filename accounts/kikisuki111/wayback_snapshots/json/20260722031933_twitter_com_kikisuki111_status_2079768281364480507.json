@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079768251421384704"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2079768281364480507",
+    "created_at": "2026-07-22T03:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079768281364480507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNyMhHNBzx",
+          "end": 23,
+          "expanded_url": "https://x.com/kikisuki111/status/2079768281364480507/video/1",
+          "media_key": "13_2079768251421384704",
+          "start": 0,
+          "url": "https://t.co/mNyMhHNBzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079768281364480507",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mNyMhHNBzx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6939,
+        "height": 720,
+        "media_key": "13_2079768251421384704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079768251421384704/img/xMoSxstPLQfiQEE9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079768251421384704/vid/avc1/480x270/PyLDA5OveFKleuN7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079768251421384704/vid/avc1/640x360/XhqDlK0LL8cE7TrS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079768251421384704/vid/avc1/1280x720/I7sYIIRiZbY8nrWM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079768251421384704/pl/U4oAZy0DnPtQZy5N.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079768251421384704"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2079768281364480507",
+        "created_at": "2026-07-22T03:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079768281364480507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNyMhHNBzx",
+              "end": 23,
+              "expanded_url": "https://x.com/kikisuki111/status/2079768281364480507/video/1",
+              "media_key": "13_2079768251421384704",
+              "start": 0,
+              "url": "https://t.co/mNyMhHNBzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079768281364480507",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mNyMhHNBzx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 515,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

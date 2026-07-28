@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2056668526199648497",
+    "created_at": "2026-05-19T09:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056668526199648497"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056668526199648497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我做了一个很久没做的噩梦睡的一点都不好上次梦到这个恶魔还是小时候结果现在还梦到后续了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2056668526199648497",
+        "created_at": "2026-05-19T09:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056668526199648497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056668526199648497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做了一个很久没做的噩梦睡的一点都不好上次梦到这个恶魔还是小时候结果现在还梦到后续了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2056531624221950243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 448,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 833
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

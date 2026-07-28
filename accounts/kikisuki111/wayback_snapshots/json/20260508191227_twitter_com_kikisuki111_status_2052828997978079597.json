@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052750098761973760"
+      ],
+      "media_source_tweet_id": [
+        "2052750104772374783"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052828997978079597",
+    "created_at": "2026-05-08T19:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T20:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052828997978079597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763547390706114560",
+          "start": 3,
+          "username": "syfannnnnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mRC56Q7S25",
+          "end": 62,
+          "expanded_url": "https://x.com/syfannnnnn/status/2052750104772374783/photo/1",
+          "media_key": "3_2052750098761973760",
+          "start": 39,
+          "url": "https://t.co/mRC56Q7S25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052828997978079597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052750104772374783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syfannnnnn: 遺物『霧島緑光の義眼』(獨逸製)を入手した。 https://t.co/mRC56Q7S25"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_2052750098761973760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzVVsFbAAAPETQ.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052750098761973760"
+          ],
+          "media_source_tweet_id": [
+            "2052750104772374783"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052828997978079597",
+        "created_at": "2026-05-08T19:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052828997978079597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763547390706114560",
+              "start": 3,
+              "username": "syfannnnnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRC56Q7S25",
+              "end": 62,
+              "expanded_url": "https://x.com/syfannnnnn/status/2052750104772374783/photo/1",
+              "media_key": "3_2052750098761973760",
+              "start": 39,
+              "url": "https://t.co/mRC56Q7S25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052828997978079597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052750104772374783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syfannnnnn: 遺物『霧島緑光の義眼』(獨逸製)を入手した。 https://t.co/mRC56Q7S25"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052750098761973760"
+          ]
+        },
+        "author_id": "1763547390706114560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052750104772374783",
+        "created_at": "2026-05-08T13:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052750104772374783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRC56Q7S25",
+              "end": 46,
+              "expanded_url": "https://x.com/syfannnnnn/status/2052750104772374783/photo/1",
+              "media_key": "3_2052750098761973760",
+              "start": 23,
+              "url": "https://t.co/mRC56Q7S25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052750104772374783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 21263,
+          "like_count": 1311,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "遺物『霧島緑光の義眼』(獨逸製)を入手した。 https://t.co/mRC56Q7S25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 407,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 663
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T12:50:52.000Z",
+        "description": "【昭和異色映画OC建設中🔨】【霧島アキラ】大正/昭和/戦前/古道具/呪物/人形/仏像/医学/標本/髑髏/看板/怪談/民俗/廃墟/秘宝館/見世物/ラブホ/化け物屋敷/サイバーパンク/九龍城岩/吸血鬼/制服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/syfan?igsh=MXJ…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/syfan?igsh=MXJ1a2s0MmV6Z25uNA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Tt16astZmA"
+              }
+            ]
+          }
+        },
+        "id": "1763547390706114560",
+        "name": "近喰聖子",
+        "pinned_tweet_id": "2040787439229509782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787112878652481536/TB2j5JIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 158,
+          "like_count": 413,
+          "listed_count": 6,
+          "media_count": 107,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/Tt16astZmA",
+        "username": "syfannnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

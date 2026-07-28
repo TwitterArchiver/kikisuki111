@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2072494910260093381",
+    "created_at": "2026-07-02T01:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072494910260093381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922389433510461442",
+          "start": 3,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072494910260093381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072225924251328568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RieXwX: 同龄人：学习 工作 恋爱 操逼 旅游\n我：打游戏 三个月不出小区 杜绝社交恋爱 沉迷互联网 大事小事全部询问ai 每天仅与一只狗对话拥抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2072494910260093381",
+        "created_at": "2026-07-02T01:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072494910260093381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922389433510461442",
+              "start": 3,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072494910260093381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072225924251328568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RieXwX: 同龄人：学习 工作 恋爱 操逼 旅游\n我：打游戏 三个月不出小区 杜绝社交恋爱 沉迷互联网 大事小事全部询问ai 每天仅与一只狗对话拥抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922389433510461442",
+        "conversation_id": "2072225924251328568",
+        "created_at": "2026-07-01T07:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072225924251328568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072225924251328568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3412,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "同龄人：学习 工作 恋爱 操逼 旅游\n我：打游戏 三个月不出小区 杜绝社交恋爱 沉迷互联网 大事小事全部询问ai 每天仅与一只狗对话拥抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 510,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 942
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9877,
+          "following_count": 52,
+          "like_count": 351,
+          "listed_count": 11,
+          "media_count": 351,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

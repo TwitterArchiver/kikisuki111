@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2041027958702547302",
+    "created_at": "2026-04-06T05:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041027958702547302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821560692140544000",
+          "start": 3,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041027958702547302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040712869428543749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo: 嗑药成瘾性跟割手成瘾性比起来不值一提，谁能忍住不割？！\n割肉！世界上最伟大的发明！开心了割不开心了割抑郁了割躁狂了也能割！嗑药割了爽戒药也割了爽！不被爱哭着割被爱了还是可以哭着割！赚到钱了庆祝割没钱了还能卖惨割！割肉！人类真正堪比性瘾的全能成瘾！一旦染…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2041027958702547302",
+        "created_at": "2026-04-06T05:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041027958702547302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821560692140544000",
+              "start": 3,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041027958702547302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040712869428543749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo: 嗑药成瘾性跟割手成瘾性比起来不值一提，谁能忍住不割？！\n割肉！世界上最伟大的发明！开心了割不开心了割抑郁了割躁狂了也能割！嗑药割了爽戒药也割了爽！不被爱哭着割被爱了还是可以哭着割！赚到钱了庆祝割没钱了还能卖惨割！割肉！人类真正堪比性瘾的全能成瘾！一旦染…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2040712869428543749",
+        "created_at": "2026-04-05T08:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040712869428543749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040712869428543749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 17593,
+          "like_count": 921,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药成瘾性跟割手成瘾性比起来不值一提，谁能忍住不割？！\n割肉！世界上最伟大的发明！开心了割不开心了割抑郁了割躁狂了也能割！嗑药割了爽戒药也割了爽！不被爱哭着割被爱了还是可以哭着割！赚到钱了庆祝割没钱了还能卖惨割！割肉！人类真正堪比性瘾的全能成瘾！一旦染上这个你才是真正的完了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 257,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 346
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo会回-没品b我也回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug @Numiouo1备用我上号就会回fo♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（别fo了回不过来了orz）",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 2156,
+          "like_count": 9175,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 7513
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

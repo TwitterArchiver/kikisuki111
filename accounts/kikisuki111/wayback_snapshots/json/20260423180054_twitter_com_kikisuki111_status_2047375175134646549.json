@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047295802595475456"
+      ],
+      "media_source_tweet_id": [
+        "2047295814352228419"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2047375175134646549",
+    "created_at": "2026-04-23T18:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047375175134646549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936471338698596352",
+          "start": 3,
+          "username": "s_u_0_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Mjk7QbDom",
+          "end": 35,
+          "expanded_url": "https://x.com/s_u_0_/status/2047295814352228419/photo/1",
+          "media_key": "3_2047295802595475456",
+          "start": 12,
+          "url": "https://t.co/0Mjk7QbDom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047375175134646549",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047295814352228419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s_u_0_: https://t.co/0Mjk7QbDom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047295802595475456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl0r3faAAAmuw1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047295802595475456"
+          ],
+          "media_source_tweet_id": [
+            "2047295814352228419"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2047375175134646549",
+        "created_at": "2026-04-23T18:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047375175134646549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936471338698596352",
+              "start": 3,
+              "username": "s_u_0_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Mjk7QbDom",
+              "end": 35,
+              "expanded_url": "https://x.com/s_u_0_/status/2047295814352228419/photo/1",
+              "media_key": "3_2047295802595475456",
+              "start": 12,
+              "url": "https://t.co/0Mjk7QbDom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047375175134646549",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047295814352228419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s_u_0_: https://t.co/0Mjk7QbDom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047295802595475456"
+          ]
+        },
+        "author_id": "1936471338698596352",
+        "conversation_id": "2047295814352228419",
+        "created_at": "2026-04-23T12:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047295814352228419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Mjk7QbDom",
+              "end": 23,
+              "expanded_url": "https://x.com/s_u_0_/status/2047295814352228419/photo/1",
+              "media_key": "3_2047295802595475456",
+              "start": 0,
+              "url": "https://t.co/0Mjk7QbDom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047295814352228419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 4023,
+          "like_count": 815,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0Mjk7QbDom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 346,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 509
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:08:48.000Z",
+        "description": "@__r_r_1 @a____011__ 依頼募集中\n\nhttps://t.co/rcQnuxwpOG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "__r_r_1"
+              },
+              {
+                "end": 20,
+                "start": 9,
+                "username": "a____011__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 51,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1GD2JGIVVMMM3?ref_=wl_share",
+                "start": 28,
+                "url": "https://t.co/rcQnuxwpOG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/wermd0ervmpxw4…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/wermd0ervmpxw4r?t=F8F49U&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/aEGKM3emE0"
+              }
+            ]
+          }
+        },
+        "id": "1936471338698596352",
+        "location": "FAタグ  おもちにおくすりあげるっ＆おもちに愛あげるっ",
+        "name": "米青 ネ申 禾斗 ιこ 彳亍 ιナ",
+        "pinned_tweet_id": "2043236952322023926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033745781195489280/Q4nq_51u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 75,
+          "like_count": 2489,
+          "listed_count": 8,
+          "media_count": 146,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/aEGKM3emE0",
+        "username": "s_u_0_",
+        "verified": false
+      }
+    ]
+  }
+}

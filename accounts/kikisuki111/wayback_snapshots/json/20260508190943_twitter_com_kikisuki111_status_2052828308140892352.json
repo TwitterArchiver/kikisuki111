@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052548596554235914"
+      ],
+      "media_source_tweet_id": [
+        "2052548657430282357"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052828308140892352",
+    "created_at": "2026-05-08T19:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T20:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052828308140892352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010417524526260224",
+          "start": 3,
+          "username": "nyctorra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0WG1oNgiV",
+          "end": 43,
+          "expanded_url": "https://x.com/nyctorra/status/2052548657430282357/video/1",
+          "media_key": "13_2052548596554235914",
+          "start": 20,
+          "url": "https://t.co/F0WG1oNgiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052828308140892352",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 772
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052548657430282357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyctorra: Angel https://t.co/F0WG1oNgiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 1080,
+        "media_key": "13_2052548596554235914",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052548596554235914/img/5t4917lz-hSRhc2C.jpg",
+        "public_metrics": {
+          "view_count": 20533
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052548596554235914/vid/avc1/320x320/5t9FQYDT_zsa0HbZ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052548596554235914/vid/avc1/720x720/YCKyhLA8hnIYqmeM.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052548596554235914/vid/avc1/1080x1080/GmwtdnsM1Dq8SDVx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052548596554235914/vid/avc1/540x540/dPsb9LL0cJ7kfptt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052548596554235914/pl/wKtpUdxHkdPQW06V.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052548596554235914"
+          ],
+          "media_source_tweet_id": [
+            "2052548657430282357"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052828308140892352",
+        "created_at": "2026-05-08T19:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052828308140892352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010417524526260224",
+              "start": 3,
+              "username": "nyctorra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0WG1oNgiV",
+              "end": 43,
+              "expanded_url": "https://x.com/nyctorra/status/2052548657430282357/video/1",
+              "media_key": "13_2052548596554235914",
+              "start": 20,
+              "url": "https://t.co/F0WG1oNgiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052828308140892352",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 772
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052548657430282357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyctorra: Angel https://t.co/F0WG1oNgiV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052548596554235914"
+          ]
+        },
+        "author_id": "2010417524526260224",
+        "conversation_id": "2052548657430282357",
+        "created_at": "2026-05-08T00:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052548657430282357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0WG1oNgiV",
+              "end": 29,
+              "expanded_url": "https://x.com/nyctorra/status/2052548657430282357/video/1",
+              "media_key": "13_2052548596554235914",
+              "start": 6,
+              "url": "https://t.co/F0WG1oNgiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052548657430282357",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 779,
+          "impression_count": 73333,
+          "like_count": 5613,
+          "quote_count": 18,
+          "reply_count": 6,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "Angel https://t.co/F0WG1oNgiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 407,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 659
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:24:35.000Z",
+        "description": "I make things with AI",
+        "id": "2010417524526260224",
+        "name": "nyctorra 愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049437261436203008/Q2MSYzrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32942,
+          "following_count": 25,
+          "like_count": 718,
+          "listed_count": 66,
+          "media_count": 33,
+          "tweet_count": 33
+        },
+        "username": "nyctorra",
+        "verified": true
+      }
+    ]
+  }
+}

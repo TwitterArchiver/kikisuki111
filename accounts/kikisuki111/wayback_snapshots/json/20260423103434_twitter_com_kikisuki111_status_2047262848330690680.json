@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2047262848330690680",
+    "created_at": "2026-04-23T10:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047262848330690680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kikisuki111/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kikisuki111/status/2046952303660515561",
+          "start": 30,
+          "url": "https://t.co/Tx9x2vi8mO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047262848330690680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046952303660515561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看完了好空虚。我每次推完一部游戏看完一部动漫都感觉好空虚。 https://t.co/Tx9x2vi8mO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2047262848330690680",
+        "created_at": "2026-04-23T10:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047262848330690680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikisuki111/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kikisuki111/status/2046952303660515561",
+              "start": 30,
+              "url": "https://t.co/Tx9x2vi8mO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047262848330690680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046952303660515561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完了好空虚。我每次推完一部游戏看完一部动漫都感觉好空虚。 https://t.co/Tx9x2vi8mO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2046952303660515561",
+        "created_at": "2026-04-22T14:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046952303660515561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046952303660515561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mlp真好看啊，，本来打算吃饭看一集看到现在了说不出来的感觉完全不觉得幼稚反而觉得很幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 348,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 506
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

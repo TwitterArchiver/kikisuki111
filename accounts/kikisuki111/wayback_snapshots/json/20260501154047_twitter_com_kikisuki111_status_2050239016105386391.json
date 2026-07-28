@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2050239016105386391",
+    "created_at": "2026-05-01T15:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050239016105386391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/creepioi/statu…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/creepioi/status/2050129902276653072",
+          "start": 60,
+          "url": "https://t.co/LM8o1y1nJW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050239016105386391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050129902276653072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那群表面抵制白幼瘦的大女主们看到黑老肥肯定要说好丑好难看  可能有的人稍微胖点他们就要说成猪呀然后经典语录是：他们来了 https://t.co/LM8o1y1nJW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2050239016105386391",
+        "created_at": "2026-05-01T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050239016105386391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/creepioi/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/creepioi/status/2050129902276653072",
+              "start": 60,
+              "url": "https://t.co/LM8o1y1nJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050239016105386391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050129902276653072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那群表面抵制白幼瘦的大女主们看到黑老肥肯定要说好丑好难看  可能有的人稍微胖点他们就要说成猪呀然后经典语录是：他们来了 https://t.co/LM8o1y1nJW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933730779571638272",
+        "conversation_id": "2050129902276653072",
+        "created_at": "2026-05-01T08:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050129902276653072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050129902276653072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 46420,
+          "like_count": 220,
+          "quote_count": 5,
+          "reply_count": 151,
+          "retweet_count": 10
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "不喜欢白幼瘦难道喜欢黑老肥吗到底在抵制什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 393,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 546
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T03:38:46.000Z",
+        "description": "",
+        "id": "1933730779571638272",
+        "location": "我来自地狱🚪",
+        "name": "creep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050046806562918400/nebVkNLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16361,
+          "following_count": 111,
+          "like_count": 2667,
+          "listed_count": 13,
+          "media_count": 17,
+          "tweet_count": 1169
+        },
+        "username": "creepioi",
+        "verified": false
+      }
+    ]
+  }
+}

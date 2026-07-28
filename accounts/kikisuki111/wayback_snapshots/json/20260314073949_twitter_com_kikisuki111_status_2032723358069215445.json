@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029030808326160387"
+      ],
+      "media_source_tweet_id": [
+        "2032654700965748790"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2032723358069215445",
+    "created_at": "2026-03-14T07:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T08:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032723358069215445"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "秋葉原",
+          "probability": 0.7882,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "14919897",
+          "start": 3,
+          "username": "siro700"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AjiGygnn1m",
+          "end": 49,
+          "expanded_url": "https://x.com/siro700/status/2032654700965748790/photo/1",
+          "media_key": "3_2029030808326160387",
+          "start": 26,
+          "url": "https://t.co/AjiGygnn1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032723358069215445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 438
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032654700965748790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siro700: ２００５年の秋葉原です、 https://t.co/AjiGygnn1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2029030808326160387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiQxRiawAMOBAF.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029030808326160387"
+          ],
+          "media_source_tweet_id": [
+            "2032654700965748790"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2032723358069215445",
+        "created_at": "2026-03-14T07:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032723358069215445"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "秋葉原",
+              "probability": 0.7882,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "14919897",
+              "start": 3,
+              "username": "siro700"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjiGygnn1m",
+              "end": 49,
+              "expanded_url": "https://x.com/siro700/status/2032654700965748790/photo/1",
+              "media_key": "3_2029030808326160387",
+              "start": 26,
+              "url": "https://t.co/AjiGygnn1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032723358069215445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032654700965748790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siro700: ２００５年の秋葉原です、 https://t.co/AjiGygnn1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029030808326160387"
+          ]
+        },
+        "author_id": "14919897",
+        "conversation_id": "2032654700965748790",
+        "created_at": "2026-03-14T03:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032654700965748790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjiGygnn1m",
+              "end": 36,
+              "expanded_url": "https://x.com/siro700/status/2032654700965748790/photo/1",
+              "media_key": "3_2029030808326160387",
+              "start": 13,
+              "url": "https://t.co/AjiGygnn1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032654700965748790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 87469,
+          "like_count": 3327,
+          "quote_count": 30,
+          "reply_count": 16,
+          "retweet_count": 438
+        },
+        "reply_settings": "everyone",
+        "text": "２００５年の秋葉原です、 https://t.co/AjiGygnn1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2027251313235648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 201,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 211
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-27T12:05:34.000Z",
+        "description": "漫画家、イラストレイターやってます。アーススターコミックス「ヤマノススメ」、ヤングキングアワーズ「カメラ、はじめていいですか」連載中、他、工画堂スタジオ「シンフォニックレイン」など、ご依頼、ご相談などありましたらメッセージ頂ければ幸いです",
+        "id": "14919897",
+        "location": "埼玉県所沢市",
+        "name": "しろ",
+        "pinned_tweet_id": "1621125877168996352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930904539793911809/DiaNBMxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39290,
+          "following_count": 523,
+          "like_count": 2930,
+          "listed_count": 1107,
+          "media_count": 10410,
+          "tweet_count": 185367
+        },
+        "username": "siro700",
+        "verified": false
+      }
+    ]
+  }
+}

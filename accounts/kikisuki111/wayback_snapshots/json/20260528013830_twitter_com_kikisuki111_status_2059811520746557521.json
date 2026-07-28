@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2059811520746557521",
+    "created_at": "2026-05-28T01:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059811520746557521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953145876626718723",
+          "start": 4,
+          "username": "kikiii00000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059811520746557521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "备用号为@kikiii00000 血之后可能在这发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2059811520746557521",
+        "created_at": "2026-05-28T01:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059811520746557521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953145876626718723",
+              "start": 4,
+              "username": "kikiii00000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059811520746557521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "备用号为@kikiii00000 血之后可能在这发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 471,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 843
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T17:27:30.000Z",
+        "description": "@kikisuki111  的分身\n🚬🍺💊🩸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "kikisuki111"
+              }
+            ]
+          }
+        },
+        "id": "1953145876626718723",
+        "location": "外星",
+        "name": "进入宇宙的幽灵",
+        "pinned_tweet_id": "2057147966935462338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976509459959824385/sFuEhs3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 86,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "kikiii00000",
+        "verified": false
+      }
+    ]
+  }
+}

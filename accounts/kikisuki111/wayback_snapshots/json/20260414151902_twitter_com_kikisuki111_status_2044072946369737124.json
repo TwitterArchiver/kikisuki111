@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1979307813546373120"
+      ],
+      "media_source_tweet_id": [
+        "1979457433060937933"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044072946369737124",
+    "created_at": "2026-04-14T15:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044072946369737124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500334656339996673",
+          "start": 3,
+          "username": "iit8eat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nrgpWOx3JK",
+          "end": 49,
+          "expanded_url": "https://x.com/iit8eat/status/1979457433060937933/video/1",
+          "media_key": "13_1979307813546373120",
+          "start": 26,
+          "url": "https://t.co/nrgpWOx3JK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044072946369737124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1285
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979457433060937933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iit8eat: いますぐ輪廻 Remix https://t.co/nrgpWOx3JK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13700,
+        "height": 1080,
+        "media_key": "13_1979307813546373120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979307813546373120/img/kCOpEdSYtjsjUI_B.jpg",
+        "public_metrics": {
+          "view_count": 77803
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979307813546373120/vid/avc1/480x270/hYQDJT5nglmiAQae.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979307813546373120/vid/avc1/640x360/hnMrYcTG4zYO3XhZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979307813546373120/vid/avc1/1280x720/gGN5UgvyEAq4wRbN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979307813546373120/pl/TxIK8lUWc2qeJ7Sk.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979307813546373120"
+          ],
+          "media_source_tweet_id": [
+            "1979457433060937933"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044072946369737124",
+        "created_at": "2026-04-14T15:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044072946369737124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500334656339996673",
+              "start": 3,
+              "username": "iit8eat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrgpWOx3JK",
+              "end": 49,
+              "expanded_url": "https://x.com/iit8eat/status/1979457433060937933/video/1",
+              "media_key": "13_1979307813546373120",
+              "start": 26,
+              "url": "https://t.co/nrgpWOx3JK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044072946369737124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1285
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979457433060937933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iit8eat: いますぐ輪廻 Remix https://t.co/nrgpWOx3JK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979307813546373120"
+          ]
+        },
+        "author_id": "1500334656339996673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979457433060937933",
+        "created_at": "2025-10-18T08:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979457433060937933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrgpWOx3JK",
+              "end": 36,
+              "expanded_url": "https://x.com/iit8eat/status/1979457433060937933/video/1",
+              "media_key": "13_1979307813546373120",
+              "start": 13,
+              "url": "https://t.co/nrgpWOx3JK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979457433060937933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1609,
+          "impression_count": 144154,
+          "like_count": 9053,
+          "quote_count": 58,
+          "reply_count": 5,
+          "retweet_count": 1285
+        },
+        "reply_settings": "everyone",
+        "text": "いますぐ輪廻 Remix https://t.co/nrgpWOx3JK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2039782090057945204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 282,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 402
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T04:58:41.000Z",
+        "description": "天使もどきです｡｡｜ꜰᴀ：#とすらいーつ｜𝕐：https://t.co/tLN2p2A3KW｜ℕ：https://t.co/ngFRt7TxjJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "とすらいーつ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/rZIHG",
+                "end": 46,
+                "expanded_url": "https://x.gd/rZIHG",
+                "start": 23,
+                "url": "https://t.co/tLN2p2A3KW"
+              },
+              {
+                "display_url": "x.gd/dbSWh",
+                "end": 72,
+                "expanded_url": "https://x.gd/dbSWh",
+                "start": 49,
+                "url": "https://t.co/ngFRt7TxjJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iit8eat",
+                "end": 23,
+                "expanded_url": "https://lit.link/iit8eat",
+                "start": 0,
+                "url": "https://t.co/c6mUwGsdIy"
+              }
+            ]
+          }
+        },
+        "id": "1500334656339996673",
+        "location": "✉ iit8eat@gmail.com",
+        "name": "いーつ",
+        "pinned_tweet_id": "1908791788720050505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840175590965661696/vlVkvB23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10691,
+          "following_count": 250,
+          "like_count": 24819,
+          "listed_count": 53,
+          "media_count": 116,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/c6mUwGsdIy",
+        "username": "iit8eat",
+        "verified": false
+      }
+    ]
+  }
+}

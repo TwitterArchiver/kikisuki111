@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052454630056140800"
+      ],
+      "media_source_tweet_id": [
+        "2052454642072916312"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2052650434926616771",
+    "created_at": "2026-05-08T07:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052650434926616771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724683595674189824",
+          "start": 3,
+          "username": "O3_______O3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrB40ChCJZ",
+          "end": 40,
+          "expanded_url": "https://x.com/O3_______O3/status/2052454642072916312/photo/1",
+          "media_key": "3_2052454630056140800",
+          "start": 17,
+          "url": "https://t.co/yrB40ChCJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052650434926616771",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052454642072916312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @O3_______O3: https://t.co/yrB40ChCJZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2052454630056140800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvInJYaIAAtYPg.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052454630056140800"
+          ],
+          "media_source_tweet_id": [
+            "2052454642072916312"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2052650434926616771",
+        "created_at": "2026-05-08T07:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052650434926616771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724683595674189824",
+              "start": 3,
+              "username": "O3_______O3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrB40ChCJZ",
+              "end": 40,
+              "expanded_url": "https://x.com/O3_______O3/status/2052454642072916312/photo/1",
+              "media_key": "3_2052454630056140800",
+              "start": 17,
+              "url": "https://t.co/yrB40ChCJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052650434926616771",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052454642072916312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @O3_______O3: https://t.co/yrB40ChCJZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052454630056140800"
+          ]
+        },
+        "author_id": "1724683595674189824",
+        "conversation_id": "2052454642072916312",
+        "created_at": "2026-05-07T18:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052454642072916312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrB40ChCJZ",
+              "end": 23,
+              "expanded_url": "https://x.com/O3_______O3/status/2052454642072916312/photo/1",
+              "media_key": "3_2052454630056140800",
+              "start": 0,
+              "url": "https://t.co/yrB40ChCJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052454642072916312",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 8590,
+          "like_count": 768,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yrB40ChCJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 405,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 621
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T07:00:14.000Z",
+        "description": "𝓈𝓌𝑒𝑒𝓉 𝒶𝓃𝑔𝑒𝓁  𝓈𝑒𝓃𝓉  𝒻𝓇𝑜𝓂  𝒽𝑒𝒶𝓋𝑒𝓃   🪽ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dollyfrill",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@dollyfrill",
+                "start": 0,
+                "url": "https://t.co/ul9CxXdVAz"
+              }
+            ]
+          }
+        },
+        "id": "1724683595674189824",
+        "location": "𝓼𝓱𝓮 / 𝓱𝓮𝓻ㅤ♡",
+        "name": "aria ♡",
+        "pinned_tweet_id": "1975123979779362958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937780337418895360/62LqkfF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27128,
+          "following_count": 771,
+          "like_count": 25788,
+          "listed_count": 103,
+          "media_count": 1260,
+          "tweet_count": 5551
+        },
+        "url": "https://t.co/ul9CxXdVAz",
+        "username": "O3_______O3",
+        "verified": true
+      }
+    ]
+  }
+}

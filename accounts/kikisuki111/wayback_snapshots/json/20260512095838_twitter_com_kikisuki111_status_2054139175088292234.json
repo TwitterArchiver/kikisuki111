@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044045972209352704"
+      ],
+      "media_source_tweet_id": [
+        "2044046298958180859"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054139175088292234",
+    "created_at": "2026-05-12T09:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054139175088292234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PirVggRNuM",
+          "end": 44,
+          "expanded_url": "https://x.com/AngelSuicide999/status/2044046298958180859/video/1",
+          "media_key": "13_2044045972209352704",
+          "start": 21,
+          "url": "https://t.co/PirVggRNuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054139175088292234",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044046298958180859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/PirVggRNuM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054139175088292234].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054139175088292234",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054139175088292234"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10800,
+        "height": 1080,
+        "media_key": "13_2044045972209352704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044045972209352704/img/oV8u6kBva2iaROpd.jpg",
+        "public_metrics": {
+          "view_count": 10608
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044045972209352704/vid/avc1/498x270/SsGrIXGxFILAVqd6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044045972209352704/vid/avc1/666x360/1esbg7T51aeor2q3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044045972209352704/vid/avc1/1332x720/h1Kn0QTMHd1TuZlQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044045972209352704/pl/T4kgWASN7lCqtEhb.m3u8?tag=14"
+          }
+        ],
+        "width": 1998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044045972209352704"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "2044046298958180859",
+        "created_at": "2026-04-14T13:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044046298958180859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PirVggRNuM",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2044046298958180859/video/1",
+              "media_key": "13_2044045972209352704",
+              "start": 0,
+              "url": "https://t.co/PirVggRNuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044046298958180859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 49485,
+          "like_count": 3163,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PirVggRNuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 418,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 732
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "お仕事❣️ブッキング( ゜o゜)\nおまちまち待ち(クダヒャイ)꒰ ᐡᴗ ̫ ᴗ ꒱♡\n( ﾟ∀ﾟ)o彡°dm！dm！\nADHDおとこの娘クソガキメンヘラ()\n最強の漢🔥.⋆♱\nパソコンポチポチ(꜆꜄꜆^._.^)꜆꜄꜆\n\n #angelsuicidecore",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 112,
+                "tag": "angelsuicidecore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5n5Au"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "location": "fiction tokio.⋆♱💞ᩚ",
+        "name": "देवदूत आत्महत्या",
+        "pinned_tweet_id": "2050182189338513881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330628609605632/E029CVB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34865,
+          "following_count": 2,
+          "like_count": 91739,
+          "listed_count": 98,
+          "media_count": 921,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/1XH3J5n5Au",
+        "username": "AngelSuicide999",
+        "verified": true
+      }
+    ]
+  }
+}

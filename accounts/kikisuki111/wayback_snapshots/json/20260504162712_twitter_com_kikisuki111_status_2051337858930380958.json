@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2051337858930380958",
+    "created_at": "2026-05-04T16:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051337858930380958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daiianavez6977…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/daiianavez69773/status/2050938733197959412",
+          "start": 3,
+          "url": "https://t.co/WrOOltJuco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051337858930380958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050938733197959412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心情 https://t.co/WrOOltJuco"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2051337858930380958",
+        "created_at": "2026-05-04T16:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051337858930380958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daiianavez6977…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/daiianavez69773/status/2050938733197959412",
+              "start": 3,
+              "url": "https://t.co/WrOOltJuco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051337858930380958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050938733197959412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心情 https://t.co/WrOOltJuco"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2050938733197959412",
+        "created_at": "2026-05-03T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050938733197959412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050938733197959412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19022,
+          "like_count": 129,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "好想把前女友杀了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 396,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 572
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "中国人 高3 18 infj-t 不安障害 双極性感情障害 日本語を勉強中\n神聖かまってちゃん/未来電波基地/純戸川/moreru/yokai jaki/鮮血A子ちゃん",
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義✞",
+        "pinned_tweet_id": "2044722696920125723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 187,
+          "like_count": 11347,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 853
+        },
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

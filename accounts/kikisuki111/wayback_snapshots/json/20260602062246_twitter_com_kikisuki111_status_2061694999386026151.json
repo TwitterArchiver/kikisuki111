@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2061694999386026151",
+    "created_at": "2026-06-02T06:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061694999386026151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038281683636461570",
+          "start": 3,
+          "username": "Knnibal_val"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061694999386026151",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061122654539493430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Knnibal_val: Etapas del sh:\n- Me corto porque me siento mal\n- Me corto para sentir algo \n - Ya no me genera nada \n- Dejo el sh por un t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2061694999386026151",
+        "created_at": "2026-06-02T06:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061694999386026151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038281683636461570",
+              "start": 3,
+              "username": "Knnibal_val"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061694999386026151",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061122654539493430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Knnibal_val: Etapas del sh:\n- Me corto porque me siento mal\n- Me corto para sentir algo \n - Ya no me genera nada \n- Dejo el sh por un t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038281683636461570",
+        "conversation_id": "2061122654539493430",
+        "created_at": "2026-05-31T16:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061122654539493430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061122654539493430",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1050,
+          "impression_count": 121881,
+          "like_count": 17069,
+          "quote_count": 119,
+          "reply_count": 70,
+          "retweet_count": 5372
+        },
+        "reply_settings": "everyone",
+        "text": "Etapas del sh:\n- Me corto porque me siento mal\n- Me corto para sentir algo \n - Ya no me genera nada \n- Dejo el sh por un tiempo \n- Recaigo\n- Se vuelve maña \n- Me re gusta cortarme\n- Me re calienta cortarme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 514,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 882
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T15:47:07.000Z",
+        "description": "♰•𝑆𝑖 𝑢𝑛 𝑑𝑖́𝑎 𝑡𝑒 𝑝𝑖𝑒𝑟𝑑𝑒𝑠 𝑏𝑢𝑠𝑘𝑡𝑒 𝑒𝑛 𝑙𝑜 𝑘𝑒 𝑚𝑎𝑠 𝑎𝑚𝑎𝑠 #shtwt #edtwt #drugtwt\nsecond account: @x_zmbie",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "shtwt"
+              },
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "edtwt"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "x_zmbie"
+              }
+            ]
+          }
+        },
+        "id": "2038281683636461570",
+        "location": "catboys city",
+        "name": "𝑧𝑚𝑏𝑖𝑒",
+        "pinned_tweet_id": "2061130322931032179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038282875926171648/f2wQ0myg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 79,
+          "like_count": 3519,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 475
+        },
+        "username": "Knnibal_val",
+        "verified": false
+      }
+    ]
+  }
+}

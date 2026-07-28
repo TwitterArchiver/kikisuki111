@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2025954957581857217",
+    "created_at": "2026-02-23T15:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025954957581857217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1344404489051189248",
+          "start": 3,
+          "username": "friebbles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025954957581857217",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025937556089577771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @friebbles: ⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡠⠔⠊⠉⢳\n⠀⠀⠀⠀⠀⠀⡠⠔⠊⠉⠉⠃⠀⠀⠀⠀⠀⢀⠜\n⠀⠀⠀⠀⡔⠚⠀⠀⠀⠀⠸⢆⣬⡖⠒⠒⠚⠁⠀\n⠀⠀⡠⠊⠀⡄⠲⠀⠲⡿⠀⣨⢙⣀⢀⠀⠀⠀⠀\n⡞⠁⠀⠀⢠⠳⠛⡡⠄⠒⠉⠀⠙⣅⡆⡃⠀⠀⠀\n⠣⣀⣀⠔⠁⠀⠘⢲⣀⠀⠀⠀⡀⠗⠒⠁⠀⠀⠀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2025954957581857217",
+        "created_at": "2026-02-23T15:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025954957581857217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1344404489051189248",
+              "start": 3,
+              "username": "friebbles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025954957581857217",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025937556089577771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @friebbles: ⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡠⠔⠊⠉⢳\n⠀⠀⠀⠀⠀⠀⡠⠔⠊⠉⠉⠃⠀⠀⠀⠀⠀⢀⠜\n⠀⠀⠀⠀⡔⠚⠀⠀⠀⠀⠸⢆⣬⡖⠒⠒⠚⠁⠀\n⠀⠀⡠⠊⠀⡄⠲⠀⠲⡿⠀⣨⢙⣀⢀⠀⠀⠀⠀\n⡞⠁⠀⠀⢠⠳⠛⡡⠄⠒⠉⠀⠙⣅⡆⡃⠀⠀⠀\n⠣⣀⣀⠔⠁⠀⠘⢲⣀⠀⠀⠀⡀⠗⠒⠁⠀⠀⠀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344404489051189248",
+        "conversation_id": "2025937556089577771",
+        "created_at": "2026-02-23T14:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025937556089577771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025937556089577771",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4030,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡠⠔⠊⠉⢳\n⠀⠀⠀⠀⠀⠀⡠⠔⠊⠉⠉⠃⠀⠀⠀⠀⠀⢀⠜\n⠀⠀⠀⠀⡔⠚⠀⠀⠀⠀⠸⢆⣬⡖⠒⠒⠚⠁⠀\n⠀⠀⡠⠊⠀⡄⠲⠀⠲⡿⠀⣨⢙⣀⢀⠀⠀⠀⠀\n⡞⠁⠀⠀⢠⠳⠛⡡⠄⠒⠉⠀⠙⣅⡆⡃⠀⠀⠀\n⠣⣀⣀⠔⠁⠀⠘⢲⣀⠀⠀⠀⡀⠗⠒⠁⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠸⣨⠄⠒⠊⠀⠁⠀⠀⠀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜🚬🍺",
+        "id": "2025852742707945473",
+        "location": "🚪50   坐标上海接mmh详情请私信",
+        "name": "キキ",
+        "pinned_tweet_id": "2025948440199614512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 82,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T22:06:34.000Z",
+        "description": "𐔌 . ⠀𝑤𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑝𝑖𝑛𝑘 & 𝑔𝑖𝑟𝑙𝑦 𝑤𝑜𝑟𝑙𝑑 ⠀ ᰔ ! ⠀ ૮ . . ྀིა",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/friebbles/shop",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/friebbles/shop",
+                "start": 0,
+                "url": "https://t.co/BCvjp0ZTjp"
+              }
+            ]
+          }
+        },
+        "id": "1344404489051189248",
+        "location": "friebblesx@gmail.com",
+        "name": "౨ৎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856432894475927553/yB6rYjFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92561,
+          "following_count": 12,
+          "like_count": 7457,
+          "listed_count": 338,
+          "media_count": 59,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/BCvjp0ZTjp",
+        "username": "friebbles",
+        "verified": false
+      }
+    ]
+  }
+}

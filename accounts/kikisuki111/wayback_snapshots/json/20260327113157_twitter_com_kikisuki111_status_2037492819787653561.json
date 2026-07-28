@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037291903671324672"
+      ],
+      "media_source_tweet_id": [
+        "2037291908943515801"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037492819787653561",
+    "created_at": "2026-03-27T11:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037492819787653561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834377642096951297",
+          "start": 3,
+          "username": "Pilly_Horror"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pX1OYLydyu",
+          "end": 58,
+          "expanded_url": "https://x.com/Pilly_Horror/status/2037291908943515801/photo/1",
+          "media_key": "3_2037291903671324672",
+          "start": 35,
+          "url": "https://t.co/pX1OYLydyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037492819787653561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037291908943515801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pilly_Horror: 今夏公開のJホラー怖すぎて無理。 https://t.co/pX1OYLydyu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2037291903671324672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXqMT4b0AAD0ZH.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037291903671324672"
+          ],
+          "media_source_tweet_id": [
+            "2037291908943515801"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037492819787653561",
+        "created_at": "2026-03-27T11:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037492819787653561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834377642096951297",
+              "start": 3,
+              "username": "Pilly_Horror"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pX1OYLydyu",
+              "end": 58,
+              "expanded_url": "https://x.com/Pilly_Horror/status/2037291908943515801/photo/1",
+              "media_key": "3_2037291903671324672",
+              "start": 35,
+              "url": "https://t.co/pX1OYLydyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037492819787653561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037291908943515801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pilly_Horror: 今夏公開のJホラー怖すぎて無理。 https://t.co/pX1OYLydyu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037291903671324672"
+          ]
+        },
+        "author_id": "1834377642096951297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037291908943515801",
+        "created_at": "2026-03-26T22:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037291908943515801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pX1OYLydyu",
+              "end": 40,
+              "expanded_url": "https://x.com/Pilly_Horror/status/2037291908943515801/photo/1",
+              "media_key": "3_2037291903671324672",
+              "start": 17,
+              "url": "https://t.co/pX1OYLydyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037291908943515801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2701,
+          "impression_count": 501637,
+          "like_count": 14136,
+          "quote_count": 684,
+          "reply_count": 49,
+          "retweet_count": 2156
+        },
+        "reply_settings": "everyone",
+        "text": "今夏公開のJホラー怖すぎて無理。 https://t.co/pX1OYLydyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 214,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 276
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T23:44:52.000Z",
+        "description": "ホラー映画の紹介／まとめ／配信案内を投稿しています👻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "filmarks.com/users/sawoji",
+                "end": 23,
+                "expanded_url": "https://filmarks.com/users/sawoji",
+                "start": 0,
+                "url": "https://t.co/eHg7ZJsSiz"
+              }
+            ]
+          }
+        },
+        "id": "1834377642096951297",
+        "name": "ピリー",
+        "pinned_tweet_id": "2032960927843365274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946528638700072966/jjL8ud3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6513,
+          "following_count": 1930,
+          "like_count": 18851,
+          "listed_count": 38,
+          "media_count": 846,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/eHg7ZJsSiz",
+        "username": "Pilly_Horror",
+        "verified": true
+      }
+    ]
+  }
+}

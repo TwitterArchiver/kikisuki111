@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2067866641787150747",
+    "created_at": "2026-06-19T07:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067866641787150747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1520006097385693185",
+          "start": 3,
+          "username": "wowmanypeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067866641787150747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067600519355650454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wowmanypeople: 讨厌我你就去死。\n跳楼上吊溺亡 窒息 中毒 烧死冻死饿死渴死病死老死累死吓死笑死气死羞死蠢死 蠢到死 被蠢死 丑死 胖死 瘦死 馋死困死憋死疼死痒死麻死酸死胀死抽筋而死 筋疲力尽而死 脱力而死 精神崩溃而死疯掉而死抑郁而死绝望而死心碎而死魂…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2067866641787150747",
+        "created_at": "2026-06-19T07:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067866641787150747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1520006097385693185",
+              "start": 3,
+              "username": "wowmanypeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067866641787150747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067600519355650454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wowmanypeople: 讨厌我你就去死。\n跳楼上吊溺亡 窒息 中毒 烧死冻死饿死渴死病死老死累死吓死笑死气死羞死蠢死 蠢到死 被蠢死 丑死 胖死 瘦死 馋死困死憋死疼死痒死麻死酸死胀死抽筋而死 筋疲力尽而死 脱力而死 精神崩溃而死疯掉而死抑郁而死绝望而死心碎而死魂…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520006097385693185",
+        "conversation_id": "2067600519355650454",
+        "created_at": "2026-06-18T13:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067600519355650454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067600519355650454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1704,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌我你就去死。\n跳楼上吊溺亡 窒息 中毒 烧死冻死饿死渴死病死老死累死吓死笑死气死羞死蠢死 蠢到死 被蠢死 丑死 胖死 瘦死 馋死困死憋死疼死痒死麻死酸死胀死抽筋而死 筋疲力尽而死 脱力而死 精神崩溃而死疯掉而死抑郁而死绝望而死心碎而死魂飞魄散而死 被诅咒而死 被附身而死 被吸血而死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 522,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 924
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:44:48.000Z",
+        "description": "\"真實的做自己，不忘記看每天的月亮\"",
+        "id": "1520006097385693185",
+        "location": "is boy no girl",
+        "name": "new",
+        "pinned_tweet_id": "1621840926418288640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065381673014038528/QldNKi59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 253,
+          "like_count": 54243,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 13195
+        },
+        "url": "",
+        "username": "wowmanypeople",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048779912882888704"
+      ],
+      "media_source_tweet_id": [
+        "2048779915185504625"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2049007978335052287",
+    "created_at": "2026-04-28T06:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049007978335052287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1125264611454988288",
+          "start": 3,
+          "username": "tortadefrango67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWV399oe5G",
+          "end": 44,
+          "expanded_url": "https://x.com/tortadefrango67/status/2048779915185504625/photo/1",
+          "media_key": "3_2048779912882888704",
+          "start": 21,
+          "url": "https://t.co/vWV399oe5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049007978335052287",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9733
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048779915185504625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tortadefrango67: https://t.co/vWV399oe5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2048779912882888704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG66edJXIAAdOaq.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048779912882888704"
+          ],
+          "media_source_tweet_id": [
+            "2048779915185504625"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2049007978335052287",
+        "created_at": "2026-04-28T06:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049007978335052287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1125264611454988288",
+              "start": 3,
+              "username": "tortadefrango67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWV399oe5G",
+              "end": 44,
+              "expanded_url": "https://x.com/tortadefrango67/status/2048779915185504625/photo/1",
+              "media_key": "3_2048779912882888704",
+              "start": 21,
+              "url": "https://t.co/vWV399oe5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049007978335052287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9734
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048779915185504625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tortadefrango67: https://t.co/vWV399oe5G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048779912882888704"
+          ]
+        },
+        "author_id": "1125264611454988288",
+        "conversation_id": "2048779915185504625",
+        "created_at": "2026-04-27T15:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048779915185504625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWV399oe5G",
+              "end": 23,
+              "expanded_url": "https://x.com/tortadefrango67/status/2048779915185504625/photo/1",
+              "media_key": "3_2048779912882888704",
+              "start": 0,
+              "url": "https://t.co/vWV399oe5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048779915185504625",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2538,
+          "impression_count": 511545,
+          "like_count": 42505,
+          "quote_count": 371,
+          "reply_count": 62,
+          "retweet_count": 9734
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vWV399oe5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2044731524852105300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 362,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 528
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T05:02:44.000Z",
+        "description": "uma tortita uma simples torta pequena e frágil uma tortinha de frango mt deliciosa uma torta de frango (tenho dona linda fofa🩷) #amomeustortiletes",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 128,
+                "tag": "amomeustortiletes"
+              }
+            ]
+          }
+        },
+        "id": "1125264611454988288",
+        "name": "torta de frango",
+        "pinned_tweet_id": "1340131091420745728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041166381211623424/EZAQ4Tho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24106,
+          "following_count": 870,
+          "like_count": 53795,
+          "listed_count": 14,
+          "media_count": 3560,
+          "tweet_count": 35863
+        },
+        "username": "tortadefrango67",
+        "verified": false
+      }
+    ]
+  }
+}

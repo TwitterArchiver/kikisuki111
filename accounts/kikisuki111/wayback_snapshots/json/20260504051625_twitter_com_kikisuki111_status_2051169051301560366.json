@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051034786290913280"
+      ],
+      "media_source_tweet_id": [
+        "2051034791575777384"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2051169051301560366",
+    "created_at": "2026-05-04T05:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051169051301560366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2960960109",
+          "start": 3,
+          "username": "avampirism"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0h4EgQKIpS",
+          "end": 76,
+          "expanded_url": "https://x.com/avampirism/status/2051034791575777384/photo/1",
+          "media_key": "3_2051034786290913280",
+          "start": 53,
+          "url": "https://t.co/0h4EgQKIpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051169051301560366",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 589
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051034791575777384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avampirism: Living Dead Dolls in Fangoria (2005) https://t.co/0h4EgQKIpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_2051034786290913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHa9RXLW0AA195N.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051034786290913280"
+          ],
+          "media_source_tweet_id": [
+            "2051034791575777384"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2051169051301560366",
+        "created_at": "2026-05-04T05:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051169051301560366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2960960109",
+              "start": 3,
+              "username": "avampirism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0h4EgQKIpS",
+              "end": 76,
+              "expanded_url": "https://x.com/avampirism/status/2051034791575777384/photo/1",
+              "media_key": "3_2051034786290913280",
+              "start": 53,
+              "url": "https://t.co/0h4EgQKIpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051169051301560366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 589
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051034791575777384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avampirism: Living Dead Dolls in Fangoria (2005) https://t.co/0h4EgQKIpS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051034786290913280"
+          ]
+        },
+        "author_id": "2960960109",
+        "conversation_id": "2051034791575777384",
+        "created_at": "2026-05-03T20:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T21:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051034791575777384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0h4EgQKIpS",
+              "end": 60,
+              "expanded_url": "https://x.com/avampirism/status/2051034791575777384/photo/1",
+              "media_key": "3_2051034786290913280",
+              "start": 37,
+              "url": "https://t.co/0h4EgQKIpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051034791575777384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 29931,
+          "like_count": 2809,
+          "quote_count": 33,
+          "reply_count": 4,
+          "retweet_count": 589
+        },
+        "reply_settings": "everyone",
+        "text": "Living Dead Dolls in Fangoria (2005) https://t.co/0h4EgQKIpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 395,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 563
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-04T21:49:36.000Z",
+        "description": "⚰️🖤🥀🗡️ flesh & blood but not human 🕸️ everywhere i see bliss, from which i alone am irrevocably excluded ⋆₊ ♱",
+        "id": "2960960109",
+        "location": "+21 | tx | she 🪦",
+        "name": "𝔤𝔞𝔟𝔯𝔦𝔢𝔩𝔩𝔢 ☥",
+        "pinned_tweet_id": "2040101480074547214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046009804330582018/b6U3zm3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 632,
+          "like_count": 37780,
+          "listed_count": 8,
+          "media_count": 2676,
+          "tweet_count": 22550
+        },
+        "username": "avampirism",
+        "verified": false
+      }
+    ]
+  }
+}
