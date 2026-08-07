@@ -890,27 +890,19 @@ body.light .post-iframe-wrap { background: #ffffff; }
     margin-right: 0;     /* 取消和搜索框之间的间距 */
     margin-left: -4px;   /* 往左挤一点 */
   }
-  /* 三条线 —— banner 是用户上传的任意图片，固定深色或固定白色都会在某些图上糊掉。
-     改为 JS 采样 banner 左上角实际像素后决定明暗（见 tuneBurgerColor），
-     这里只给一个中性默认值兜底。--burger-halo 是反向的柔和阴影，
-     用于图案繁杂、明暗混杂的局部，避免线条被背景纹理吃掉。 */
-  .menu-toggle-banner {
-    --burger-ink: rgba(40, 40, 40, 0.85);
-    --burger-halo: rgba(255, 255, 255, 0.45);
-    filter: drop-shadow(0 0 1.5px var(--burger-halo));
-    transition: filter 0.2s;
-  }
+  /* 三条线 —— banner 是用户自定义图片不随主题切换
+     固定用深灰，无论主题切换都不变 */
   .menu-toggle-banner::before {
     content: "";
     display: block;
     width: 17px;
     height: 1.5px;
-    background: var(--burger-ink);
+    background: rgba(40, 40, 40, 0.85);
     box-shadow:
-      0 -5px 0 var(--burger-ink),
-      0 5px 0 var(--burger-ink);
+      0 -5px 0 rgba(40, 40, 40, 0.85),
+      0 5px 0 rgba(40, 40, 40, 0.85);
     border-radius: 1px;
-    transition: background 0.2s, box-shadow 0.2s;
+    transition: background 0.15s, box-shadow 0.15s;
   }
   /* 搜索栏按钮（不在 banner 上）：暗色默认白线，浅色主题改深线 */
   .menu-toggle-search::before {
@@ -1302,18 +1294,15 @@ async function loadProfile() {
     // 保存当前账号 username（去 @ 转小写）—— 用于 reply-card 识别主人 vs 外人
     ownerUsername = (c.username || '').replace(/^@/, '').toLowerCase();
     if (c.avatar) document.getElementById('p-avatar').src = `${ASSET_BASE}${c.avatar}`;
-    if (c.banner) {
-      const bn = document.getElementById('p-banner');
-      bn.addEventListener('load', () => tuneBurgerColor(bn), { once: true });
-      bn.src = `${ASSET_BASE}${c.banner}`;
-    }
-    // 位置里也可能出现链接，同样剥前缀（应用端 LinkUtil.stripInText 的行为）
-    if (c.location) document.getElementById('p-loc').innerHTML =
-      `📍 ${esc(c.location).replace(URL_IN_TEXT, m => stripUrlPrefix(m))}`;
+    if (c.banner) document.getElementById('p-banner').src = `${ASSET_BASE}${c.banner}`;
+    if (c.location) document.getElementById('p-loc').innerHTML  = `📍 ${esc(c.location)}`;
     if (c.link) {
-      // 裸域名（无协议头）会被浏览器当作相对路径，href 统一补 https://
-      document.getElementById('p-link').innerHTML =
-        `🔗 <a href="${esc(fullUrl(c.link))}" target="_blank">${esc(displayUrl(c.link))}</a>`;
+      // 修复：裸域名（无协议头）会被浏览器当作相对路径，统一加上 https://
+      const rawLink = c.link;
+      const href = rawLink.startsWith('http://') || rawLink.startsWith('https://')
+        ? rawLink : 'https://' + rawLink;
+      const d = rawLink.replace(/^https?:\/\//, '');
+      document.getElementById('p-link').innerHTML = `🔗 <a href="${esc(href)}" target="_blank">${esc(d)}</a>`;
     }
     // 用账号头像作为 favicon（Canvas 裁成圆形）
     if (c.avatar) {
@@ -2856,80 +2845,11 @@ function toggleTheme(){ applyTheme(!isLight); }
 function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 function escRe(s){ return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
 
-/* 按 banner 左上角的实际像素决定汉堡按钮的明暗。
-   固定深色在深色 banner 上看不见，固定白色在浅色 banner 上看不见，
-   加圆底或描边又破坏观感，所以直接量一下那块到底是什么颜色。
-
-   同时算局部方差：图案繁杂的区域（比如左上角正好压着文字或高对比图案）
-   单靠明暗判断不可靠，这时把反向阴影加重，让线条始终有轮廓。 */
-function tuneBurgerColor(img) {
-  const btn = document.getElementById('menu-toggle-banner');
-  if (!btn || !img.naturalWidth) return;
-  try {
-    // 按钮在 banner 左上角 8px 处、36×36 大小，换算成原图坐标多取一圈余量
-    const scale = img.naturalWidth / (img.clientWidth || img.naturalWidth);
-    const size  = Math.max(8, Math.round(52 * scale));
-    const sw    = Math.min(size, img.naturalWidth);
-    const sh    = Math.min(size, img.naturalHeight);
-
-    const cv = document.createElement('canvas');
-    cv.width = 16; cv.height = 16;
-    const ctx = cv.getContext('2d', { willReadFrequently: true });
-    ctx.drawImage(img, 0, 0, sw, sh, 0, 0, 16, 16);
-    const d = ctx.getImageData(0, 0, 16, 16).data;
-
-    let sum = 0, sum2 = 0, n = 0;
-    for (let i = 0; i < d.length; i += 4) {
-      // 相对亮度（sRGB 感知加权），比简单平均更接近肉眼判断
-      const l = (0.2126 * d[i] + 0.7152 * d[i + 1] + 0.0722 * d[i + 2]) / 255;
-      sum += l; sum2 += l * l; n++;
-    }
-    const mean = sum / n;
-    const sd   = Math.sqrt(Math.max(0, sum2 / n - mean * mean));
-
-    // 临界值 0.22 是解出来的：白线(L=1)与深线(L=0.02)对比度相等处
-    // (1.05)/(x+0.05) = (x+0.05)/0.07。取 0.55 会让中灰背景误判成白线，
-    // 而中灰上白线对比度只有 1.8:1，深线有 8:1。
-    const dark = mean > 0.22;                 // 背景偏亮 → 用深色线
-    const ink  = dark ? 'rgba(28, 28, 30, 0.92)' : 'rgba(255, 255, 255, 0.95)';
-    // 繁杂区域（方差大）阴影加重，纯色区域几乎看不出阴影
-    const a    = sd > 0.18 ? 0.75 : 0.35;
-    const halo = dark ? `rgba(255,255,255,${a})` : `rgba(0,0,0,${a})`;
-
-    btn.style.setProperty('--burger-ink', ink);
-    btn.style.setProperty('--burger-halo', halo);
-    btn.style.filter = `drop-shadow(0 0 ${sd > 0.18 ? 2 : 1.5}px ${halo})`;
-  } catch (e) {
-    // 跨域或 Electron 自定义协议下 canvas 可能被污染，保持 CSS 默认值即可
-  }
-}
-
-/* 链接的显示形式，与应用端 util/LinkUtil.kt 保持一致：
-   去掉 https:// http:// www. 和结尾斜杠，过长则截断。href 始终用原始完整 URL。 */
-function stripUrlPrefix(raw) {
-  return String(raw).trim()
-    .replace(/^https?:\/\//i, '')
-    .replace(/^www\./i, '')
-    .replace(/\/$/, '');
-}
-function displayUrl(raw, max = 25) {
-  const bare = stripUrlPrefix(raw);
-  return bare.length <= max ? bare : bare.slice(0, max) + '…';
-}
-function fullUrl(raw) {
-  const t = String(raw).trim();
-  return /^https?:\/\//i.test(t) ? t : 'https://' + t;
-}
-
-/* 正文里的 URL 到 CJK 或全角标点为止——\S+ 会把紧跟其后的中文一起吞进去 */
-const URL_IN_TEXT = /https?:\/\/[^\s\u3000-\u303f\u4e00-\u9fff\uff00-\uffef&lt;&gt;&amp;"]+/gi;
-
-/* bio / 纯文本里的 URL 和 @用户名 转成可点击链接（链接文字剥掉协议头） */
+/* bio / 纯文本里的 URL 和 @用户名 转成可点击链接 */
 function linkifyText(text) {
   if (!text) return '';
   let s = esc(text);
-  s = s.replace(URL_IN_TEXT, m =>
-    `<a href="${m}" target="_blank" style="color:var(--accent,#1d9bf0)">${stripUrlPrefix(m)}</a>`);
+  s = s.replace(/(https?:\/\/[^\s&lt;&gt;&amp;"]+)/g, '<a href="$1" target="_blank" style="color:var(--accent,#1d9bf0)">$1</a>');
   s = s.replace(/@([A-Za-z0-9_]+)/g, '<a href="https://x.com/$1" target="_blank" style="color:var(--accent,#1d9bf0)">@$1</a>');
   return s;
 }
@@ -2950,9 +2870,6 @@ function renderBioWithEntities(text, entities) {
       result = result.replace(escapedDisplay, link);
     }
   }
-  // entities 没覆盖到的裸链接：同样剥掉协议头再显示
-  result = result.replace(URL_IN_TEXT, m =>
-    `<a href="${m}" target="_blank" style="${accentStyle}">${stripUrlPrefix(m)}</a>`);
   // @用户名 统一用正则替换（不依赖 entities.mentions 是否完整）
   result = result.replace(/@([A-Za-z0-9_]+)/g,
     (_, name) => `<a href="https://x.com/${name}" target="_blank" style="${accentStyle}">@${name}</a>`);
