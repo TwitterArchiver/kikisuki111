@@ -407,6 +407,27 @@ a:hover { text-decoration: underline; }
 }
 .day-heading { font-size: 16px; font-weight: 800; color: var(--text); }
 .day-heading .dim { font-weight: 400; font-size: 13px; color: var(--text-dim); margin-left: 6px; }
+/* 手机端把标题本身也做成打开日期抽屉的入口。
+   banner 上那个汉堡按钮压在用户自定义图片上，再怎么调色都可能不显眼，
+   这里提供一个始终清晰的第二入口。桌面端侧栏常驻，不需要也不显示箭头。 */
+.day-heading .cal-arrow { display: none; }
+@media (max-width: 900px) {
+  .day-heading {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .day-heading .cal-arrow {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 400;
+    color: var(--text-dim);
+    transform: translateY(1px);
+  }
+  .day-heading:active { opacity: .6; }
+}
 .order-btn {
   font-size: 13px; padding: 5px 14px;
   border: 1px solid var(--border); border-radius: 999px;
@@ -1050,7 +1071,7 @@ body.light .post-iframe-wrap { background: #ffffff; }
       </div>
 
       <div class="day-topbar">
-        <div class="day-heading" id="day-heading">选择日期浏览</div>
+        <div class="day-heading" id="day-heading" onclick="openDatePicker()">选择日期浏览<span class="cal-arrow">▾</span></div>
         <button class="order-btn" id="order-btn" onclick="toggleOrder()">↑ 旧→新</button>
       </div>
 
@@ -1271,7 +1292,7 @@ async function switchAccount(dir) {
   document.getElementById('search-input').value = '';
   // 主内容区恢复欢迎页（避免显示上个账号的内容残留或空白）
   const dayHeading = document.getElementById('day-heading');
-  if (dayHeading) dayHeading.textContent = '选择日期浏览';
+  if (dayHeading) dayHeading.innerHTML = '选择日期浏览<span class="cal-arrow">▾</span>';
   const area = document.getElementById('content-area');
   if (area) area.innerHTML = `
       <div class="welcome">
@@ -1445,6 +1466,19 @@ function collapseAll(){ document.querySelectorAll('.tree-year,.tree-month').forE
 
 /* ── 手机端抽屉控制（≤640px）─────────────────────────── */
 function isMobile() { return window.matchMedia('(max-width: 900px)').matches; }
+/* 打开日期抽屉。桌面端侧栏常驻，点标题不做任何事。 */
+function openDatePicker() {
+  if (!isMobile()) return;
+  const sb = document.querySelector('.sidebar');
+  if (sb && sb.classList.contains('open')) { closeSidebar(); return; }
+  toggleSidebar();
+  // 抽屉里内容可能很长，滚到当前选中的那一天
+  requestAnimationFrame(() => {
+    const cur = sb && sb.querySelector('.day-item.active, .tree-day.active, .active');
+    if (cur && cur.scrollIntoView) cur.scrollIntoView({ block: 'center' });
+  });
+}
+
 function toggleSidebar() {
   const sb = document.querySelector('.sidebar');
   const ov = document.getElementById('sidebar-overlay');
@@ -1518,7 +1552,7 @@ function selectDay(dk, skipScroll = false) {
   const [y,m,d] = dk.split('-');
   const items = treeData[y]?.[m]?.[d]||[];
   document.getElementById('day-heading').innerHTML =
-    `${y}年${m}月${d}日<span class="dim">${items.length} 篇</span>`;
+    `${y}年${m}月${d}日<span class="dim">${items.length} 篇</span><span class="cal-arrow">▾</span>`;
 
   // 判断是否是最新那天，是的话在推文tab最前插入置顶
   const latestDay = getLatestDay();
@@ -2539,7 +2573,7 @@ function doSearch(kw) {
     if (found) { exactMode = true; exactItem = found; displayKw = trimmed; }
   }
 
-  document.getElementById('day-heading').innerHTML=`"${esc(displayKw)}"`;
+  document.getElementById('day-heading').innerHTML=`"${esc(displayKw)}"<span class="cal-arrow">▾</span>`;
 
   const area=document.getElementById('content-area');
 
@@ -2706,9 +2740,9 @@ function exitSearch() {
     const items=treeData[y]?.[m]?.[d]||[];
     renderDayView(items);
     document.getElementById('day-heading').innerHTML=
-      `${y}年${m}月${d}日<span class="dim">${items.length} 篇</span>`;
+      `${y}年${m}月${d}日<span class="dim">${items.length} 篇</span><span class="cal-arrow">▾</span>`;
   } else {
-    document.getElementById('day-heading').textContent='选择日期浏览';
+    document.getElementById('day-heading').innerHTML='选择日期浏览<span class="cal-arrow">▾</span>';
     document.getElementById('content-area').innerHTML=`
       <div class="welcome">
         <div class="welcome-icon">✦</div>
