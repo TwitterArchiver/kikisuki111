@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2088153622085570633",
+    "created_at": "2026-08-14T09:26:30.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088195549241741780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1816560099793731586",
+          "start": 0,
+          "username": "fk1LUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088195549241741780",
+    "in_reply_to_user_id": "1816560099793731586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088194650192650284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fk1LUV 🚬怎么惹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2088153622085570633",
+        "created_at": "2026-08-14T09:26:30.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088195549241741780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1816560099793731586",
+              "start": 0,
+              "username": "fk1LUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088195549241741780",
+        "in_reply_to_user_id": "1816560099793731586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088194650192650284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fk1LUV 🚬怎么惹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816560099793731586",
+        "conversation_id": "2088153622085570633",
+        "created_at": "2026-08-14T09:22:56.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088194650192650284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088194650192650284",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088153622085570633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 🚬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2088195549241741780",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025852742707945473/1771857062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 508,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-25T19:44:19.000Z",
+        "description": "悲傷克洛普拯救世界",
+        "id": "1816560099793731586",
+        "is_identity_verified": false,
+        "location": "耻辱柱",
+        "most_recent_tweet_id": "2088194650192650284",
+        "name": "sadkel00p",
+        "pinned_tweet_id": "1893048680565088507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816560099793731586/1723068358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886320992991236096/KfECQ5mt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 113,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "fk1LUV",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

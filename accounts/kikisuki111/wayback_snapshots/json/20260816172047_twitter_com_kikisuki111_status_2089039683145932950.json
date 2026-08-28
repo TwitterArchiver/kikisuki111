@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2089039683145932950",
+    "created_at": "2026-08-16T17:20:47.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089039683145932950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kikisuki111/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/kikisuki111/status/2082492851708166636",
+          "start": 7,
+          "url": "https://t.co/XhGXI3QvQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089039683145932950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082492851708166636",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是这句话。 https://t.co/XhGXI3QvQY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2089039683145932950",
+        "created_at": "2026-08-16T17:20:47.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089039683145932950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikisuki111/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/kikisuki111/status/2082492851708166636",
+              "start": 7,
+              "url": "https://t.co/XhGXI3QvQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089039683145932950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082492851708166636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是这句话。 https://t.co/XhGXI3QvQY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2082492851708166636",
+        "created_at": "2026-07-29T15:46:01.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082492851708166636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082492851708166636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1616,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人久了交到朋友就一直给他们花钱因为我害怕失去别人虽然我知道很多人只是觉得我好欺负"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2089039683145932950",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025852742707945473/1771857062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 504,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 998
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

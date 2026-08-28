@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "conversation_id": "2087390213903704310",
+    "created_at": "2026-08-12T04:06:23.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087390213903704310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009907458530258945",
+          "start": 3,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087390213903704310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086696559685554553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cOniqGBygQ16927: 别人的黑名单:曾经最爱的人\n我的黑名单:男婊子，大婊子，贱货，蠢逼，烂货，公狗，傻狗，母狗一枚，老鼠，死全家的，精神病，脑残，垃圾，社会败类，纸人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2087390213903704310",
+        "created_at": "2026-08-12T04:06:23.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087390213903704310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009907458530258945",
+              "start": 3,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087390213903704310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086696559685554553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cOniqGBygQ16927: 别人的黑名单:曾经最爱的人\n我的黑名单:男婊子，大婊子，贱货，蠢逼，烂货，公狗，傻狗，母狗一枚，老鼠，死全家的，精神病，脑残，垃圾，社会败类，纸人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2086696559685554553",
+        "created_at": "2026-08-10T06:10:03.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086696559685554553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086696559685554553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 69917,
+          "like_count": 2722,
+          "quote_count": 11,
+          "reply_count": 218,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "别人的黑名单:曾经最爱的人\n我的黑名单:男婊子，大婊子，贱货，蠢逼，烂货，公狗，傻狗，母狗一枚，老鼠，死全家的，精神病，脑残，垃圾，社会败类，纸人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2087390213903704310",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025852742707945473/1771857062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 509,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 988
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087333990328090669",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009907458530258945/1771914226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 22,
+          "like_count": 1582,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 1645
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
