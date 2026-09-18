@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095525367075512321"
+      ]
+    },
+    "author_id": "2025852742707945473",
+    "conversation_id": "2095525391037604196",
+    "created_at": "2026-09-03T14:52:40.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095525391037604196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9TMQEX3jdV",
+          "end": 29,
+          "expanded_url": "https://x.com/kikisuki111/status/2095525391037604196/video/1",
+          "media_key": "13_2095525367075512321",
+          "start": 6,
+          "url": "https://t.co/9TMQEX3jdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095525391037604196",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2095525367075512321"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地球人一次 https://t.co/9TMQEX3jdV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4548,
+        "height": 1280,
+        "media_key": "13_2095525367075512321",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095525367075512321/img/YfQtcT9kwsDVXSiA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095525367075512321/vid/avc1/320x568/aZlR11iLl0WbhC1h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095525367075512321/vid/avc1/480x852/PY85c65VGYZwu_da.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095525367075512321/vid/avc1/720x1280/G1j8Lz5sHgE05vOZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095525367075512321/pl/jVQoTF_UJ5hFBx_k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095525367075512321"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2095525391037604196",
+        "created_at": "2026-09-03T14:52:40.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095525391037604196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TMQEX3jdV",
+              "end": 29,
+              "expanded_url": "https://x.com/kikisuki111/status/2095525391037604196/video/1",
+              "media_key": "13_2095525367075512321",
+              "start": 6,
+              "url": "https://t.co/9TMQEX3jdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095525391037604196",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095525367075512321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地球人一次 https://t.co/9TMQEX3jdV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2095525391037604196",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2090195762303087033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025852742707945473/1771857062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 493,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
