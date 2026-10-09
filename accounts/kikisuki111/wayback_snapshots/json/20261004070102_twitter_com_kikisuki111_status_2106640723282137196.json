@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025852742707945473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Shaving and Grooming",
+          "id": "856575202972413952",
+          "name": "Shaving and grooming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Shaving",
+          "id": "856575648378134528",
+          "name": "Shaving"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shaving",
+          "id": "856575648378134528",
+          "name": "Shaving"
+        }
+      }
+    ],
+    "conversation_id": "2106640723282137196",
+    "created_at": "2026-10-04T07:01:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106640723282137196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2078307164469530624",
+          "start": 3,
+          "username": "SaltSugar100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106640723282137196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 323
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106385007095029770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaltSugar100: リスカ跡あるある⬇️\n\n・凸凹してるとこの毛が剃りにくい\n・よく一人の時傷ガン見しがち\n・傷が消えてきた時どんだけ経ったか考える\n・半袖の季節服より先に腕のことを考える\n・他人に腕を掴まれたり触られたりすると、そこだけ妙に意識する\n・長袖の時…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Shaving and Grooming",
+              "id": "856575202972413952",
+              "name": "Shaving and grooming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          }
+        ],
+        "conversation_id": "2106640723282137196",
+        "created_at": "2026-10-04T07:01:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106640723282137196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2078307164469530624",
+              "start": 3,
+              "username": "SaltSugar100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106640723282137196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 323
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106385007095029770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaltSugar100: リスカ跡あるある⬇️\n\n・凸凹してるとこの毛が剃りにくい\n・よく一人の時傷ガン見しがち\n・傷が消えてきた時どんだけ経ったか考える\n・半袖の季節服より先に腕のことを考える\n・他人に腕を掴まれたり触られたりすると、そこだけ妙に意識する\n・長袖の時…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078307164469530624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Shaving and Grooming",
+              "id": "856575202972413952",
+              "name": "Shaving and grooming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          }
+        ],
+        "conversation_id": "2106385007095029770",
+        "created_at": "2026-10-03T14:04:55.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106385007095029770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106385007095029770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 74669,
+          "like_count": 3740,
+          "quote_count": 63,
+          "reply_count": 15,
+          "retweet_count": 323
+        },
+        "reply_settings": "everyone",
+        "text": "リスカ跡あるある⬇️\n\n・凸凹してるとこの毛が剃りにくい\n・よく一人の時傷ガン見しがち\n・傷が消えてきた時どんだけ経ったか考える\n・半袖の季節服より先に腕のことを考える\n・他人に腕を掴まれたり触られたりすると、そこだけ妙に意識する\n・長袖の時の暑さは普通にしんどい"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2106640723282137196",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2090195762303087033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025852742707945473/1771857062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 487,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T02:34:43.000Z",
+        "description": "フォロワー急激に増えすぎて皆のアカウントがフォロバしにくくなったよごめんねඉ ඉ\n鍵垢👉@Soldout120 ゲーム垢👉@Nyaula_game100\n元凶@_Inthe_Dream \n# コンパスとニディガが好きです♡\nたまにコンパス動画上げてます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Soldout120"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "Nyaula_game100"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "_Inthe_Dream"
+              }
+            ]
+          }
+        },
+        "id": "2078307164469530624",
+        "is_identity_verified": false,
+        "location": "インターホンの前",
+        "most_recent_tweet_id": "2106640200692846853",
+        "name": "Nyaula",
+        "pinned_tweet_id": "2097450333748539775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078307164469530624/1786709281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088236494175772673/w9bqDEPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 557,
+          "like_count": 15670,
+          "listed_count": 15,
+          "media_count": 209,
+          "tweet_count": 2737
+        },
+        "url": "",
+        "username": "SaltSugar100",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
